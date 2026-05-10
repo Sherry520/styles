@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>GB/T 7714—2025 信息与文献 参考文献著录规则（2026-07-01实施）。仅在线出版期刊文章、网站、网页、预印本著录 URL。无 DOI。</summary>
-    <updated>2026-05-10T08:37:19+08:00</updated>
+    <updated>2026-05-10T09:26:24+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -70,7 +70,7 @@
   </macro>
   <macro name="author-intext-en">
     <names variable="composer">
-      <name form="short" delimiter="，"/>
+      <name form="short" delimiter="，" and="text"/>
       <substitute>
         <names variable="author"/>
         <names variable="illustrator"/>
@@ -90,7 +90,8 @@
   </macro>
   <macro name="author-intext-zh">
     <names variable="composer">
-      <name delimiter="，"/>
+      <name delimiter="，" and="text"/>
+      <et-al term="and others"/>
       <substitute>
         <names variable="author"/>
         <names variable="illustrator"/>

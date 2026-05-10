@@ -11,10 +11,10 @@
 （汪学军，2005）<br>
 （Praetzellis，2011）<br>
 （Wang，2022）<br>
-（扬奎斯特等，2010）<br>
+（扬奎斯特 等，2010）<br>
 （Jenkins et al.，2012）<br>
-（肖玲等，2024）<br>
-（于潇等，2012）<br>
+（肖玲 等，2024）<br>
+（于潇 等，2012）<br>
 （Veen et al.，2014）<br>
 
 
@@ -39,22 +39,22 @@
 张三 （2008）<br>
 （Jason，2008）<br>
 Jason （2008）<br>
-张三等 （2008a）<br>
+张三 等 （2008a）<br>
 Wang et al. （2009a）<br>
-（赵一等，2008a；Wolchik et al.，2009a）<br>
-张三等 （2008b）<br>
+（赵一 等，2008a；Wolchik et al.，2009a）<br>
+张三 等 （2008b）<br>
 Wang et al. （2009b）<br>
-（赵一等，2008b；Wolchik et al.，2009b）<br>
-张三等 （2019a）<br>
-张三等 （2019b）<br>
+（赵一 等，2008b；Wolchik et al.，2009b）<br>
+张三 等 （2019a）<br>
+张三 等 （2019b）<br>
 Qian et al. （2020a）<br>
 Qian et al. （2020b）<br>
-（张三等，2019a；Qian et al.，2020a）<br>
-张三等 （2020a）<br>
-张三等 （2020b）<br>
+（张三 等，2019a；Qian et al.，2020a）<br>
+张三 等 （2020a）<br>
+张三 等 （2020b）<br>
 Qian et al. （2009a）<br>
 Qian et al. （2009b）<br>
-（张三等，2020a）<br>
+（张三 等，2020a）<br>
 （Qian et al.，2009a）<br>
 （Wong，2007）<br>
 （Wong，2008）<br>
