@@ -24,7 +24,7 @@
   <div class="csl-entry">5	Wang X J. Progress and safety management of genetically modified organism research and development in China. In: Proceedings of China National Biosafety Framework Implementation International Cooperation Project Seminar. China Environmental Science Press, Beijing, 2005, pp. 22-25 (in Chinese)
     <div class="csl-block">汪学军. 中国农业转基因生物研发进展与安全管理. 见: 中国国家生物安全框架实施国际合作项目研讨会论文集. 中国环境科学出版社, 2005, pp. 22-25.</div>
   </div>
-  <div class="csl-entry">6	Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers. In: 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT). 2022, pp. 2.</div>
+  <div class="csl-entry">6	Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers. In: 2022 6th Asian Conference on Artificial Intelligence Technology. 2022, pp. 2.</div>
   <div class="csl-entry">7	Xiao L, Zhang X, Wang Y. Exploring statistical measurement methods for data elements. PSSXiv, 2024 (in Chinese)
     <div class="csl-block">肖玲, 张雪, 王永. 数据要素的统计测算方法探究. PSSXiv, 2024.</div>
   </div>
@@ -70,7 +70,7 @@
     <div class="csl-block">冯友兰. <i>冯友兰自选集</i>. 2 版. 首都师范大学出版社, 2008, pp. 第1版自序.</div>
   </div>
   <div class="csl-entry">8	1962, pp. 50 (in Chinese)
-    <div class="csl-block"><i>康熙字典</i>: 巳集上 水部. 同文书局影印本. 中华书局, 1962, pp. 50.</div>
+    <div class="csl-block"><i>康熙字典</i>: 巳集上 水部. 同文书局影印本. 中华书局, 1962, pp. 50.</div>
   </div>
   <div class="csl-entry">9	2019 (in Chinese)
     <div class="csl-block">战德臣, 张丽杰. <i>大学计算机：计算思维与信息素养</i>. 3 版. 高等教育出版社, 2019.</div>
@@ -101,7 +101,7 @@
   </div>
   <div class="csl-entry">18	Peebles P Z Jr. <i>Probability, random variable, and random signal principles</i>. 4th ed. McGraw-Hill, New York, 2001.</div>
   <div class="csl-entry">19	Sadock B J, Sadock V A, Ruiz P, et al. <i>Kaplan &#38; Sadock’s comprehensive textbook of psychiatry</i>: Vol. 1. 9th ed. Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, Philadelphia, 2009.</div>
-  <div class="csl-entry">20	Institute For Art And Architecture, Academy Of Fine Arts Vienna. <i>Wiener Hitze: architecture and storytelling in times of heat</i>. Park Books, Zürich, 2023, pp. 78.</div>
+  <div class="csl-entry">20	Institute for Art and Architecture, Academy of Fine Arts Vienna. <i>Wiener Hitze: architecture and storytelling in times of heat</i>. Park Books, Zürich, 2023, pp. 78.</div>
   <div class="csl-entry">21	Kinchy A. <i>Seeds, sciences, and struggle: the global politics of transgenic crops</i>. MIT Press, Cambridge, Mass., 2012, pp. 50.</div>
   <div class="csl-entry">22	Praetzellis A. <i>Death by theory: a tale of mystery and archaeological theory</i>. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011, pp. 13.</div>
   <div class="csl-entry">23	Torres L, Salisbury F, Yazbeck B, et al. <i>Connecting the library to the curriculum</i>. Springer Nature, Singapore, 2021, pp. 97.</div>
@@ -204,7 +204,7 @@
   <div class="csl-entry">66	2011 (in Chinese)
     <div class="csl-block">陈志勇. <i>中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集</i>. 经济科学出版社, 2011.</div>
   </div>
-  <div class="csl-entry">67	Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers. In: 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT). 2022, pp. 2.</div>
+  <div class="csl-entry">67	Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers. In: 2022 6th Asian Conference on Artificial Intelligence Technology. 2022, pp. 2.</div>
   <div class="csl-entry">68	Yu Y, Pan E, Wang X, et al. Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis. In: CVPR. 2024, pp. 4.</div>
   <div class="csl-entry">69	Yufin S A. <i>Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000</i>. A. A. Balkema, Rotterdam, 2000.</div>
   <div class="csl-entry">70	Babu B V, Nagar A, Deep K, et al. <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>. Springer, New Delhi, 2014.</div>
@@ -221,7 +221,7 @@
   <div class="csl-entry">75	
     <div class="csl-block">井丽南. 支持状态可编程的SDN交换机关键技术研究. 博士学位论文, 中国科学院大学.</div>
   </div>
-  <div class="csl-entry">76	Cairns B R. Infrared spectroscopic studies on solid oxygen. Doctoral dissertation, University of California, Berkeley.</div>
+  <div class="csl-entry">76	Cairns B R. Infrared spectroscopic studies on solid oxygen. Doctoral dissertation, University of California, Berkeley, Berkeley.</div>
   <div class="csl-entry">77	Christou A. Improving knowledge graph understanding with contextual views. Doctoral dissertation, Wright State University, Ohio.</div>
   <div class="csl-entry">78	2012 (in Chinese)
     <div class="csl-block">中国互联网络信息中心. 第29次中国互联网络发展状况统计报告. 2012.</div>
@@ -236,7 +236,7 @@
   <div class="csl-entry">82	U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001. U.S. Department of Commerce National Information Service, Springfield, 1990, pp. 25.</div>
   <div class="csl-entry">83	United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development. [2025].</div>
   <div class="csl-entry">84	GB/T 3792—2021. 2021 (in Chinese)
-    <div class="csl-block">全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021. 2021.</div>
+    <div class="csl-block">全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021. 2021.</div>
   </div>
   <div class="csl-entry">85	GB/T 20090.16—2016. 2016 (in Chinese)
     <div class="csl-block">全国信息技术标准化技术委员会. 信息技术 先进音视频编码 第16部分：广播电视视频: GB/T 20090.16—2016. 2016.</div>
@@ -250,10 +250,10 @@
   <div class="csl-entry">88	ISO. Audit data collection: ISO 21378:2019. 2019.</div>
   <div class="csl-entry">89	International Electrotechnical Commission (IEC). Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML): IEC/IEEE 61636-1:2021. IEEE, New York, 2021.</div>
   <div class="csl-entry">90	IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation: IEEE P802.11ba/D8.0-2020. IEEE, New York, 2020.</div>
-  <div class="csl-entry">91	American Institute of Aeronautics and Astronautics (AIAA). Guide to lithium battery safety for space applications: AIAA G-136-2022.</div>
-  <div class="csl-entry">92	Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods: ISO/IEC 80079-20-2:2016(en).</div>
-  <div class="csl-entry">93	ISO/IEC 80079-20-2:2016(fr) (in Chinese)
-    <div class="csl-block">Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles: ISO/IEC 80079-20-2:2016(fr).</div>
+  <div class="csl-entry">91	American Institute of Aeronautics and Astronautics (AIAA). Guide to lithium battery safety for space applications: AIAA G-136-2022. 2022.</div>
+  <div class="csl-entry">92	ISO. Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods: ISO/IEC 80079-20-2:2016(en). 2016.</div>
+  <div class="csl-entry">93	ISO/IEC 80079-20-2:2016(fr). 2016 (in Chinese)
+    <div class="csl-block">ISO. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles: ISO/IEC 80079-20-2:2016(fr). 2016.</div>
   </div>
   <div class="csl-entry">94	CN101106276A, 2008 (in Chinese)
     <div class="csl-block">邓一刚. 全智能节电器. CN101106276A, 2008.</div>
@@ -355,13 +355,13 @@
     <div class="csl-block">郑涵, 于贵瑞, 朱先进, 等. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据. Science Data Bank, 2018. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a>.</div>
   </div>
   <div class="csl-entry">133	2024. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a> (in Chinese)
-    <div class="csl-block">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）. 国家地理资源科学数据中心-黄土高原分中心, 2024. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>.</div>
+    <div class="csl-block">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）. 国家地球系统科学数据中心-黄土高原分中心, 2024. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>.</div>
   </div>
   <div class="csl-entry">134	2025. <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a> (in Chinese)
     <div class="csl-block">王继民, 罗鹏程, 赵常煜, 等. 人文社会科学数据集检索方法研究的数据集. 北京大学开放研究数据平台, 2025. <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>.</div>
   </div>
   <div class="csl-entry">135	Sugarman L, Markham S. Students in a selective high school: some vocationally oriented data. UK Data Service, 1980. <a href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996">https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996</a>.</div>
-  <div class="csl-entry">136	Zhong X, Yan Q, Li G. Long time series nighttime light dataset of China (2000-2020). Global Change Research Data Publishing &#38; Repository, 2022. <a href="http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>.</div>
+  <div class="csl-entry">136	Zhong X, Yan Q, Li G. Long time series nighttime light dataset of China: 2000–2020. Global Change Research Data Publishing &#38; Repository, 2022. <a href="https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>.</div>
   <div class="csl-entry">137	IHME. Global Burden of Disease Study 2019 (GBD2019) data resources. Global Health Data Exchange, 2021. <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a>.</div>
   <div class="csl-entry">138	2023 (in Chinese)
     <div class="csl-block">方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展. ChinaXiv, 2023.</div>

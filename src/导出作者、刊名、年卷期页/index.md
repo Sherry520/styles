@@ -114,7 +114,7 @@
     <div class="csl-left-margin">[19]</div><div class="csl-right-inline">Anonymous. . Sadock B J et al., eds.. 9 edition. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">Institute For Art And Architecture et al. . Zürich: Park Books, 2023: 78.</div>
+    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">Institute for Art and Architecture, Academy of Fine Arts Vienna. . Zürich: Park Books, 2023: 78.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[21]</div><div class="csl-right-inline">Kinchy. . Cambridge, Mass.: MIT Press, 2012: 50.</div>
@@ -282,7 +282,7 @@
     <div class="csl-left-margin">[75]</div><div class="csl-right-inline">井丽南. . 北京: 中国科学院大学, 2022: 43.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[76]</div><div class="csl-right-inline">Cairns. . Berkeley: University of California, 1965: 15.</div>
+    <div class="csl-left-margin">[76]</div><div class="csl-right-inline">Cairns. . Berkeley: University of California, Berkeley, 1965: 15.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[77]</div><div class="csl-right-inline">Christou. . Ohio: Wright State University, 2024: 18.</div>
@@ -330,10 +330,10 @@
     <div class="csl-left-margin">[91]</div><div class="csl-right-inline">American Institute of Aeronautics and Astronautics (AIAA). .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[92]</div><div class="csl-right-inline">Anonymous. .</div>
+    <div class="csl-left-margin">[92]</div><div class="csl-right-inline">ISO. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[93]</div><div class="csl-right-inline">佚名. .</div>
+    <div class="csl-left-margin">[93]</div><div class="csl-right-inline">ISO. .</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[94]</div><div class="csl-right-inline">邓一刚. . 2008-01-16.</div>
@@ -453,7 +453,7 @@
     <div class="csl-left-margin">[132]</div><div class="csl-right-inline">郑涵等. . Science Data Bank, 20182018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. . 国家地理资源科学数据中心-黄土高原分中心, 2024(2024-12-25).</div>
+    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. . 国家地球系统科学数据中心-黄土高原分中心, 2024(2024-12-25).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[134]</div><div class="csl-right-inline">王继民等. . 北京大学开放研究数据平台, 2025(2025-06-11).</div>

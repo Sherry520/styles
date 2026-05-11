@@ -78,7 +78,7 @@
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">冯友兰. 冯友兰自选集[M].第2版 北京: 首都师范大学出版社, 2008: 第1版自序.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">康熙字典[M].第同文书局影印本版 北京: 中华书局, 1962, 巳集上 水部: 50.</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">康熙字典[M].第同文书局影印本版 北京: 中华书局, 1962, 巳集上 水部: 50.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[9]</div><div class="csl-right-inline">战德臣, 张丽杰. 大学计算机：计算思维与信息素养[M].第3版 北京: 高等教育出版社, 2019.</div>
@@ -114,7 +114,7 @@
     <div class="csl-left-margin">[19]</div><div class="csl-right-inline">Kaplan &#38; Sadock’s comprehensive textbook of psychiatry[M]. Sadock, B.J., Sadock, V.A., Ruiz, P., et al. 9 edn. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009, 1.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">Institute For Art And Architecture, Academy Of Fine Arts Vienna. Wiener Hitze: architecture and storytelling in times of heat[M]. Zürich: Park Books, 2023: 78.</div>
+    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">Institute for Art and Architecture, Academy of Fine Arts Vienna. Wiener Hitze: architecture and storytelling in times of heat[M]. Zürich: Park Books, 2023: 78.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[21]</div><div class="csl-right-inline">Kinchy, A. Seeds, sciences, and struggle: the global politics of transgenic crops[M]. Cambridge, Mass.: MIT Press, 2012: 50.</div>
@@ -282,7 +282,7 @@
     <div class="csl-left-margin">[75]</div><div class="csl-right-inline">井丽南. 支持状态可编程的SDN交换机关键技术研究[D]. 北京: 中国科学院大学, 2022: 43.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[76]</div><div class="csl-right-inline">Cairns, B.R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: University of California, 1965: 15.</div>
+    <div class="csl-left-margin">[76]</div><div class="csl-right-inline">Cairns, B.R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: University of California, Berkeley, 1965: 15.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[77]</div><div class="csl-right-inline">Christou, A. Improving knowledge graph understanding with contextual views[D]. Ohio: Wright State University, 2024: 18.</div>
@@ -306,7 +306,7 @@
     <div class="csl-left-margin">[83]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development[R].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会. GB/T 3792—2021, 信息与文献 资源描述[S].</div>
+    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会. GB/T 3792—2021, 信息与文献 资源描述[S].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[85]</div><div class="csl-right-inline">全国信息技术标准化技术委员会. GB/T 20090.16—2016, 信息技术 先进音视频编码 第16部分：广播电视视频[S].</div>
@@ -330,10 +330,10 @@
     <div class="csl-left-margin">[91]</div><div class="csl-right-inline">American Institute of Aeronautics and Astronautics (AIAA). AIAA G-136-2022, Guide to lithium battery safety for space applications[S].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[92]</div><div class="csl-right-inline">ISO/IEC 80079-20-2:2016(en), Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods[S].</div>
+    <div class="csl-left-margin">[92]</div><div class="csl-right-inline">ISO. ISO/IEC 80079-20-2:2016(en), Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods[S].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[93]</div><div class="csl-right-inline">ISO/IEC 80079-20-2:2016(fr), Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles[S].</div>
+    <div class="csl-left-margin">[93]</div><div class="csl-right-inline">ISO. ISO/IEC 80079-20-2:2016(fr), Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles[S].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[94]</div><div class="csl-right-inline">邓一刚. 全智能节电器: 中国, CN101106276A[P].2008-01-16(CN200510022322.7 20051216): 8-9.</div>
@@ -453,7 +453,7 @@
     <div class="csl-left-margin">[132]</div><div class="csl-right-inline">郑涵, 于贵瑞, 朱先进, 等. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据[J].Science Data Bank, 2018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[J].国家地理资源科学数据中心-黄土高原分中心, 2024.</div>
+    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[J].国家地球系统科学数据中心-黄土高原分中心, 2024.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[134]</div><div class="csl-right-inline">王继民, 罗鹏程, 赵常煜, 等. 人文社会科学数据集检索方法研究的数据集[J].北京大学开放研究数据平台, 2025.</div>
@@ -462,7 +462,7 @@
     <div class="csl-left-margin">[135]</div><div class="csl-right-inline">Sugarman, L., Markham, S. Students in a selective high school: some vocationally oriented data[J].UK Data Service, 1980.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[136]</div><div class="csl-right-inline">Zhong, X., Yan, Q., Li, G. Long time series nighttime light dataset of China (2000-2020)[J].Global Change Research Data Publishing &#38; Repository, 2022.</div>
+    <div class="csl-left-margin">[136]</div><div class="csl-right-inline">Zhong, X., Yan, Q., Li, G. Long time series nighttime light dataset of China: 2000–2020[J].Global Change Research Data Publishing &#38; Repository, 2022.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[137]</div><div class="csl-right-inline">IHME. Global Burden of Disease Study 2019 (GBD2019) data resources[J].Global Health Data Exchange, 2021.</div>

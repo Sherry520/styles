@@ -104,7 +104,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">何筱梅. 2016. 新媒体时代原生广告的策略与发展研究[D]. 武汉大学博士学位论文: 24-25.</div>
   <div class="csl-entry">胡健民. 2021. 东南极拉斯曼丘陵地区地质图[CM]. 北京: 科学出版社.</div>
   <div class="csl-entry">湖北省建设厅. 1931. 湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令[Z]. 武汉: 湖北省档案馆.</div>
-  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 2024. 青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]. 国家地理资源科学数据中心-黄土高原分中心. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>, 2025年7月10日.</div>
+  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 2024. 青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]. 国家地球系统科学数据中心-黄土高原分中心. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>, 2025年7月10日.</div>
   <div class="csl-entry">冀超. 2001. 一种荒漠化地区生态植被综合培育种植方法: CN1318281A[P]. 2001-10-24.</div>
   <div class="csl-entry">贾东琴, 柯平. 2011. 面向数字素养的高校图书馆数字服务体系研究[A]. 中国图书馆学会主编. 中国图书馆学会年会论文集: 2011年卷[C]. 北京: 国家图书馆出版社: 45-52.</div>
   <div class="csl-entry">金燕萍. 2020. 社交媒体时代的虚假信息研究[D]. 温州大学硕士学位论文: 16.</div>
@@ -124,7 +124,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">彭守璋. 2024. 1901—2023年中国1km分辨率逐月降水量数据集[DS/OL]. 西北农林科技大学水土保持研究所. <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a>, 2024年11月25日.</div>
   <div class="csl-entry">钱学森. 2001. 创建系统学[M]. 太原: 山西科学技术出版社: 序2-3.</div>
   <div class="csl-entry">全国信息技术标准化技术委员会. 2016. 信息技术 先进音视频编码 第16部分：广播电视视频: GB/T 20090.16—2016[S].</div>
-  <div class="csl-entry">全国信息与文献标准化技术委员会. 2021. 信息与文献 资源描述: GB/T 3792—2021[S].</div>
+  <div class="csl-entry">全国信息与文献标准化技术委员会. 2021. 信息与文献 资源描述: GB/T 3792—2021[S].</div>
   <div class="csl-entry">石顺祥, 许海平, 孙艳玲等. 2002. 光折变自适应光外差探测方法: CN1338652A[P]. 2002-03-06.</div>
   <div class="csl-entry">史国华, 樊金宇, 何益, <i>et al.</i> 2022. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法: JP2022539784A[P]. 2022-09-13.</div>
   <div class="csl-entry">谭其骧. 1982. 中国历史地图集: 第2册[CM]. 北京: 地图出版社: 6.</div>
@@ -165,25 +165,23 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">周壮, 李盛阳, 吴薇等. 2023. 天宫二号遥感图像自然景物分类数据集[DS/OL]. 国家基础学科公共科学数据中心. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>, 2025年7月15日.</div>
   <div class="csl-entry">訾冬梅, 高秀静. 2006. 内蒙古自治区地图册[CM]. 新版. 北京: 中国地图出版社.</div>
   <div class="csl-entry">American Association for the Advancement of Science. 1883. Science[J]. 1883, 1883，1（1）—. Washington, D.C.: American Association for the Advancement of Science.</div>
-  <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA). Guide to Lithium Battery Safety for Space Applications: AIAA G-136-2022[S].</div>
+  <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA). 2022. Guide to Lithium Battery Safety for Space Applications: AIAA G-136-2022[S].</div>
   <div class="csl-entry">佚名. 1949. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[Z]. 武汉: 武汉大学档案馆.</div>
-  <div class="csl-entry">佚名. 1962. 康熙字典: 巳集上 水部[M]. 同文书局影印本. 北京: 中华书局: 50.</div>
+  <div class="csl-entry">佚名. 1962. 康熙字典: 巳集上 水部[M]. 同文书局影印本. 北京: 中华书局: 50.</div>
   <div class="csl-entry">Anon. 1979. Public Library Quarterly[J]. 1979, 1979，1（1）—. Philadelphia: Taylor &#38; Francis.</div>
   <div class="csl-entry">佚名. 2011. 周易外传：卷5[A]. 王夫之主编. 船山全书: 第1册[C]. 修订版. 长沙: 岳麓书社: 983-1029.</div>
   <div class="csl-entry">佚名. 2020. 大黄[A]. 国家药典委员会主编. 中华人民共和国药典: 一部[C]. 2020版. 北京: 中国医药科技出版社: 24-25.</div>
   <div class="csl-entry">Anon. 2020. IEEE Approved Draft Standard for Information Technology--Telecommunications and Information Exchange between Systems Local and Metropolitan Area Networks--Specific Requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 3: Wake-up Radio Operation: IEEE P802.11ba/D8.0-2020[S]. New York: IEEE.</div>
-  <div class="csl-entry">Anon. [2020a]. Library of Congress[EB/OL]. <a href="https://www.loc.gov/">https://www.loc.gov/</a>, 2020年6月12日.</div>
+  <div class="csl-entry">Anon. [2020]. Library of Congress[EB/OL]. <a href="https://www.loc.gov/">https://www.loc.gov/</a>, 2020年6月12日.</div>
   <div class="csl-entry">佚名. 2023a. [《昨日之歌》图书封面][Z].</div>
   <div class="csl-entry">佚名. 2023b. 西黄丸[EB/OL]. <a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a>, 2025年8月26日.</div>
   <div class="csl-entry">Anon. 2024. Coastal Wetlands Map of China Continent[CM]. Beijing: China Ocean Press: 50.</div>
-  <div class="csl-entry">Anon. Explosive Atmospheres — Part 20-2: Material Characteristics — Combustible Dusts Test Methods: ISO/IEC 80079-20-2:2016(en)[S].</div>
-  <div class="csl-entry">Anon. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles: ISO/IEC 80079-20-2:2016(fr)[S].</div>
   <div class="csl-entry">António M., L. Pepper. 2019. Histórias de Portugal: livros caídos[EB/OL]. <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a>, 2025年1月2日.</div>
   <div class="csl-entry">Babu B. V., A. Nagar, K. Deep, <i>et al.</i> 2014. <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>[M]. New Delhi: Springer.</div>
   <div class="csl-entry">Bevington D., J. R. Brown. 2025. William Shakespeare[EB/OL]. <a href="https://www.britannica.com/biography/William-Shakespeare">https://www.britannica.com/biography/William-Shakespeare</a>, 2025年1月3日.</div>
   <div class="csl-entry">Bloss C. S., N. E. Wineinger, M. Peters, <i>et al.</i> 2015. A Prospective Randomized Trial Examining Health Care Utilization in Individuals Using Multiple Smartphone-Enabled Biosensors[Z/OL]. bioRxiv. <a href="https://doi.org/10.1101/029983">https://doi.org/10.1101/029983</a>, 2018年7月12日.</div>
   <div class="csl-entry">Boobier T. 2020. <i>AI and the Future of Banking</i>[M]. Chichester: John Wiley &#38; Sons: 35.</div>
-  <div class="csl-entry">Cairns B. R. 1965. Infrared Spectroscopic Studies on Solid Oxygen[D]. University of California Doctoral dissertation: 15.</div>
+  <div class="csl-entry">Cairns B. R. 1965. Infrared Spectroscopic Studies on Solid Oxygen[D]. University of California, Berkeley Doctoral dissertation: 15.</div>
   <div class="csl-entry">Calkin D. E., A. A. Ager, M. P. Thompson. 2011. A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report: RMRS-GTR-262[R]. 8-9.</div>
   <div class="csl-entry">Caplan P. 1993. Cataloging Internet Resources[J]. <i>The Public-Access Computer Systems Review</i>, 4(2): 61-66.</div>
   <div class="csl-entry">Christou A. 2024. Improving Knowledge Graph Understanding with Contextual Views[D]. Wright State University Doctoral dissertation: 18.</div>
@@ -194,13 +192,15 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Fourney M. E. 1971. Advances in Holographic Photoelasticity[A]. In W. G. Gottenberg ed. <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>[C]. New York: ASME: 17-38.</div>
   <div class="csl-entry">Frese K. S., H. A. Katus, B. Meder. 2013. Next-Generation Sequencing: From Understanding Biology to Personalized Medicine[J]. <i>Biology</i>, 2(1): 378-398.</div>
   <div class="csl-entry">IHME. 2021. Global Burden of Disease Study 2019 (GBD2019) Data Resources[DS/OL]. Global Health Data Exchange. <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a>, 2024年11月25日.</div>
-  <div class="csl-entry">Institute For Art And Architecture, Academy Of Fine Arts Vienna. 2023. <i>Wiener Hitze: Architecture and Storytelling in Times of Heat</i>[M]. Zürich: Park Books: 78.</div>
+  <div class="csl-entry">Institute for Art and Architecture, Academy of Fine Arts Vienna. 2023. <i>Wiener Hitze: Architecture and Storytelling in Times of Heat</i>[M]. Zürich: Park Books: 78.</div>
   <div class="csl-entry">International Electrotechnical Commission (IEC). 2021. Software Interface for Maintenance Information Collection and Analysis (SIMICA): Exchanging Test Results and Session Information via the eXtensible Markup Language (XML): IEC/IEEE 61636-1:2021[S]. New York: IEEE.</div>
   <div class="csl-entry">International Organization for Standardization. [2020]. ISO Homepage[EB/OL]. <a href="https://www.iso.org/home.html">https://www.iso.org/home.html</a>, 2020年10月6日.</div>
+  <div class="csl-entry">ISO. 2016a. Explosive Atmospheres — Part 20-2: Material Characteristics — Combustible Dusts Test Methods: ISO/IEC 80079-20-2:2016(en)[S].</div>
+  <div class="csl-entry">ISO. 2016b. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles: ISO/IEC 80079-20-2:2016(fr)[S].</div>
   <div class="csl-entry">ISO. 2019. Audit Data Collection: ISO 21378:2019[S].</div>
   <div class="csl-entry">Jenkins S. D., J. Ruostekoski. 2012. Controlled Manipulation of Light by Cooperative Response of Atoms in an Optical Lattice[Z/OL]. arXiv:1112.6136, arXiv. <a href="https://doi.org/10.48550/arXiv.1112.6136">https://doi.org/10.48550/arXiv.1112.6136</a>, 2020年6月24日.</div>
   <div class="csl-entry">Kinchy A. 2012. <i>Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops</i>[M]. Cambridge, Mass.: MIT Press: 50.</div>
-  <div class="csl-entry">Myburg A. A., D. Grattapaglia, G. A. Tuskan, <i>et al.</i> 2014. The Genome of <i>Eucalyptus Grandis</i>[J]. <i>Nature</i>, 510: 356-362.</div>
+  <div class="csl-entry">Myburg A. A., D. Grattapaglia, G. A. Tuskan, <i>et al.</i> 2014. The Genome of <i>Eucalyptus grandis</i>[J]. <i>Nature</i>, 510: 356-362.</div>
   <div class="csl-entry">Park J. R., Y. Tosaka. 2010. Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms[J]. <i>Cataloging &#38; Classification Quarterly</i>, 48(8): 696-715.</div>
   <div class="csl-entry">Peebles P. Z. Jr. 2001. <i>Probability, Random Variable, and Random Signal Principles</i>[M]. 4th ed. New York: McGraw-Hill.</div>
   <div class="csl-entry">Praetzellis A. 2011. <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>[M]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc.: 13.</div>
@@ -216,11 +216,11 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">United Nations Department of Economic and Social Affairs. [2025]. United Nations E-Government Survey 2024: Accelerating Digital Transformation for Sustainable Development[R].</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. 1990. Guidelines for Handling Excavated Acid-Producing Material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service: 25.</div>
   <div class="csl-entry">Veen P. H. van der, M. Muller, K. L. Vincken, <i>et al.</i> 2014. Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study[J]. <i>Journal of the Neurological Sciences</i>, 337(1/2): 112-118.</div>
-  <div class="csl-entry">Wang S. 2022. Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers[Z]. In 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT). Changzhou, China, December: 2.</div>
+  <div class="csl-entry">Wang S. 2022. Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers[Z]. In 2022 6th Asian Conference on Artificial Intelligence Technology. Changzhou, China, December: 2.</div>
   <div class="csl-entry">Weinstein L., M. N. Swartz. 1974. Pathogenic Properties of Invading Microorganisms[A]. In William A. Sodeman Jr. and William A. Sodeman eds. <i>Pathologic Physiology: Mechanisms of Disease</i>[C]. 5th ed. Philadelphia: Saunders: 457-472.</div>
   <div class="csl-entry">Yu Y., E. Pan, X. Wang, <i>et al.</i> 2024. Unmixing before Fusion: A Generalized Paradigm for Multi-Source-Based Hyperspectral Image Synthesis[Z]. In CVPR. Seattle: 4.</div>
   <div class="csl-entry">Yufin S. A. 2000. <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000</i>[M]. Rotterdam: A. A. Balkema.</div>
-  <div class="csl-entry">Zhong X., Q. Yan, G. Li. 2022. Long Time Series Nighttime Light Dataset of China (2000-2020)[DS/OL]. Global Change Research Data Publishing &#38; Repository. <a href="http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>, 2024年11月25日.</div>
+  <div class="csl-entry">Zhong X., Q. Yan, G. Li. 2022. Long Time Series Nighttime Light Dataset of China: 2000–2020[DS/OL]. Global Change Research Data Publishing &#38; Repository. <a href="https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>, 2024年11月25日.</div>
   <div class="csl-entry">Zotero. [2024]. [Zotero Download][EB/OL]. <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a>, 2024年4月8日.</div>
 </div>
 

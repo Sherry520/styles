@@ -90,7 +90,7 @@
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">2008 p第1版自序 (in Chinese) [冯友兰 2008 冯友兰自选集 (2 版) (北京: 首都师范大学出版社) p第1版自序]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">1962 p50 (in Chinese) [1962 康熙字典 (同文书局影印本, 巳集上 水部) (北京: 中华书局) p50]</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">1962 p50 (in Chinese) [1962 康熙字典 (同文书局影印本, 巳集上 水部) (北京: 中华书局) p50]</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[9]</div><div class="csl-right-inline">2019 (in Chinese) [战德臣, 张丽杰 2019 大学计算机：计算思维与信息素养 (3 版) (北京: 高等教育出版社)]</div>
@@ -126,7 +126,7 @@
     <div class="csl-left-margin">[19]</div><div class="csl-right-inline">Sadock B J, Sadock V A, Ruiz P, Kaplan H I 2009 <i>Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry</i> (9th ed., Vol. 1) (Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins)</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">Institute For Art And Architecture, Academy Of Fine Arts Vienna 2023 <i>Wiener Hitze: Architecture and Storytelling in Times of Heat</i> (Zürich: Park Books) p78</div>
+    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">Institute for Art and Architecture, Academy of Fine Arts Vienna 2023 <i>Wiener Hitze: Architecture and Storytelling in Times of Heat</i> (Zürich: Park Books) p78</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[21]</div><div class="csl-right-inline">Kinchy A 2012 <i>Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops</i> (Cambridge, Mass.: MIT Press) p50</div>
@@ -267,7 +267,7 @@
     <div class="csl-left-margin">[66]</div><div class="csl-right-inline">2011 (in Chinese) [陈志勇 2011 中国财税文化价值研究：《中国财税文化国际学术研讨会》论文集 (北京: 经济科学出版社)]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[67]</div><div class="csl-right-inline">Wang S 2022 <i>2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)</i> Changzhou, China p2</div>
+    <div class="csl-left-margin">[67]</div><div class="csl-right-inline">Wang S 2022 <i>2022 6th Asian Conference on Artificial Intelligence Technology</i> Changzhou, China p2</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[68]</div><div class="csl-right-inline">Yu Y, Pan E, Wang X, Wu Y, Mei X, Ma J 2024 <i>CVPR</i> Seattle p4</div>
@@ -294,7 +294,7 @@
     <div class="csl-left-margin">[75]</div><div class="csl-right-inline">2022 <i>Ph.D Dissertation</i> p43 (in Chinese) [井丽南 2022 博士学位论文 (北京: 中国科学院大学) p43]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[76]</div><div class="csl-right-inline">Cairns B R 1965 <i>Doctoral Dissertation</i> (Berkeley: University of California) p15</div>
+    <div class="csl-left-margin">[76]</div><div class="csl-right-inline">Cairns B R 1965 <i>Doctoral Dissertation</i> (Berkeley: University of California, Berkeley) p15</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[77]</div><div class="csl-right-inline">Christou A 2024 <i>Doctoral Dissertation</i> (Ohio: Wright State University) p18</div>
@@ -318,7 +318,7 @@
     <div class="csl-left-margin">[83]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs n.d. <i>United Nations E-Government Survey 2024: Accelerating Digital Transformation for Sustainable Development</i> No.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">2021 No. GB/T 3792—2021 (in Chinese) [全国信息与文献标准化技术委员会 2021 信息与文献 资源描述 No. GB/T 3792—2021]</div>
+    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">2021 No. GB/T 3792—2021 (in Chinese) [全国信息与文献标准化技术委员会 2021 信息与文献 资源描述 No. GB/T 3792—2021]</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[85]</div><div class="csl-right-inline">2016 No. GB/T 20090.16—2016 (in Chinese) [全国信息技术标准化技术委员会 2016 <i>信息技术 先进音视频编码 第16部分：广播电视视频</i> No. GB/T 20090.16—2016]</div>
@@ -339,13 +339,13 @@
     <div class="csl-left-margin">[90]</div><div class="csl-right-inline">2020 <i>IEEE Approved Draft Standard for Information Technology--Telecommunications and Information Exchange between Systems Local and Metropolitan Area Networks--Specific Requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 3: Wake-up Radio Operation</i> No. IEEE P802.11ba/D8.0-2020 (New York: IEEE)</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[91]</div><div class="csl-right-inline">American Institute of Aeronautics and Astronautics (AIAA) n.d. <i>Guide to Lithium Battery Safety for Space Applications</i> No. AIAA G-136-2022</div>
+    <div class="csl-left-margin">[91]</div><div class="csl-right-inline">American Institute of Aeronautics and Astronautics (AIAA) 2022 <i>Guide to Lithium Battery Safety for Space Applications</i> No. AIAA G-136-2022</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[92]</div><div class="csl-right-inline">N.d. <i>Explosive Atmospheres — Part 20-2: Material Characteristics — Combustible Dusts Test Methods</i> No. ISO/IEC 80079-20-2:2016(en)</div>
+    <div class="csl-left-margin">[92]</div><div class="csl-right-inline">ISO 2016 <i>Explosive Atmospheres — Part 20-2: Material Characteristics — Combustible Dusts Test Methods</i> No. ISO/IEC 80079-20-2:2016(en)</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[93]</div><div class="csl-right-inline">N.d. <i>Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles</i> No. ISO/IEC 80079-20-2:2016(fr)</div>
+    <div class="csl-left-margin">[93]</div><div class="csl-right-inline">ISO 2016 <i>Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles</i> No. ISO/IEC 80079-20-2:2016(fr)</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[94]</div><div class="csl-right-inline">2008 <i>中国 专利</i> CN101106276A pp8–9 (in Chinese) [邓一刚 2008 <i>中国 专利</i> CN101106276A pp8–9]</div>
@@ -456,7 +456,7 @@
     <div class="csl-left-margin">[129]</div><div class="csl-right-inline"><a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a> [2024-11-25] (in Chinese) [彭守璋 (西北农林科技大学水土保持研究所) <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a> [2024-11-25]]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[130]</div><div class="csl-right-inline"><a href="https://doi.org/10.3972/glacier001.2013.db">https://doi.org/10.3972/glacier001.2013.db</a> [2024-11-25] (in Chinese) [刘时银, 郭万钦, 许君利 (中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室) <a href="https://doi.org/10.3972/glacier001.2013.db">https://doi.org/10.3972/glacier001.2013.db</a> [2024-11-25]]</div>
+    <div class="csl-left-margin">[130]</div><div class="csl-right-inline"><a href="https://doi.org/10.3972/glacier.001.2013.db">https://doi.org/10.3972/glacier.001.2013.db</a> [2024-11-25] (in Chinese) [刘时银, 郭万钦, 许君利 (中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室) <a href="https://doi.org/10.3972/glacier.001.2013.db">https://doi.org/10.3972/glacier.001.2013.db</a> [2024-11-25]]</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[131]</div><div class="csl-right-inline"><a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a> [2025-7-15] (in Chinese) [周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松, 赵子飞 (国家基础学科公共科学数据中心) <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a> [2025-7-15]]</div>
@@ -465,7 +465,7 @@
     <div class="csl-left-margin">[132]</div><div class="csl-right-inline"><a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a> [2025-2-14] (in Chinese) [郑涵, 于贵瑞, 朱先进, 王秋凤, 张雷明, 陈智, 孙晓敏, 何洪林, 苏文, 王艳芬, 韩士杰, 周国逸, 赵新全, 王辉民, 欧阳竹, 张宪洲, 张扬建, 石培礼, 李英年, 赵亮, 张一平, 闫俊华, 王安志, 张军辉, 郝彦斌, 赵风华, 张法伟, 周广胜, 林光辉, 陈世苹, 刘绍民, 赵斌, 贾根锁, 张旭东, 张玉翠, 古松, 刘文兆, 李彦, 王文杰, 杨大文, 张劲松, 张志强, 赵仲辉, 周石硚, 郭海强, 沈彦俊, 徐自为, 黄辉, 孟平 (Science Data Bank) <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a> [2025-2-14]]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[133]</div><div class="csl-right-inline"><a href="https://doi.org/10.12041/geodata.58691800703558.ver1.db">https://doi.org/10.12041/geodata.58691800703558.ver1.db</a> [2025-7-10] (in Chinese) [黄土高原科学数据中心（西北农林科技大学水土保持研究所） (国家地理资源科学数据中心-黄土高原分中心) <a href="https://doi.org/10.12041/geodata.58691800703558.ver1.db">https://doi.org/10.12041/geodata.58691800703558.ver1.db</a> [2025-7-10]]</div>
+    <div class="csl-left-margin">[133]</div><div class="csl-right-inline"><a href="https://doi.org/10.12041/geodata.58691800703558.ver1.db">https://doi.org/10.12041/geodata.58691800703558.ver1.db</a> [2025-7-10] (in Chinese) [黄土高原科学数据中心（西北农林科技大学水土保持研究所） (国家地球系统科学数据中心-黄土高原分中心) <a href="https://doi.org/10.12041/geodata.58691800703558.ver1.db">https://doi.org/10.12041/geodata.58691800703558.ver1.db</a> [2025-7-10]]</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[134]</div><div class="csl-right-inline"><a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a> [2025-7-10] (in Chinese) [王继民, 罗鹏程, 赵常煜, 郭鑫, 王世奇, 高正 (北京大学开放研究数据平台) <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a> [2025-7-10]]</div>
@@ -474,7 +474,7 @@
     <div class="csl-left-margin">[135]</div><div class="csl-right-inline">Sugarman L, Markham S (UK Data Service) <a href="https://doi.org/10.5255/UKDA-SN-996-1">https://doi.org/10.5255/UKDA-SN-996-1</a> [2025-7-10]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[136]</div><div class="csl-right-inline">Zhong X, Yan Q, Li G (Global Change Research Data Publishing &#38; Repository) <a href="http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a> [2024-11-25]</div>
+    <div class="csl-left-margin">[136]</div><div class="csl-right-inline">Zhong X, Yan Q, Li G (Global Change Research Data Publishing &#38; Repository) <a href="https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a> [2024-11-25]</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[137]</div><div class="csl-right-inline">IHME (Global Health Data Exchange) <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a> [2024-11-25]</div>

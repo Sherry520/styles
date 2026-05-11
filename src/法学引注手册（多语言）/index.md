@@ -90,7 +90,7 @@
 <sup>5</sup> 顾炎武：《昌平山水记；京东考古录》，北京古籍出版社1980年版。<br>
 <sup>6</sup> 钱学森：《创建系统学》，山西科学技术出版社2001年版。<br>
 <sup>7</sup> 冯友兰：《冯友兰自选集》（第2版），首都师范大学出版社2008年版。<br>
-<sup>8</sup> 《康熙字典》（同文书局影印本巳集上 水部），中华书局1962年版。<br>
+<sup>8</sup> 《康熙字典》（同文书局影印本巳集上 水部），中华书局1962年版。<br>
 <sup>9</sup> 战德臣、张丽杰：《大学计算机：计算思维与信息素养》（第3版），高等教育出版社2019年版。<br>
 <sup>10</sup> 哈里森、沃尔德伦：《经济数学与金融数学》，谢远涛译，中国人民大学出版社2012年版。<br>
 <sup>11</sup> 牛永敢、孔晓等主编：《鼻整形应用解剖学》，人民卫生出版社2019年版。<br>
@@ -102,7 +102,7 @@
 <sup>17</sup> 図書館用語辞典編集委員会編『最新図書館用語大辞典』（柏書房株式会社，2004年）。<br>
 <sup>18</sup> Peyton Z. Peebles, Jr., <i>Probability, Random Variable, and Random Signal Principles</i>, McGraw-Hill, 2001.<br>
 <sup>19</sup> Benjamin J. Sadock, Virginia Alcott Sadock, et al. eds., <i>Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry</i>, Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.<br>
-<sup>20</sup> Institute For Art And Architecture &#38; Academy Of Fine Arts Vienna, <i>Wiener Hitze: Architecture and Storytelling in Times of Heat</i>, Park Books, 2023.<br>
+<sup>20</sup> Institute for Art and Architecture, Academy of Fine Arts Vienna, <i>Wiener Hitze: Architecture and Storytelling in Times of Heat</i>, Park Books, 2023.<br>
 <sup>21</sup> Abby Kinchy, <i>Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops</i>, MIT Press, 2012.<br>
 <sup>22</sup> Adrian Praetzellis, <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>, Rowman &#38; Littlefield Publishing Group, Inc., 2011.<br>
 <sup>23</sup> Lynette Torres, Fiona Salisbury, et al. eds., <i>Connecting the Library to the Curriculum</i>, Springer Nature, 2021.<br>
@@ -138,7 +138,7 @@
 <sup>53</sup> David J. Des Marais, Harald Strauss, et al., <i>Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment</i>, 359 Nature 605 (1992).<br>
 <sup>54</sup> Jung-Ran Park &#38; Yuji Tosaka, <i>Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms</i>, 48 Cataloging &#38; Classification Quarterly 696 (2010).<br>
 <sup>55</sup> Karen S. Frese, Hugo A. Katus &#38; Benjamin Meder, <i>Next-Generation Sequencing: From Understanding Biology to Personalized Medicine</i>, 2 Biology 378 (2013).<br>
-<sup>56</sup> Alexander A. Myburg, Dario Grattapaglia, et al., <i>The Genome of <span style="font-style:normal;">Eucalyptus Grandis</span></i>, 510 Nature 356 (2014).<br>
+<sup>56</sup> Alexander A. Myburg, Dario Grattapaglia, et al., <i>The Genome of <span style="font-style:normal;">Eucalyptus grandis</span></i>, 510 Nature 356 (2014).<br>
 <sup>57</sup> Roger D. Santer &#38; Otar Akanyeti, <i>Using Artificial Neural Networks to Explain the Attraction of Jewel Beetles (Coleoptera: Buprestidae) to Colored Traps</i>, Insect Science (2025).<br>
 <sup>58</sup> Hiroshi Shinotsuka, Kenji Nagata, et al., <i>Sample Structure Prediction from Measured XPS Data Using Bayesian Estimation and SESSA Simulator</i>, 267 Journal of Electron Spectroscopy and Related Phenomena (2023).<br>
 <sup>59</sup> Pieternella H. van der Veen, Majon Muller, et al., <i>Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study</i>, 337 Journal of the Neurological Sciences 112 (2014).<br>
@@ -158,7 +158,7 @@
 <sup>73</sup> 金燕萍：《社交媒体时代的虚假信息研究》，温州大学2020年硕士学位论文。<br>
 <sup>74</sup> 何筱梅：《新媒体时代原生广告的策略与发展研究》，武汉大学2016年博士学位论文。<br>
 <sup>75</sup> 井丽南：《支持状态可编程的SDN交换机关键技术研究》，中国科学院大学2022年博士学位论文。<br>
-<sup>76</sup> Bruce Richard Cairns, <i>Infrared Spectroscopic Studies on Solid Oxygen</i>, University of California, 1965.<br>
+<sup>76</sup> Bruce Richard Cairns, <i>Infrared Spectroscopic Studies on Solid Oxygen</i>, University of California, Berkeley, 1965.<br>
 <sup>77</sup> Antrea Christou, <i>Improving Knowledge Graph Understanding with Contextual Views</i>, Wright State University, 2024.<br>
 <sup>78</sup> 中国互联网络信息中心：《第29次中国互联网络发展状况统计报告》，2012年1月16日。<br>
 <sup>79</sup> 汤万金、杨跃翔等：《人体安全重要技术标准研制最终报告》，2013年9月30日。<br>
@@ -166,16 +166,16 @@
 <sup>81</sup> David E. Calkin, Alan A. Ager &#38; Matthew P. Thompson, <i>A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report</i>, 2011.<br>
 <sup>82</sup> U.S. Department of Transportation Federal Highway Administration, <i>Guidelines for Handling Excavated Acid-Producing Material</i>, U.S. Department of Commerce National Information Service, 1990.<br>
 <sup>83</sup> United Nations Department of Economic and Social Affairs, <i>United Nations E-Government Survey 2024: Accelerating Digital Transformation for Sustainable Development</i>.<br>
-<sup>84</sup> 全国信息与文献标准化技术委员会《信息与文献 资源描述》，GB/T 3792—2021。<br>
+<sup>84</sup> 全国信息与文献标准化技术委员会《信息与文献 资源描述》，GB/T 3792—2021。<br>
 <sup>85</sup> 全国信息技术标准化技术委员会《信息技术 先进音视频编码 第16部分：广播电视视频》，GB/T 20090.16—2016。<br>
 <sup>86</sup> 工业和信息化部《信息技术  中文编码字符集》，GB 18030—2022。<br>
 <sup>87</sup> 国家能源局《水电工程水温实时监测系统技术规范》，NB/T 10386—2020。<br>
 <sup>88</sup> ISO, <i>Audit Data Collection</i>, 2019.<br>
 <sup>89</sup> International Electrotechnical Commission (IEC), <i>Software Interface for Maintenance Information Collection and Analysis (SIMICA): Exchanging Test Results and Session Information via the eXtensible Markup Language (XML)</i>, IEEE, 2021.<br>
 <sup>90</sup> <i>IEEE Approved Draft Standard for Information Technology--Telecommunications and Information Exchange between Systems Local and Metropolitan Area Networks--Specific Requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 3: Wake-up Radio Operation</i>, IEEE, 2020.<br>
-<sup>91</sup> American Institute of Aeronautics and Astronautics (AIAA), <i>Guide to Lithium Battery Safety for Space Applications</i>.<br>
-<sup>92</sup> <i>Explosive Atmospheres — Part 20-2: Material Characteristics — Combustible Dusts Test Methods</i>.<br>
-<sup>93</sup> Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles.<br>
+<sup>91</sup> American Institute of Aeronautics and Astronautics (AIAA), <i>Guide to Lithium Battery Safety for Space Applications</i>, 2022.<br>
+<sup>92</sup> ISO, <i>Explosive Atmospheres — Part 20-2: Material Characteristics — Combustible Dusts Test Methods</i>, 2016.<br>
+<sup>93</sup> ISO, Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles, 2016.<br>
 <sup>94</sup> 邓一刚：《全智能节电器》，2008年版。<br>
 <sup>95</sup> 张凯军、赵永杰、陈朝岗：《轨道火车及高速轨道火车紧急安全制动辅助装置》，2013年版。<br>
 <sup>96</sup> 李华、王昊、康佐：《一种拼接式桥梁模型》，2023年版。<br>
@@ -215,10 +215,10 @@
 <sup>130</sup> 刘时银、郭万钦、许君利：《中国第二次水川编目科学数据：2006-2011》，中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室2012年版。<br>
 <sup>131</sup> 周壮、李盛阳等：《天宫二号遥感图像自然景物分类数据集》，国家基础学科公共科学数据中心2023年版。<br>
 <sup>132</sup> 郑涵、于贵瑞等：《2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据》，Science Data Bank2018年版。<br>
-<sup>133</sup> 黄土高原科学数据中心（西北农林科技大学水土保持研究所）：《青海省县域教育、卫生发展指标（2001—2022年）》，国家地理资源科学数据中心-黄土高原分中心2024年版。<br>
+<sup>133</sup> 黄土高原科学数据中心（西北农林科技大学水土保持研究所）：《青海省县域教育、卫生发展指标（2001—2022年）》，国家地球系统科学数据中心-黄土高原分中心2024年版。<br>
 <sup>134</sup> 王继民、罗鹏程等：《人文社会科学数据集检索方法研究的数据集》，北京大学开放研究数据平台2025年版。<br>
 <sup>135</sup> L. Sugarman &#38; S. Markham, <i>Students in a Selective High School: Some Vocationally Oriented Data</i>, UK Data Service, 1980.<br>
-<sup>136</sup> Xiaoya Zhong, Qingwu Yan &#38; Guie Li, <i>Long Time Series Nighttime Light Dataset of China (2000-2020)</i>, Global Change Research Data Publishing &#38; Repository, 2022.<br>
+<sup>136</sup> Xiaoya Zhong, Qingwu Yan &#38; Guie Li, <i>Long Time Series Nighttime Light Dataset of China: 2000–2020</i>, Global Change Research Data Publishing &#38; Repository, 2022.<br>
 <sup>137</sup> IHME, <i>Global Burden of Disease Study 2019 (GBD2019) Data Resources</i>, Global Health Data Exchange, 2021.<br>
 <sup>138</sup> 方向明、曹迎杰：《元宇宙在图书馆的应用：理论研究与实践进展》，ChinaXiv2023年版。<br>
 <sup>139</sup> 肖玲、张雪、王永：《数据要素的统计测算方法探究》，PSSXiv2024年版。<br>

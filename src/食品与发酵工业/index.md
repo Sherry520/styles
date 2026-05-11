@@ -215,7 +215,7 @@
   <div class="csl-entry">[75] 井丽南. 支持状态可编程的SDN交换机关键技术研究[D]. 北京: 中国科学院大学, 2022: 43. 
     <div class="csl-block">井丽南. 支持状态可编程的SDN交换机关键技术研究[D]. 2022.</div>
   </div>
-  <div class="csl-entry">[76] CAIRNS B R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: University of California, 1965: 15: 224.</div>
+  <div class="csl-entry">[76] CAIRNS B R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: University of California, Berkeley, 1965: 15: 224.</div>
   <div class="csl-entry">[77] CHRISTOU A. Improving knowledge graph understanding with contextual views[D]. Ohio: Wright State University, 2024: 18.</div>
   <div class="csl-entry">[78] 中国互联网络信息中心. 第29次中国互联网络发展状况统计报告[R]. . 
     <div class="csl-block">中国互联网络信息中心. 第29次中国互联网络发展状况统计报告[R]. 2012.</div>
@@ -229,8 +229,8 @@
   <div class="csl-entry">[81] CALKIN D E, AGER A A, THOMPSON M P. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. .</div>
   <div class="csl-entry">[82] U.S. DEPARTMENT OF TRANSPORTATION FEDERAL HIGHWAY ADMINISTRATION. Guidelines for handling excavated acid-producing material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990: 25.</div>
   <div class="csl-entry">[83] UNITED NATIONS DEPARTMENT OF ECONOMIC AND SOCIAL AFFAIRS. United Nations e-government survey 2024: accelerating digital transformation for sustainable development[R]. .</div>
-  <div class="csl-entry">[84] 全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021[S]. . 
-    <div class="csl-block">全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021[S]. 2021.</div>
+  <div class="csl-entry">[84] 全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021[S]. . 
+    <div class="csl-block">全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021[S]. 2021.</div>
   </div>
   <div class="csl-entry">[85] 全国信息技术标准化技术委员会. 信息技术 先进音视频编码 第16部分：广播电视视频: GB/T 20090.16—2016[S]. . 
     <div class="csl-block">全国信息技术标准化技术委员会. 信息技术 先进音视频编码 第16部分：广播电视视频: GB/T 20090.16—2016[S]. 2016.</div>
@@ -245,8 +245,8 @@
   <div class="csl-entry">[89] INTERNATIONAL ELECTROTECHNICAL COMMISSION (IEC). Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML): IEC/IEEE 61636-1:2021[S]. New York: IEEE, 2021.</div>
   <div class="csl-entry">[90] Anonymous. IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation: IEEE P802.11ba/D8.0-2020[S]. New York: IEEE, 2020.</div>
   <div class="csl-entry">[91] AMERICAN INSTITUTE OF AERONAUTICS AND ASTRONAUTICS (AIAA). Guide to lithium battery safety for space applications: AIAA G-136-2022[S]. .</div>
-  <div class="csl-entry">[92] Anonymous. Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods: ISO/IEC 80079-20-2:2016(en)[S]. .</div>
-  <div class="csl-entry">[93] Anonymous. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles: ISO/IEC 80079-20-2:2016(fr)[S]. .</div>
+  <div class="csl-entry">[92] ISO. Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods: ISO/IEC 80079-20-2:2016(en)[S]. .</div>
+  <div class="csl-entry">[93] ISO. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles: ISO/IEC 80079-20-2:2016(fr)[S]. .</div>
   <div class="csl-entry">[94] 邓一刚. 全智能节电器: CN101106276A[P]. 2008-01-16. 
     <div class="csl-block">邓一刚. 全智能节电器: CN101106276A[P]. 2008-01-16.</div>
   </div>
@@ -342,14 +342,14 @@
   <div class="csl-entry">[132] 郑涵, 于贵瑞, 朱先进, 等. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据[DS]. Science Data Bank, 20182018. 
     <div class="csl-block">郑涵, 于贵瑞, 朱先进, 等. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据[DS]. 20182018.</div>
   </div>
-  <div class="csl-entry">[133] 黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[DS]. 国家地理资源科学数据中心-黄土高原分中心, 2024(2024-12-25). 
+  <div class="csl-entry">[133] 黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[DS]. 国家地球系统科学数据中心-黄土高原分中心, 2024(2024-12-25). 
     <div class="csl-block">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[DS]. 2024(2024-12-25).</div>
   </div>
   <div class="csl-entry">[134] 王继民, 罗鹏程, 赵常煜, 等. 人文社会科学数据集检索方法研究的数据集[DS]. 北京大学开放研究数据平台, 2025(2025-06-11). 
     <div class="csl-block">王继民, 罗鹏程, 赵常煜, 等. 人文社会科学数据集检索方法研究的数据集[DS]. 2025(2025-06-11).</div>
   </div>
   <div class="csl-entry">[135] SUGARMAN L, MARKHAM S. Students in a selective high school: some vocationally oriented data[DS]. UK Data Service, 19801980.</div>
-  <div class="csl-entry">[136] ZHONG X, YAN Q, LI G. Long time series nighttime light dataset of China (2000-2020)[DS]. Global Change Research Data Publishing &#38; Repository, 20222022.</div>
+  <div class="csl-entry">[136] ZHONG X, YAN Q, LI G. Long time series nighttime light dataset of China: 2000–2020[DS]. Global Change Research Data Publishing &#38; Repository, 20222022.</div>
   <div class="csl-entry">[137] IHME. Global Burden of Disease Study 2019 (GBD2019) data resources[DS]. Global Health Data Exchange, 20212021.</div>
   <div class="csl-entry">[138] 方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[EB]. ChinaXiv, 2023(2023-03-03). 
     <div class="csl-block">方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[EB]. 2023(2023-03-03).</div>

@@ -29,7 +29,7 @@
     <div class="csl-left-margin">[5]</div><div class="csl-right-inline">汪学军．中国农业转基因生物研发进展与安全管理［C］//国家环境保护总局生物安全管理办公室．中国国家生物安全框架实施国际合作项目研讨会论文集．北京：中国环境科学出版社，2005：22—25．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">WANG S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C/OL]//2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT). 2022: 2[2025-12-02]. <a href="https://ieeexplore.ieee.org/document/10137867">https://ieeexplore.ieee.org/document/10137867</a>. DOI:<a href="https://doi.org/10.1109/ACAIT56212.2022.10137867">10.1109/ACAIT56212.2022.10137867</a>.</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">WANG S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C/OL]//2022 6th Asian Conference on Artificial Intelligence Technology. 2022: 2[2025-12-02]. <a href="https://ieeexplore.ieee.org/document/10137867">https://ieeexplore.ieee.org/document/10137867</a>. DOI:<a href="https://doi.org/10.1109/ACAIT56212.2022.10137867">10.1109/ACAIT56212.2022.10137867</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">肖玲，张雪，王永．数据要素的统计测算方法探究［EB/OL］．PSSXiv，2024［2024-09-30］．<a href="https://zsyyb.cn/abs/202408.01096">https://zsyyb.cn/abs/202408.01096</a>．</div>
@@ -78,7 +78,7 @@
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">冯友兰．冯友兰自选集［M］．2 版．北京：首都师范大学出版社，2008：第1版自序．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">康熙字典：巳集上 水部［M］．同文书局影印本．北京：中华书局，1962：50．</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">康熙字典：巳集上 水部［M］．同文书局影印本．北京：中华书局，1962：50．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[9]</div><div class="csl-right-inline">战德臣，张丽杰．大学计算机：计算思维与信息素养［M］．3 版．北京：高等教育出版社，2019．</div>
@@ -114,7 +114,7 @@
     <div class="csl-left-margin">[19]</div><div class="csl-right-inline">SADOCK B J, SADOCK V A, RUIZ P, et al. Kaplan &#38; Sadock’s comprehensive textbook of psychiatry: Vol. 1[M]. 9th ed. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">Institute For Art And Architecture, Academy Of Fine Arts Vienna. Wiener Hitze: architecture and storytelling in times of heat[M]. Zürich: Park Books, 2023: 78.</div>
+    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">Institute for Art and Architecture, Academy of Fine Arts Vienna. Wiener Hitze: architecture and storytelling in times of heat[M]. Zürich: Park Books, 2023: 78.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[21]</div><div class="csl-right-inline">KINCHY A. Seeds, sciences, and struggle: the global politics of transgenic crops[M/OL]. Cambridge, Mass.: MIT Press, 2012: 50[2013-07-14]. <a href="http://lib.myilibrary.com?ID=381443">http://lib.myilibrary.com?ID=381443</a>.</div>
@@ -123,13 +123,13 @@
     <div class="csl-left-margin">[22]</div><div class="csl-right-inline">PRAETZELLIS A. Death by theory: a tale of mystery and archaeological theory[M/OL]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13[2012-07-26]. <a href="http://lib.myilibrary.com/Open.aspx?id=293666">http://lib.myilibrary.com/Open.aspx?id=293666</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">TORRES L, SALISBURY F, YAZBECK B, et al. Connecting the library to the curriculum[M/OL]. Singapore: Springer Nature, 2021: 97[2025-12-02]. <a href="https://link.springer.com/10.1007/978-981-16-3868-8">https://link.springer.com/10.1007/978-981-16-3868-8</a>.</div>
+    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">TORRES L, SALISBURY F, YAZBECK B, et al. Connecting the library to the curriculum[M/OL]. Singapore: Springer Nature, 2021: 97[2025-12-02]. <a href="https://link.springer.com/book/10.1007/978-981-16-3868-8">https://link.springer.com/book/10.1007/978-981-16-3868-8</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[24]</div><div class="csl-right-inline">BOOBIER T. AI and the future of banking[M]. Chichester: John Wiley &#38; Sons, 2020: 35.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">DEVERELL W, IGLER D. A companion to California history[M/OL]. New York: John Wiley &#38; Sons, 2013: 21—22[2014-06-24]. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781444305036/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781444305036/summary</a>.</div>
+    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">DEVERELL W, IGLER D. A companion to California history[M/OL]. New York: John Wiley &#38; Sons, 2013: 21—22[2014-06-24]. <a href="https://onlinelibrary.wiley.com/doi/book/10.1002/9781444305036">https://onlinelibrary.wiley.com/doi/book/10.1002/9781444305036</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[26]</div><div class="csl-right-inline">阿扬．谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答［M］．姜海伦，译//《环球科学》杂志社．认识记忆力：关于学习、思考与遗忘的脑科学．北京：机械工业出版社，2023：15—18．</div>
@@ -255,7 +255,7 @@
     <div class="csl-left-margin">[66]</div><div class="csl-right-inline">陈志勇．中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集［M/OL］．北京：经济科学出版社，2011［2013-10-14］．<a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20110628-BPO-889-0135&#38;cult=CN">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20110628-BPO-889-0135&#38;cult=CN</a>．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[67]</div><div class="csl-right-inline">WANG S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C/OL]//2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT). 2022: 2[2025-12-02]. <a href="https://ieeexplore.ieee.org/document/10137867">https://ieeexplore.ieee.org/document/10137867</a>. DOI:<a href="https://doi.org/10.1109/ACAIT56212.2022.10137867">10.1109/ACAIT56212.2022.10137867</a>.</div>
+    <div class="csl-left-margin">[67]</div><div class="csl-right-inline">WANG S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C/OL]//2022 6th Asian Conference on Artificial Intelligence Technology. 2022: 2[2025-12-02]. <a href="https://ieeexplore.ieee.org/document/10137867">https://ieeexplore.ieee.org/document/10137867</a>. DOI:<a href="https://doi.org/10.1109/ACAIT56212.2022.10137867">10.1109/ACAIT56212.2022.10137867</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[68]</div><div class="csl-right-inline">YU Y, PAN E, WANG X, et al. Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis[C/OL]//CVPR. 2024: 4[2025-12-02]. <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Unmixing_Before_Fusion_A_Generalized_Paradigm_for_Multi-Source-based_Hyperspectral_Image_CVPR_2024_paper.html">https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Unmixing_Before_Fusion_A_Generalized_Paradigm_for_Multi-Source-based_Hyperspectral_Image_CVPR_2024_paper.html</a>.</div>
@@ -282,7 +282,7 @@
     <div class="csl-left-margin">[75]</div><div class="csl-right-inline">井丽南．支持状态可编程的SDN交换机关键技术研究［D/OL］．北京：中国科学院大学，2022：43［2025-12-02］．<a href="http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20209289">http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20209289</a>．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[76]</div><div class="csl-right-inline">CAIRNS B R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: University of California, 1965: 15.</div>
+    <div class="csl-left-margin">[76]</div><div class="csl-right-inline">CAIRNS B R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: University of California, Berkeley, 1965: 15.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[77]</div><div class="csl-right-inline">CHRISTOU A. Improving knowledge graph understanding with contextual views[D/OL]. Ohio: Wright State University, 2024: 18[2025-02-28]. <a href="http://rave.ohiolink.edu/etdc/view?acc_num=wright1715878159408301">http://rave.ohiolink.edu/etdc/view?acc_num=wright1715878159408301</a>.</div>
@@ -306,7 +306,7 @@
     <div class="csl-left-margin">[83]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development[R/OL]. [2025-02-28]. <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024">https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会．信息与文献 资源描述：GB/T 3792—2021［S］．2021．</div>
+    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会．信息与文献 资源描述：GB/T 3792—2021［S］．2021．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[85]</div><div class="csl-right-inline">全国信息技术标准化技术委员会．信息技术 先进音视频编码 第16部分：广播电视视频：GB/T 20090.16—2016［S］．2016．</div>
@@ -327,13 +327,13 @@
     <div class="csl-left-margin">[90]</div><div class="csl-right-inline">IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation: IEEE P802.11ba/D8.0-2020[S]. New York: IEEE, 2020.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[91]</div><div class="csl-right-inline">American Institute of Aeronautics and Astronautics (AIAA). Guide to lithium battery safety for space applications: AIAA G-136-2022[S].</div>
+    <div class="csl-left-margin">[91]</div><div class="csl-right-inline">American Institute of Aeronautics and Astronautics (AIAA). Guide to lithium battery safety for space applications: AIAA G-136-2022[S]. 2022.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[92]</div><div class="csl-right-inline">Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods: ISO/IEC 80079-20-2:2016(en)[S].</div>
+    <div class="csl-left-margin">[92]</div><div class="csl-right-inline">ISO. Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods: ISO/IEC 80079-20-2:2016(en)[S]. 2016.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[93]</div><div class="csl-right-inline">Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles：ISO/IEC 80079-20-2:2016(fr)［S］．</div>
+    <div class="csl-left-margin">[93]</div><div class="csl-right-inline">ISO．Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles：ISO/IEC 80079-20-2:2016(fr)［S］．2016．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[94]</div><div class="csl-right-inline">邓一刚．全智能节电器：CN101106276A［P］．2008-01-16．</div>
@@ -444,7 +444,7 @@
     <div class="csl-left-margin">[129]</div><div class="csl-right-inline">彭守璋．1901—2023年中国1km分辨率逐月降水量数据集［DS/OL］．西北农林科技大学水土保持研究所，2024［2024-11-25］．<a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a>．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[130]</div><div class="csl-right-inline">刘时银，郭万钦，许君利．中国第二次水川编目科学数据：2006-2011［DS/OL］．中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室，2012［2024-11-25］．<a href="https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/">https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/</a>．DOI:<a href="https://doi.org/10.3972/glacier001.2013.db">10.3972/glacier001.2013.db</a>．</div>
+    <div class="csl-left-margin">[130]</div><div class="csl-right-inline">刘时银，郭万钦，许君利．中国第二次水川编目科学数据：2006-2011［DS/OL］．中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室，2012［2024-11-25］．<a href="https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/">https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/</a>．DOI:<a href="https://doi.org/10.3972/glacier.001.2013.db">10.3972/glacier.001.2013.db</a>．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[131]</div><div class="csl-right-inline">周壮，李盛阳，吴薇，等．天宫二号遥感图像自然景物分类数据集［DS/OL］．国家基础学科公共科学数据中心，2023［2025-07-15］．<a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>．</div>
@@ -453,7 +453,7 @@
     <div class="csl-left-margin">[132]</div><div class="csl-right-inline">郑涵，于贵瑞，朱先进，等．2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据［DS/OL］．Science Data Bank，2018［2025-02-14］．<a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a>．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">黄土高原科学数据中心（西北农林科技大学水土保持研究所）．青海省县域教育、卫生发展指标（2001—2022年）［DS/OL］．国家地理资源科学数据中心-黄土高原分中心，2024［2025-07-10］．<a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>．DOI:<a href="https://doi.org/10.12041/geodata.58691800703558.ver1.db">10.12041/geodata.58691800703558.ver1.db</a>．</div>
+    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">黄土高原科学数据中心（西北农林科技大学水土保持研究所）．青海省县域教育、卫生发展指标（2001—2022年）［DS/OL］．国家地球系统科学数据中心-黄土高原分中心，2024［2025-07-10］．<a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>．DOI:<a href="https://doi.org/10.12041/geodata.58691800703558.ver1.db">10.12041/geodata.58691800703558.ver1.db</a>．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[134]</div><div class="csl-right-inline">王继民，罗鹏程，赵常煜，等．人文社会科学数据集检索方法研究的数据集［DS/OL］．北京大学开放研究数据平台，2025［2025-07-10］．<a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>．</div>
@@ -462,7 +462,7 @@
     <div class="csl-left-margin">[135]</div><div class="csl-right-inline">SUGARMAN L, MARKHAM S. Students in a selective high school: some vocationally oriented data[DS/OL]. UK Data Service, 1980[2025-07-10]. <a href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996">https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996</a>. DOI:<a href="https://doi.org/10.5255/UKDA-SN-996-1">10.5255/UKDA-SN-996-1</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[136]</div><div class="csl-right-inline">ZHONG X, YAN Q, LI G. Long time series nighttime light dataset of China (2000-2020)[DS/OL]. Global Change Research Data Publishing &#38; Repository, 2022[2024-11-25]. <a href="http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>.</div>
+    <div class="csl-left-margin">[136]</div><div class="csl-right-inline">ZHONG X, YAN Q, LI G. Long time series nighttime light dataset of China: 2000–2020[DS/OL]. Global Change Research Data Publishing &#38; Repository, 2022[2024-11-25]. <a href="https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[137]</div><div class="csl-right-inline">IHME. Global Burden of Disease Study 2019 (GBD2019) data resources[DS/OL]. Global Health Data Exchange, 2021[2024-11-25]. <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a>.</div>

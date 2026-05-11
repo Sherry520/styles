@@ -9,11 +9,11 @@
 ### 引注
 
 （汪学军, 2005）<br>
+（Praetzellis, 2011）<br>
 （Wang, 2022）<br>
 （扬奎斯特和萨金特, 2010）<br>
 （Jenkins and Ruostekoski, 2012）<br>
 （肖玲等, 2024）<br>
-（Praetzellis, 2011）<br>
 （于潇等, 2012）<br>
 （Veen et al., 2014）<br>
 
@@ -77,14 +77,13 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Anonymous. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000[M]. Yufin S A, ed.. Rotterdam: A. A. Balkema, 2000</div>
   <div class="csl-entry">Anonymous. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012[M]. Babu B V, Nagar A, Deep K, et al., eds.. New Delhi: Springer, 2014</div>
   <div class="csl-entry">Anonymous. IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation: IEEE P802.11ba/D8.0-2020[S]. New York: IEEE, 2020</div>
-  <div class="csl-entry">Anonymous. Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods: ISO/IEC 80079-20-2:2016(en)[S]. </div>
   <div class="csl-entry">Anonymous. Library of Congress[EB]</div>
   <div class="csl-entry">Anonymous. Coastal wetlands map of China continent[Z]. Beijing: China Ocean Press, 2024: 50</div>
   <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA). Guide to lithium battery safety for space applications: AIAA G-136-2022[S]. </div>
   <div class="csl-entry">Bevington D, Brown J R. William Shakespeare[EB](2025-01-01)</div>
   <div class="csl-entry">Bloss C S, Wineinger N E, Peters M, et al. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[EB]. bioRxiv, 2015(2015-10-28)</div>
   <div class="csl-entry">Boobier T. AI and the future of banking[M]. Chichester: John Wiley &#38; Sons, 2020: 35</div>
-  <div class="csl-entry">Cairns B R. Infrared spectroscopic studies on solid oxygen[D]. (Doctoral dissertationdissertation). Berkeley: University of California, 1965</div>
+  <div class="csl-entry">Cairns B R. Infrared spectroscopic studies on solid oxygen[D]. (Doctoral dissertationdissertation). Berkeley: University of California, Berkeley, 1965</div>
   <div class="csl-entry">Calkin D E, Ager A A, Thompson M P. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. </div>
   <div class="csl-entry">Caplan P. Cataloging internet resources[J]. The Public-Access Computer Systems Review, 1993, 4(2): 61-66</div>
   <div class="csl-entry">Christou A. Improving knowledge graph understanding with contextual views[D]. (Doctoral dissertationdissertation). Ohio: Wright State University, 2024</div>
@@ -93,10 +92,11 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Fourney M E. Advances in holographic photoelasticity[C]. Gottenberg W G, ed.//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California, New York: ASME, 1971: 17-38</div>
   <div class="csl-entry">Frese K S, Katus H A, Meder B. Next-generation sequencing: from understanding biology to personalized medicine[J]. Biology, 2013, 2(1): 378-398</div>
   <div class="csl-entry">IHME. Global Burden of Disease Study 2019 (GBD2019) data resources[DS]. Global Health Data Exchange, 2021</div>
-  <div class="csl-entry">Institute For Art And Architecture, Academy Of Fine Arts Vienna. Wiener Hitze: architecture and storytelling in times of heat[M]. Zürich: Park Books, 2023: 78</div>
+  <div class="csl-entry">Institute for Art and Architecture, Academy of Fine Arts Vienna. Wiener Hitze: architecture and storytelling in times of heat[M]. Zürich: Park Books, 2023: 78</div>
   <div class="csl-entry">International Electrotechnical Commission (IEC). Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML): IEC/IEEE 61636-1:2021[S]. New York: IEEE, 2021</div>
   <div class="csl-entry">International Organization for Standardization. ISO homepage[EB]</div>
   <div class="csl-entry">ISO. Audit data collection: ISO 21378:2019[S]. </div>
+  <div class="csl-entry">ISO. Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods: ISO/IEC 80079-20-2:2016(en)[S]. </div>
   <div class="csl-entry">Jenkins S D, Ruostekoski J. Controlled manipulation of light by cooperative response of atoms in an optical lattice[EB]. arXiv, 2012(2012-03-18)</div>
   <div class="csl-entry">Kinchy A. Seeds, sciences, and struggle: the global politics of transgenic crops[M]. Cambridge, Mass.: MIT Press, 2012: 50</div>
   <div class="csl-entry">Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of <i>Eucalyptus grandis</i>[J]. Nature, 2014, 510: 356-362</div>
@@ -115,9 +115,9 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C]. </div>
   <div class="csl-entry">Weinstein L, Swartz M N. Pathogenic properties of invading microorganisms[M]. Sodeman W A Jr, Sodeman W A, eds.//Pathologic physiology: mechanisms of disease, 5 edition. Philadelphia: Saunders, 1974: 457-472</div>
   <div class="csl-entry">Yu Y, Pan E, Wang X, et al. Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis[C]. </div>
-  <div class="csl-entry">Zhong X, Yan Q, Li G. Long time series nighttime light dataset of China (2000-2020)[DS]. Global Change Research Data Publishing &#38; Repository, 2022</div>
+  <div class="csl-entry">Zhong X, Yan Q, Li G. Long time series nighttime light dataset of China: 2000–2020[DS]. Global Change Research Data Publishing &#38; Repository, 2022</div>
   <div class="csl-entry">Zotero. [Zotero download][EB]</div>
-  <div class="csl-entry">佚名. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles: ISO/IEC 80079-20-2:2016(fr)[S]. </div>
+  <div class="csl-entry">ISO. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles: ISO/IEC 80079-20-2:2016(fr)[S]. </div>
   <div class="csl-entry">史国华, 樊金宇, 何益, 等. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法: JP2022539784A[P]. 2022-09-13</div>
   <div class="csl-entry">佚名. 最新図書館用語大辞典[M]. 図書館用語辞典編集委員会, 编. 東京: 柏書房株式会社, 2004: 154</div>
   <div class="csl-entry">António M, Pepper L. Histórias de Portugal: livros caídos[EB](2019-07-13)</div>
@@ -143,7 +143,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">何筱梅. 新媒体时代原生广告的策略与发展研究[D]. 武汉: 武汉大学, 2016</div>
   <div class="csl-entry">胡健民. 东南极拉斯曼丘陵地区地质图[Z]. 北京: 科学出版社, 2021</div>
   <div class="csl-entry">湖北省建设厅. 湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令[Z](1931-11-07)</div>
-  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[DS]. 国家地理资源科学数据中心-黄土高原分中心, 2024(2024-12-25)</div>
+  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[DS]. 国家地球系统科学数据中心-黄土高原分中心, 2024(2024-12-25)</div>
   <div class="csl-entry">冀超. 一种荒漠化地区生态植被综合培育种植方法: CN1318281A[P]. 2001-10-24</div>
   <div class="csl-entry">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]. 中国图书馆学会, 编//中国图书馆学会年会论文集, 北京: 国家图书馆出版社, 2011: 45-52</div>
   <div class="csl-entry">金燕萍. 社交媒体时代的虚假信息研究[D]. 温州: 温州大学, 2020</div>
@@ -161,7 +161,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">彭守璋. 1901—2023年中国1km分辨率逐月降水量数据集[DS]. 西北农林科技大学水土保持研究所, 2024(2024-07-19)</div>
   <div class="csl-entry">钱学森. 创建系统学[M]. 太原: 山西科学技术出版社, 2001: 序2-3</div>
   <div class="csl-entry">全国信息技术标准化技术委员会. 信息技术 先进音视频编码 第16部分：广播电视视频: GB/T 20090.16—2016[S]. </div>
-  <div class="csl-entry">全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021[S]. </div>
+  <div class="csl-entry">全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021[S]. </div>
   <div class="csl-entry">石顺祥, 许海平, 孙艳玲, 等. 光折变自适应光外差探测方法: CN1338652A[P]. 2002-03-06</div>
   <div class="csl-entry">谭其骧. 中国历史地图集[Z]. 北京: 地图出版社, 1982: 6</div>
   <div class="csl-entry">汤万金, 杨跃翔, 刘文, 等. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013[R]. </div>

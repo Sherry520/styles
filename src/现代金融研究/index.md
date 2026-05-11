@@ -71,8 +71,8 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">湖北省建设厅, 1931. 湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令. 武汉: 湖北省档案馆.</div>
   <div class="csl-entry">佚名, 1949. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告. 武汉: 武汉大学档案馆.</div>
   <div class="csl-entry">中国图书馆学会, 1957/1990. 图书馆学通讯. 1957/1990, 1957（1）—1990（4）. 北京: 北京图书馆.</div>
-  <div class="csl-entry">佚名, 1962. 康熙字典: 巳集上 水部. 同文书局影印本. 北京: 中华书局: 50.</div>
-  <div class="csl-entry">Cairns, B. R., 1965. Infrared spectroscopic studies on solid oxygen. Berkeley: University of California: 15.</div>
+  <div class="csl-entry">佚名, 1962. 康熙字典: 巳集上 水部. 同文书局影印本. 北京: 中华书局: 50.</div>
+  <div class="csl-entry">Cairns, B. R., 1965. Infrared spectroscopic studies on solid oxygen. Berkeley: University of California, Berkeley: 15.</div>
   <div class="csl-entry">Fourney, M. E., 1971. Advances in holographic photoelasticity//Gottenberg, W. G. Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME: 17-38.</div>
   <div class="csl-entry">Weinstein, L. and Swartz, M. N., 1974. Pathogenic properties of invading microorganisms//Sodeman, W. A., Jr., Sodeman, W. A. Pathologic physiology: mechanisms of disease. 5th ed. Philadelphia: Saunders: 457-472.</div>
   <div class="csl-entry">Anon, 1979. Public library quarterly. 1979, 1979，1（1）—. Philadelphia: Taylor &#38; Francis.</div>
@@ -139,6 +139,8 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Bloss, C. S., Wineinger, N. E., Peters, M., Boeldt, D. L., et al., 2015. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors. bioRxiv.</div>
   <div class="csl-entry">何筱梅, 2016. 新媒体时代原生广告的策略与发展研究. 武汉: 武汉大学: 24-25.</div>
   <div class="csl-entry">全国信息技术标准化技术委员会, 2016. 信息技术 先进音视频编码 第16部分：广播电视视频: GB/T 20090.16—2016.</div>
+  <div class="csl-entry">ISO, 2016a. Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods: ISO/IEC 80079-20-2:2016(en).</div>
+  <div class="csl-entry">ISO, 2016b. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles: ISO/IEC 80079-20-2:2016(fr).</div>
   <div class="csl-entry">刘祥沈, 2016. 沈阳市政区图. 武汉: 武汉大学出版社.</div>
   <div class="csl-entry">郑涵、于贵瑞、朱先进、王秋凤、等, 2018. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据. Science Data Bank. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a>.</div>
   <div class="csl-entry">战德臣、张丽杰, 2019. 大学计算机：计算思维与信息素养. 3 版. 北京: 高等教育出版社.</div>
@@ -152,26 +154,27 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">金燕萍, 2020. 社交媒体时代的虚假信息研究. 温州: 温州大学: 16.</div>
   <div class="csl-entry">国家能源局, 2020. 水电工程水温实时监测系统技术规范: NB/T 10386—2020.</div>
   <div class="csl-entry">Anon, 2020. IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation: IEEE P802.11ba/D8.0-2020. New York: IEEE.</div>
-  <div class="csl-entry">Anon, [2020a]. Library of Congress. [2020-06-12]. <a href="https://www.loc.gov/">https://www.loc.gov/</a>.</div>
+  <div class="csl-entry">Anon, [2020]. Library of Congress. [2020-06-12]. <a href="https://www.loc.gov/">https://www.loc.gov/</a>.</div>
   <div class="csl-entry">International Organization for Standardization, [2020]. ISO homepage. [2020-10-06]. <a href="https://www.iso.org/home.html">https://www.iso.org/home.html</a>.</div>
   <div class="csl-entry">Torres, L., Salisbury, F., Yazbeck, B., Karasmanis, S., et al., 2021. Connecting the library to the curriculum. Singapore: Springer Nature: 97.</div>
-  <div class="csl-entry">全国信息与文献标准化技术委员会, 2021. 信息与文献 资源描述: GB/T 3792—2021.</div>
+  <div class="csl-entry">全国信息与文献标准化技术委员会, 2021. 信息与文献 资源描述: GB/T 3792—2021.</div>
   <div class="csl-entry">International Electrotechnical Commission (IEC), 2021. Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML): IEC/IEEE 61636-1:2021. New York: IEEE.</div>
   <div class="csl-entry">北京鲁迅博物馆, 2021. 北京鲁迅博物馆志愿服务章程. (2021-04-21)[2023-05-02]. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>.</div>
   <div class="csl-entry">胡健民, 2021. 东南极拉斯曼丘陵地区地质图. 北京: 科学出版社.</div>
   <div class="csl-entry">IHME, 2021. Global Burden of Disease Study 2019 (GBD2019) data resources. Global Health Data Exchange. <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a>.</div>
   <div class="csl-entry">陈缮真, 2022. 探索微观世界的无穷奥秘（科技大观）. 人民日报, 2022-08-16(17).</div>
   <div class="csl-entry">李妍、王莹, 2022. 医疗机构保洁人员“一前五后”手卫生干预效果研究//中华预防医学会医院感染控制分会第31次全国医院感染学术年会. 2.</div>
-  <div class="csl-entry">Wang, S., 2022. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers//2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT). 2.</div>
+  <div class="csl-entry">Wang, S., 2022. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers//2022 6th Asian Conference on Artificial Intelligence Technology. 2.</div>
   <div class="csl-entry">王琦, 2022. 融合星载GNSS-R和SAR数据的高时空分辨率土壤湿度反演方法研究. 武汉: 武汉大学: 87.</div>
   <div class="csl-entry">井丽南, 2022. 支持状态可编程的SDN交换机关键技术研究. 北京: 中国科学院大学: 43.</div>
   <div class="csl-entry">工业和信息化部, 2022. 信息技术  中文编码字符集: GB 18030—2022.</div>
+  <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA), 2022. Guide to lithium battery safety for space applications: AIAA G-136-2022.</div>
   <div class="csl-entry">史国华、樊金宇、何益、邢利娜、等, 2022. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法: JP2022539784A. 2022-09-13.</div>
   <div class="csl-entry">Tristram, M., Skarshewski, P., Tristram, I., and Mossel, B., 2022. Storage and delivery system: AU2022228203A1. 2022-10-06.</div>
   <div class="csl-entry">杨立华, 2022. 《庄子》读不懂？看完这一篇“导读”就明白了.</div>
-  <div class="csl-entry">Zhong, X., Yan, Q., and Li, G., 2022. Long time series nighttime light dataset of China (2000-2020). Global Change Research Data Publishing &#38; Repository. <a href="http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>.</div>
+  <div class="csl-entry">Zhong, X., Yan, Q., and Li, G., 2022. Long time series nighttime light dataset of China: 2000–2020. Global Change Research Data Publishing &#38; Repository. <a href="https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>.</div>
   <div class="csl-entry">博伯尔, 2023. 银行业的未来与人工智能. 徐超, 译. 北京: 清华大学出版社: 35.</div>
-  <div class="csl-entry">Institute For Art And Architecture and Academy Of Fine Arts Vienna, 2023. Wiener Hitze: architecture and storytelling in times of heat. Zürich: Park Books: 78.</div>
+  <div class="csl-entry">Institute for Art and Architecture, Academy of Fine Arts Vienna, 2023. Wiener Hitze: architecture and storytelling in times of heat. Zürich: Park Books: 78.</div>
   <div class="csl-entry">阿扬, 2023. 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答. 姜海伦, 译//《环球科学》杂志社. 认识记忆力：关于学习、思考与遗忘的脑科学. 北京: 机械工业出版社: 15-18.</div>
   <div class="csl-entry">Shinotsuka, H., Nagata, K., Siriwardana, M., Yoshikawa, H., et al., 2023. Sample structure prediction from measured XPS data using Bayesian estimation and SESSA simulator. Journal of electron spectroscopy and related phenomena, 267: 147370.</div>
   <div class="csl-entry">中国信息通信研究院、中国电信股份有限公司研究院、中国移动通信研究院、中国联合网络通信有限公司研究院, 2023. 电信业发展白皮书：2023：新时代高质量发展探索.</div>
@@ -190,7 +193,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Zotero, [2024]. [Zotero download]. [2024-04-08]. <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a>.</div>
   <div class="csl-entry">Anon, 2024. Coastal wetlands map of China continent. Beijing: China Ocean Press: 50.</div>
   <div class="csl-entry">彭守璋, 2024. 1901—2023年中国1km分辨率逐月降水量数据集. 西北农林科技大学水土保持研究所. <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a>.</div>
-  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）, 2024. 青海省县域教育、卫生发展指标（2001—2022年）. 国家地理资源科学数据中心-黄土高原分中心. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>.</div>
+  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）, 2024. 青海省县域教育、卫生发展指标（2001—2022年）. 国家地球系统科学数据中心-黄土高原分中心. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>.</div>
   <div class="csl-entry">肖玲、张雪、王永, 2024. 数据要素的统计测算方法探究. PSSXiv.</div>
   <div class="csl-entry">徐建委, 2025. 历史的起点：《史记》中的时间设置及其意义. 北京大学学报（哲学社会科学版）, (2): 117-127.</div>
   <div class="csl-entry">Santer, R. D. and Akanyeti, O., 2025. Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps. Insect science, .</div>
@@ -201,9 +204,6 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Bevington, D. and Brown, J. R., 2025. William Shakespeare. (2025-01-01)[2025-01-03]. <a href="https://www.britannica.com/biography/William-Shakespeare">https://www.britannica.com/biography/William-Shakespeare</a>.</div>
   <div class="csl-entry">国家测绘地理信息局, [2025]. 一带一路经济走廊及其途经城市分布地势图.</div>
   <div class="csl-entry">王继民、罗鹏程、赵常煜、郭鑫、等, 2025. 人文社会科学数据集检索方法研究的数据集. 北京大学开放研究数据平台. <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>.</div>
-  <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA). Guide to lithium battery safety for space applications: AIAA G-136-2022.</div>
-  <div class="csl-entry">Anon. Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods: ISO/IEC 80079-20-2:2016(en).</div>
-  <div class="csl-entry">佚名. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles: ISO/IEC 80079-20-2:2016(fr).</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

@@ -59,7 +59,7 @@
   <div class="csl-entry">佚名</div>
   <div class="csl-entry">Peebles Peyton Z Jr</div>
   <div class="csl-entry">佚名</div>
-  <div class="csl-entry">Institute For Art And Architecture, Academy Of Fine Arts Vienna</div>
+  <div class="csl-entry">Institute for Art and Architecture, Academy of Fine Arts Vienna</div>
   <div class="csl-entry">Kinchy Abby</div>
   <div class="csl-entry">Praetzellis Adrian</div>
   <div class="csl-entry">佚名</div>
@@ -131,8 +131,8 @@
   <div class="csl-entry">International Electrotechnical Commission (IEC)</div>
   <div class="csl-entry">佚名</div>
   <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA)</div>
-  <div class="csl-entry">佚名</div>
-  <div class="csl-entry">佚名</div>
+  <div class="csl-entry">ISO</div>
+  <div class="csl-entry">ISO</div>
   <div class="csl-entry">邓一刚</div>
   <div class="csl-entry">张凯军, 赵永杰, 陈朝岗</div>
   <div class="csl-entry">李华, 王昊, 康佐</div>

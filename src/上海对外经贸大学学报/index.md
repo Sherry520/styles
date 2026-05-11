@@ -9,11 +9,11 @@
 ### 引注
 
 (汪学军, 2005)<br>
+(Praetzellis, 2011)<br>
 (Wang, 2022)<br>
 (扬奎斯特和萨金特, 2010)<br>
 (Jenkins and Ruostekoski, 2012)<br>
 (肖玲等, 2024)<br>
-(Praetzellis, 2011)<br>
 (于潇等, 2012)<br>
 (Veen et al., 2014)<br>
 
@@ -153,7 +153,7 @@ Qian et al. (2009b)<br>
     <div class="csl-left-margin">[23]</div><div class="csl-right-inline">湖北省建设厅.湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令[M].武汉: 湖北省档案馆, 1931.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">黄土高原科学数据中心（西北农林科技大学水土保持研究所）.青海省县域教育、卫生发展指标（2001—2022年）[M/OL].<a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>.国家地理资源科学数据中心-黄土高原分中心, 2024.</div>
+    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">黄土高原科学数据中心（西北农林科技大学水土保持研究所）.青海省县域教育、卫生发展指标（2001—2022年）[M/OL].<a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>.国家地球系统科学数据中心-黄土高原分中心, 2024.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[25]</div><div class="csl-right-inline">冀超.一种荒漠化地区生态植被综合培育种植方法: CN1318281A[M].2001.</div>
@@ -213,7 +213,7 @@ Qian et al. (2009b)<br>
     <div class="csl-left-margin">[43]</div><div class="csl-right-inline">全国信息技术标准化技术委员会.信息技术 先进音视频编码 第16部分：广播电视视频: GB/T 20090.16—2016[M].2016.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会.信息与文献 资源描述: GB/T 3792—2021[M].2021.</div>
+    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会.信息与文献 资源描述: GB/T 3792—2021[M].2021.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[45]</div><div class="csl-right-inline">石顺祥,许海平,孙艳玲,等.光折变自适应光外差探测方法: CN1338652A[M].2002.</div>
@@ -336,13 +336,13 @@ Qian et al. (2009b)<br>
     <div class="csl-left-margin">[84]</div><div class="csl-right-inline">American Association for the Advancement of Science, Science, Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[85]</div><div class="csl-right-inline">American Institute of Aeronautics and Astronautics (AIAA), Guide to Lithium Battery Safety for Space Applications, AIAA G-136-2022.</div>
+    <div class="csl-left-margin">[85]</div><div class="csl-right-inline">American Institute of Aeronautics and Astronautics (AIAA), Guide to Lithium Battery Safety for Space Applications, AIAA G-136-2022, 2022.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[86]</div><div class="csl-right-inline">佚名.中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[M].武汉: 武汉大学档案馆, 1949.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[87]</div><div class="csl-right-inline">佚名.康熙字典: 巳集上 水部[M].北京: 中华书局, 1962: 50.</div>
+    <div class="csl-left-margin">[87]</div><div class="csl-right-inline">佚名.康熙字典: 巳集上 水部[M].北京: 中华书局, 1962: 50.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[88]</div><div class="csl-right-inline">Anon, Public Library Quarterly, Philadelphia: Taylor &#38; Francis, 1979.</div>
@@ -366,70 +366,70 @@ Qian et al. (2009b)<br>
     <div class="csl-left-margin">[94]</div><div class="csl-right-inline">Anon, Coastal Wetlands Map of China Continent, Beijing: China Ocean Press, 2024: 50.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[95]</div><div class="csl-right-inline">Anon, Explosive Atmospheres — Part 20-2: Material Characteristics — Combustible Dusts Test Methods, ISO/IEC 80079-20-2:2016(en).</div>
+    <div class="csl-left-margin">[95]</div><div class="csl-right-inline">Anon, Library of Congress, <a href="https://www.loc.gov/">https://www.loc.gov/</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[96]</div><div class="csl-right-inline">Anon, Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles, ISO/IEC 80079-20-2:2016(fr).</div>
+    <div class="csl-left-margin">[96]</div><div class="csl-right-inline">António, M., and L. Pepper, Histórias de Portugal: livros caídos, <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a>, 2019.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[97]</div><div class="csl-right-inline">Anon, Library of Congress, <a href="https://www.loc.gov/">https://www.loc.gov/</a>.</div>
+    <div class="csl-left-margin">[97]</div><div class="csl-right-inline">Babu, B. V., A. Nagar, K. Deep, et al., Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012, New Delhi: Springer, 2014.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[98]</div><div class="csl-right-inline">António, M., and L. Pepper, Histórias de Portugal: livros caídos, <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a>, 2019.</div>
+    <div class="csl-left-margin">[98]</div><div class="csl-right-inline">Bevington, D., and J. R. Brown, William Shakespeare, <a href="https://www.britannica.com/biography/William-Shakespeare">https://www.britannica.com/biography/William-Shakespeare</a>, 2025.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[99]</div><div class="csl-right-inline">Babu, B. V., A. Nagar, K. Deep, et al., Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012, New Delhi: Springer, 2014.</div>
+    <div class="csl-left-margin">[99]</div><div class="csl-right-inline">Bloss, C. S., N. E. Wineinger, M. Peters, et al., A Prospective Randomized Trial Examining Health Care Utilization in Individuals Using Multiple Smartphone-Enabled Biosensors, 2015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[100]</div><div class="csl-right-inline">Bevington, D., and J. R. Brown, William Shakespeare, <a href="https://www.britannica.com/biography/William-Shakespeare">https://www.britannica.com/biography/William-Shakespeare</a>, 2025.</div>
+    <div class="csl-left-margin">[100]</div><div class="csl-right-inline">Boobier, T., AI and the Future of Banking, Chichester: John Wiley &#38; Sons, 2020: 35.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[101]</div><div class="csl-right-inline">Bloss, C. S., N. E. Wineinger, M. Peters, et al., A Prospective Randomized Trial Examining Health Care Utilization in Individuals Using Multiple Smartphone-Enabled Biosensors, 2015.</div>
+    <div class="csl-left-margin">[101]</div><div class="csl-right-inline">Cairns, B. R., Infrared Spectroscopic Studies on Solid Oxygen, Berkeley: University of California, Berkeley, 1965: 15.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[102]</div><div class="csl-right-inline">Boobier, T., AI and the Future of Banking, Chichester: John Wiley &#38; Sons, 2020: 35.</div>
+    <div class="csl-left-margin">[102]</div><div class="csl-right-inline">Calkin, D. E., A. A. Ager, and M. P. Thompson, A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report, RMRS-GTR-262, 2011: 8-9.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[103]</div><div class="csl-right-inline">Cairns, B. R., Infrared Spectroscopic Studies on Solid Oxygen, Berkeley: University of California, 1965: 15.</div>
+    <div class="csl-left-margin">[103]</div><div class="csl-right-inline">Caplan, P., “Cataloging Internet Resources”, The Public-Access Computer Systems Review, 1993, 4(2):61-66.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[104]</div><div class="csl-right-inline">Calkin, D. E., A. A. Ager, and M. P. Thompson, A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report, RMRS-GTR-262, 2011: 8-9.</div>
+    <div class="csl-left-margin">[104]</div><div class="csl-right-inline">Christou, A., Improving Knowledge Graph Understanding with Contextual Views, Ohio: Wright State University, 2024: 18.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[105]</div><div class="csl-right-inline">Caplan, P., “Cataloging Internet Resources”, The Public-Access Computer Systems Review, 1993, 4(2):61-66.</div>
+    <div class="csl-left-margin">[105]</div><div class="csl-right-inline">Cribb, R., Historical Atlas of Indonesia, Abingdon: Routledge, 2015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[106]</div><div class="csl-right-inline">Christou, A., Improving Knowledge Graph Understanding with Contextual Views, Ohio: Wright State University, 2024: 18.</div>
+    <div class="csl-left-margin">[106]</div><div class="csl-right-inline">Des Marais, D. J., H. Strauss, R. E. Summons, et al., “Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment”, Nature, 1992, 359:605-609.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[107]</div><div class="csl-right-inline">Cribb, R., Historical Atlas of Indonesia, Abingdon: Routledge, 2015.</div>
+    <div class="csl-left-margin">[107]</div><div class="csl-right-inline">Deverell, W., and D. Igler, A Companion to California History, New York: John Wiley &#38; Sons, 2013: 21-22.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[108]</div><div class="csl-right-inline">Des Marais, D. J., H. Strauss, R. E. Summons, et al., “Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment”, Nature, 1992, 359:605-609.</div>
+    <div class="csl-left-margin">[108]</div><div class="csl-right-inline">Fitzwilliam, H., [Letter to Bess of Hardwick], 1570.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[109]</div><div class="csl-right-inline">Deverell, W., and D. Igler, A Companion to California History, New York: John Wiley &#38; Sons, 2013: 21-22.</div>
+    <div class="csl-left-margin">[109]</div><div class="csl-right-inline">Fourney, M. E., “Advances in Holographic Photoelasticity”, Gottenberg, W. G. Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California[C]. New York: ASME, 1971: 17-38.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[110]</div><div class="csl-right-inline">Fitzwilliam, H., [Letter to Bess of Hardwick], 1570.</div>
+    <div class="csl-left-margin">[110]</div><div class="csl-right-inline">Frese, K. S., H. A. Katus, and B. Meder, “Next-Generation Sequencing: From Understanding Biology to Personalized Medicine”, Biology, 2013, 2(1):378-398.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[111]</div><div class="csl-right-inline">Fourney, M. E., “Advances in Holographic Photoelasticity”, Gottenberg, W. G. Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California[C]. New York: ASME, 1971: 17-38.</div>
+    <div class="csl-left-margin">[111]</div><div class="csl-right-inline">IHME, Global Burden of Disease Study 2019 (GBD2019) Data Resources, <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a>, Global Health Data Exchange, 2021.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[112]</div><div class="csl-right-inline">Frese, K. S., H. A. Katus, and B. Meder, “Next-Generation Sequencing: From Understanding Biology to Personalized Medicine”, Biology, 2013, 2(1):378-398.</div>
+    <div class="csl-left-margin">[112]</div><div class="csl-right-inline">Institute for Art and Architecture, Academy of Fine Arts Vienna, Wiener Hitze: Architecture and Storytelling in Times of Heat, Zürich: Park Books, 2023: 78.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[113]</div><div class="csl-right-inline">IHME, Global Burden of Disease Study 2019 (GBD2019) Data Resources, <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a>, Global Health Data Exchange, 2021.</div>
+    <div class="csl-left-margin">[113]</div><div class="csl-right-inline">International Electrotechnical Commission (IEC), Software Interface for Maintenance Information Collection and Analysis (SIMICA): Exchanging Test Results and Session Information via the eXtensible Markup Language (XML), IEC/IEEE 61636-1:2021, New York: IEEE, 2021.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[114]</div><div class="csl-right-inline">Institute For Art And Architecture and Academy Of Fine Arts Vienna, Wiener Hitze: Architecture and Storytelling in Times of Heat, Zürich: Park Books, 2023: 78.</div>
+    <div class="csl-left-margin">[114]</div><div class="csl-right-inline">International Organization for Standardization, ISO Homepage, <a href="https://www.iso.org/home.html">https://www.iso.org/home.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[115]</div><div class="csl-right-inline">International Electrotechnical Commission (IEC), Software Interface for Maintenance Information Collection and Analysis (SIMICA): Exchanging Test Results and Session Information via the eXtensible Markup Language (XML), IEC/IEEE 61636-1:2021, New York: IEEE, 2021.</div>
+    <div class="csl-left-margin">[115]</div><div class="csl-right-inline">ISO, Explosive Atmospheres — Part 20-2: Material Characteristics — Combustible Dusts Test Methods, ISO/IEC 80079-20-2:2016(en), 2016a.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[116]</div><div class="csl-right-inline">International Organization for Standardization, ISO Homepage, <a href="https://www.iso.org/home.html">https://www.iso.org/home.html</a>.</div>
+    <div class="csl-left-margin">[116]</div><div class="csl-right-inline">ISO, Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles, ISO/IEC 80079-20-2:2016(fr), 2016b.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[117]</div><div class="csl-right-inline">ISO, Audit Data Collection, ISO 21378:2019, 2019.</div>
@@ -441,7 +441,7 @@ Qian et al. (2009b)<br>
     <div class="csl-left-margin">[119]</div><div class="csl-right-inline">Kinchy, A., Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops, Cambridge, Mass.: MIT Press, 2012: 50.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[120]</div><div class="csl-right-inline">Myburg, A. A., D. Grattapaglia, G. A. Tuskan, et al., “The Genome of <i>Eucalyptus Grandis</i>”, Nature, 2014, 510:356-362.</div>
+    <div class="csl-left-margin">[120]</div><div class="csl-right-inline">Myburg, A. A., D. Grattapaglia, G. A. Tuskan, et al., “The Genome of <i>Eucalyptus grandis</i>”, Nature, 2014, 510:356-362.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[121]</div><div class="csl-right-inline">Park, J. R., and Y. Tosaka, “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms”, Cataloging &#38; Classification Quarterly, 2010, 48(8):696-715.</div>
@@ -501,7 +501,7 @@ Qian et al. (2009b)<br>
     <div class="csl-left-margin">[139]</div><div class="csl-right-inline">Yufin, S. A., Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000, Rotterdam: A. A. Balkema, 2000.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[140]</div><div class="csl-right-inline">Zhong, X., Q. Yan, and G. Li, Long Time Series Nighttime Light Dataset of China (2000-2020), <a href="http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>, Global Change Research Data Publishing &#38; Repository, 2022.</div>
+    <div class="csl-left-margin">[140]</div><div class="csl-right-inline">Zhong, X., Q. Yan, and G. Li, Long Time Series Nighttime Light Dataset of China: 2000–2020, <a href="https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>, Global Change Research Data Publishing &#38; Repository, 2022.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[141]</div><div class="csl-right-inline">Zotero, [Zotero Download], <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a>.</div>

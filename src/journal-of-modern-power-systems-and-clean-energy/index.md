@@ -78,7 +78,7 @@
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">冯友兰, 冯友兰自选集, 2nd ed. 北京: 首都师范大学出版社, 2008, p. 第1版自序.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">康熙字典, 同文书局影印本., vol. 巳集上 水部. 北京: 中华书局, 1962, p. 50.</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">康熙字典, 同文书局影印本., vol. 巳集上 水部. 北京: 中华书局, 1962, p. 50.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[9]</div><div class="csl-right-inline">战德臣 and 张丽杰, 大学计算机：计算思维与信息素养, 3rd ed. 北京: 高等教育出版社, 2019.</div>
@@ -114,7 +114,7 @@
     <div class="csl-left-margin">[19]</div><div class="csl-right-inline">B. J. Sadock, V. A. Sadock, P. Ruiz, and H. I. Kaplan, Eds., <i>Kaplan &#38; Sadock’s comprehensive textbook of psychiatry</i>, 9th ed., vol. 1. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">Institute For Art And Architecture and Academy Of Fine Arts Vienna, <i>Wiener Hitze: architecture and storytelling in times of heat</i>. Zürich: Park Books, 2023, p. 78.</div>
+    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">Institute for Art and Architecture, Academy of Fine Arts Vienna, <i>Wiener Hitze: architecture and storytelling in times of heat</i>. Zürich: Park Books, 2023, p. 78.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[21]</div><div class="csl-right-inline">A. Kinchy, <i>Seeds, sciences, and struggle: the global politics of transgenic crops</i>. Cambridge, Mass.: MIT Press, 2012, p. 50. Accessed: July 14, 2013. [Online]. Available: <a href="http://lib.myilibrary.com?ID=381443">http://lib.myilibrary.com?ID=381443</a></div>
@@ -123,13 +123,13 @@
     <div class="csl-left-margin">[22]</div><div class="csl-right-inline">A. Praetzellis, <i>Death by theory: a tale of mystery and archaeological theory</i>, Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011, p. 13. Accessed: July 26, 2012. [Online]. Available: <a href="http://lib.myilibrary.com/Open.aspx?id=293666">http://lib.myilibrary.com/Open.aspx?id=293666</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">L. Torres, F. Salisbury, B. Yazbeck, S. Karasmanis, J. Pinder, and C. Ondracek, Eds., <i>Connecting the library to the curriculum</i>. Singapore: Springer Nature, 2021, p. 97. Accessed: Dec. 02, 2025. [Online]. Available: <a href="https://link.springer.com/10.1007/978-981-16-3868-8">https://link.springer.com/10.1007/978-981-16-3868-8</a></div>
+    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">L. Torres, F. Salisbury, B. Yazbeck, S. Karasmanis, J. Pinder, and C. Ondracek, Eds., <i>Connecting the library to the curriculum</i>. Singapore: Springer Nature, 2021, p. 97. Accessed: Dec. 02, 2025. [Online]. Available: <a href="https://link.springer.com/book/10.1007/978-981-16-3868-8">https://link.springer.com/book/10.1007/978-981-16-3868-8</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[24]</div><div class="csl-right-inline">T. Boobier, <i>AI and the future of banking</i>. Chichester: John Wiley &#38; Sons, 2020, p. 35.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">W. Deverell and D. Igler, Eds., <i>A companion to California history</i>. New York: John Wiley &#38; Sons, 2013, pp. 21–22. Accessed: June 24, 2014. [Online]. Available: <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781444305036/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781444305036/summary</a></div>
+    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">W. Deverell and D. Igler, Eds., <i>A companion to California history</i>. New York: John Wiley &#38; Sons, 2013, pp. 21–22. Accessed: June 24, 2014. [Online]. Available: <a href="https://onlinelibrary.wiley.com/doi/book/10.1002/9781444305036">https://onlinelibrary.wiley.com/doi/book/10.1002/9781444305036</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[26]</div><div class="csl-right-inline">阿扬, “谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答,” in 认识记忆力：关于学习、思考与遗忘的脑科学, 《环球科学》杂志社, Ed., 北京: 机械工业出版社, 2023, pp. 15–18.</div>
@@ -282,7 +282,7 @@
     <div class="csl-left-margin">[75]</div><div class="csl-right-inline">井丽南, “支持状态可编程的SDN交换机关键技术研究,” 博士学位论文, 中国科学院大学, 北京, 2022. Accessed: Dec. 02, 2025. [Online]. Available: <a href="http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20209289">http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20209289</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[76]</div><div class="csl-right-inline">B. R. Cairns, “Infrared spectroscopic studies on solid oxygen,” Doctoral dissertation, University of California, Berkeley, 1965.</div>
+    <div class="csl-left-margin">[76]</div><div class="csl-right-inline">B. R. Cairns, “Infrared spectroscopic studies on solid oxygen,” Doctoral dissertation, University of California, Berkeley, Berkeley, 1965.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[77]</div><div class="csl-right-inline">A. Christou, “Improving knowledge graph understanding with contextual views,” Doctoral dissertation, Wright State University, Ohio, 2024. Accessed: Feb. 28, 2025. [Online]. Available: <a href="http://rave.ohiolink.edu/etdc/view?acc_num=wright1715878159408301">http://rave.ohiolink.edu/etdc/view?acc_num=wright1715878159408301</a></div>
@@ -306,7 +306,7 @@
     <div class="csl-left-margin">[83]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs, “United Nations e-government survey 2024: accelerating digital transformation for sustainable development.” Accessed: Feb. 28, 2025. [Online]. Available: <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024">https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会, “信息与文献 资源描述.” Mar. 09, 2021.</div>
+    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会, “信息与文献 资源描述.” Mar. 09, 2021.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[85]</div><div class="csl-right-inline">全国信息技术标准化技术委员会, “信息技术 先进音视频编码 第16部分：广播电视视频.” Apr. 25, 2016.</div>
@@ -327,14 +327,14 @@
     <div class="csl-left-margin">[90]</div><div class="csl-right-inline">“IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation.” IEEE, New York, 2020.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[91]</div><div class="csl-right-inline">American Institute of Aeronautics and Astronautics (AIAA), “Guide to lithium battery safety for space applications.”</div>
-   </div>
+    <div class="csl-left-margin">[91]</div><div class="csl-right-inline">American Institute of Aeronautics and Astronautics (AIAA), “Guide to lithium battery safety for space applications.” 2022.</div>
+  </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[92]</div><div class="csl-right-inline">“Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods.”</div>
-   </div>
+    <div class="csl-left-margin">[92]</div><div class="csl-right-inline">ISO, “Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods.” Feb. 2016.</div>
+  </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[93]</div><div class="csl-right-inline">“Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles.”</div>
-   </div>
+    <div class="csl-left-margin">[93]</div><div class="csl-right-inline">ISO, “Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles.” Feb. 2016.</div>
+  </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[94]</div><div class="csl-right-inline">邓一刚, “全智能节电器,” CN101106276A, Jan. 16, 2008</div>
   </div>
@@ -444,7 +444,7 @@
     <div class="csl-left-margin">[129]</div><div class="csl-right-inline">彭守璋, “1901—2023年中国1km分辨率逐月降水量数据集.” 西北农林科技大学水土保持研究所, July 19, 2024. Accessed: Nov. 25, 2024. [Online]. Available: <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[130]</div><div class="csl-right-inline">刘时银, 郭万钦, and 许君利, “中国第二次水川编目科学数据：2006-2011.” 中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室, 2012. doi: <a href="https://doi.org/10.3972/glacier001.2013.db">10.3972/glacier001.2013.db</a>.</div>
+    <div class="csl-left-margin">[130]</div><div class="csl-right-inline">刘时银, 郭万钦, and 许君利, “中国第二次水川编目科学数据：2006-2011.” 中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室, 2012. doi: <a href="https://doi.org/10.3972/glacier.001.2013.db">10.3972/glacier.001.2013.db</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[131]</div><div class="csl-right-inline">周壮 <i>et al.</i>, “天宫二号遥感图像自然景物分类数据集.” 国家基础学科公共科学数据中心, Sept. 10, 2023. Accessed: July 15, 2025. [Online]. Available: <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a></div>
@@ -453,7 +453,7 @@
     <div class="csl-left-margin">[132]</div><div class="csl-right-inline">郑涵 <i>et al.</i>, “2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据.” Science Data Bank, 2018. Accessed: Feb. 14, 2025. [Online]. Available: <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">黄土高原科学数据中心（西北农林科技大学水土保持研究所）, “青海省县域教育、卫生发展指标（2001—2022年）.” 国家地理资源科学数据中心-黄土高原分中心, Dec. 25, 2024. doi: <a href="https://doi.org/10.12041/geodata.58691800703558.ver1.db">10.12041/geodata.58691800703558.ver1.db</a>.</div>
+    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">黄土高原科学数据中心（西北农林科技大学水土保持研究所）, “青海省县域教育、卫生发展指标（2001—2022年）.” 国家地球系统科学数据中心-黄土高原分中心, Dec. 25, 2024. doi: <a href="https://doi.org/10.12041/geodata.58691800703558.ver1.db">10.12041/geodata.58691800703558.ver1.db</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[134]</div><div class="csl-right-inline">王继民, 罗鹏程, 赵常煜, 郭鑫, 王世奇, and 高正, “人文社会科学数据集检索方法研究的数据集.” 北京大学开放研究数据平台, June 11, 2025. Accessed: July 10, 2025. [Online]. Available: <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a></div>
@@ -462,7 +462,7 @@
     <div class="csl-left-margin">[135]</div><div class="csl-right-inline">L. Sugarman and S. Markham, “Students in a selective high school: some vocationally oriented data.” UK Data Service, 1980. doi: <a href="https://doi.org/10.5255/UKDA-SN-996-1">10.5255/UKDA-SN-996-1</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[136]</div><div class="csl-right-inline">X. Zhong, Q. Yan, and G. Li, “Long time series nighttime light dataset of China (2000-2020).” Global Change Research Data Publishing &#38; Repository, 2022. Accessed: Nov. 25, 2024. [Online]. Available: <a href="http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a></div>
+    <div class="csl-left-margin">[136]</div><div class="csl-right-inline">X. Zhong, Q. Yan, and G. Li, “Long time series nighttime light dataset of China: 2000–2020.” Global Change Research Data Publishing &#38; Repository, 2022. Accessed: Nov. 25, 2024. [Online]. Available: <a href="https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[137]</div><div class="csl-right-inline">IHME, “Global Burden of Disease Study 2019 (GBD2019) data resources.” Global Health Data Exchange, 2021. Accessed: Nov. 25, 2024. [Online]. Available: <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a></div>

@@ -118,7 +118,7 @@
 <sup>17</sup> <b>図書館用語辞典編集委員会, ed.</b>, 最新図書館用語大辞典 (東京: 柏書房株式会社, 2004), p.154.<br>
 <sup>18</sup> <b>Peyton Z. Peebles, Jr.</b>, <i>Probability, Random Variable, and Random Signal Principles</i> (New York: McGraw-Hill, 2001).<br>
 <sup>19</sup> <b>Benjamin J. Sadock, Virginia Alcott Sadock, Pedro Ruiz, and Harold I. Kaplan, eds.</b>, <i>Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry</i> (Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009).<br>
-<sup>20</sup> <b>Institute For Art And Architecture and Academy Of Fine Arts Vienna</b>, <i>Wiener Hitze: Architecture and Storytelling in Times of Heat</i> (Zürich: Park Books, 2023), p.78.<br>
+<sup>20</sup> <b>Institute for Art and Architecture, Academy of Fine Arts Vienna</b>, <i>Wiener Hitze: Architecture and Storytelling in Times of Heat</i> (Zürich: Park Books, 2023), p.78.<br>
 <sup>21</sup> <b>Abby Kinchy</b>, <i>Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops</i> (Cambridge, Mass.: MIT Press, 2012), p.50.<br>
 <sup>22</sup> <b>Adrian Praetzellis</b>, <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i> (Rowman &#38; Littlefield Publishing Group, Inc., 2011), p.13.<br>
 <sup>23</sup> <b>Lynette Torres, Fiona Salisbury, Barbara Yazbeck, Sharon Karasmanis, Janice Pinder, and Caroline Ondracek, eds.</b>, <i>Connecting the Library to the Curriculum</i> (Singapore: Springer Nature, 2021), p.97.<br>
@@ -154,7 +154,7 @@
 <sup>53</sup> <b>David J. Des Marais, Harald Strauss, Roger E. Summons, and J. M. Hayes</b>, “Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment” <i>Nature</i>, 359 (October 1992), pp.605-609.<br>
 <sup>54</sup> <b>Jung-Ran Park and Yuji Tosaka</b>, “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms” <i>Cataloging &#38; Classification Quarterly</i>, 48 (September 2010), pp.696-715.<br>
 <sup>55</sup> <b>Karen S. Frese, Hugo A. Katus, and Benjamin Meder</b>, “Next-Generation Sequencing: From Understanding Biology to Personalized Medicine” <i>Biology</i>, 2 (March 2013), pp.378-398.<br>
-<sup>56</sup> <b>Alexander A. Myburg, Dario Grattapaglia, Gerald A. Tuskan, Uffe Hellsten, Richard D. Hayes, Jane Grimwood, Jerry Jenkins, Erika Lindquist, Hope Tice, Diane Bauer, David M. Goodstein, Inna Dubchak, Alexandre Poliakov, Eshchar Mizrachi, Anand R. K. Kullan, Steven G. Hussey, Desre Pinard, Karen van der Merwe, Pooja Singh, Ida van Jaarsveld, Orzenil B. Silva-Junior, Roberto C. Togawa, Marilia R. Pappas, Danielle A. Faria, Carolina P. Sansaloni, Cesar D. Petroli, Xiaohan Yang, Priya Ranjan, Timothy J. Tschaplinski, Chu-Yu Ye, Ting Li, Lieven Sterck, Kevin Vanneste, Florent Murat, Marçal Soler, Hélène San Clemente, Naijib Saidi, Hua Cassan-Wang, Christophe Dunand, Charles A. Hefer, Erich Bornberg-Bauer, Anna R. Kersting, Kelly Vining, Vindhya Amarasinghe, Martin Ranik, Sushma Naithani, Justin Elser, Alexander E. Boyd, Aaron Liston, Joseph W. Spatafora, Palitha Dharmwardhana, Rajani Raja, Christopher Sullivan, Elisson Romanel, Marcio Alves-Ferreira, Carsten Külheim, William Foley, Victor Carocha, Jorge Paiva, David Kudrna, Sergio H. Brommonschenkel, Giancarlo Pasquali, Margaret Byrne, Philippe Rigault, Josquin Tibbits, Antanas Spokevicius, Rebecca C. Jones, Dorothy A. Steane, René E. Vaillancourt, Brad M. Potts, Fourie Joubert, Kerrie Barry, Georgios J. Pappas, Steven H. Strauss, Pankaj Jaiswal, Jacqueline Grima-Pettenati, Jérôme Salse, Yves Van de Peer, Daniel S. Rokhsar, and Jeremy Schmutz</b>, “The Genome of <i>Eucalyptus Grandis</i>” <i>Nature</i>, 510 (June 2014), pp.356-362.<br>
+<sup>56</sup> <b>Alexander A. Myburg, Dario Grattapaglia, Gerald A. Tuskan, Uffe Hellsten, Richard D. Hayes, Jane Grimwood, Jerry Jenkins, Erika Lindquist, Hope Tice, Diane Bauer, David M. Goodstein, Inna Dubchak, Alexandre Poliakov, Eshchar Mizrachi, Anand R. K. Kullan, Steven G. Hussey, Desre Pinard, Karen van der Merwe, Pooja Singh, Ida van Jaarsveld, Orzenil B. Silva-Junior, Roberto C. Togawa, Marilia R. Pappas, Danielle A. Faria, Carolina P. Sansaloni, Cesar D. Petroli, Xiaohan Yang, Priya Ranjan, Timothy J. Tschaplinski, Chu-Yu Ye, Ting Li, Lieven Sterck, Kevin Vanneste, Florent Murat, Marçal Soler, Hélène San Clemente, Naijib Saidi, Hua Cassan-Wang, Christophe Dunand, Charles A. Hefer, Erich Bornberg-Bauer, Anna R. Kersting, Kelly Vining, Vindhya Amarasinghe, Martin Ranik, Sushma Naithani, Justin Elser, Alexander E. Boyd, Aaron Liston, Joseph W. Spatafora, Palitha Dharmwardhana, Rajani Raja, Christopher Sullivan, Elisson Romanel, Marcio Alves-Ferreira, Carsten Külheim, William Foley, Victor Carocha, Jorge Paiva, David Kudrna, Sergio H. Brommonschenkel, Giancarlo Pasquali, Margaret Byrne, Philippe Rigault, Josquin Tibbits, Antanas Spokevicius, Rebecca C. Jones, Dorothy A. Steane, René E. Vaillancourt, Brad M. Potts, Fourie Joubert, Kerrie Barry, Georgios J. Pappas, Steven H. Strauss, Pankaj Jaiswal, Jacqueline Grima-Pettenati, Jérôme Salse, Yves Van de Peer, Daniel S. Rokhsar, and Jeremy Schmutz</b>, “The Genome of <i>Eucalyptus grandis</i>” <i>Nature</i>, 510 (June 2014), pp.356-362.<br>
 <sup>57</sup> <b>Roger D. Santer and Otar Akanyeti</b>, “Using Artificial Neural Networks to Explain the Attraction of Jewel Beetles (Coleoptera: Buprestidae) to Colored Traps” <i>Insect Science</i> (2025).<br>
 <sup>58</sup> <b>Hiroshi Shinotsuka, Kenji Nagata, Malinda Siriwardana, Hideki Yoshikawa, Hayaru Shouno, and Masato Okada</b>, “Sample Structure Prediction from Measured XPS Data Using Bayesian Estimation and SESSA Simulator” <i>Journal of Electron Spectroscopy and Related Phenomena</i>, 267 (August 2023).<br>
 <sup>59</sup> <b>Pieternella H. van der Veen, Majon Muller, Koen L. Vincken, Theo D. Witkamp, Willem P. T. M. Mali, Yolanda van der Graaf, Mirjam I. Geerlings, and SMART-MR Study Group</b>, “Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study” <i>Journal of the Neurological Sciences</i>, 337 (February 2014), pp.112-118.<br>
@@ -165,7 +165,7 @@
 <sup>64</sup> 汪学军：〈中国农业转基因生物研发进展与安全管理〉，收錄於国家环境保护总局生物安全管理办公室主編：《中国国家生物安全框架实施国际合作项目研讨会论文集》（北京：中国环境科学出版社，2005年），頁22-25。<br>
 <sup>65</sup> 贾东琴、柯平：〈面向数字素养的高校图书馆数字服务体系研究〉，收錄於中国图书馆学会主編：《中国图书馆学会年会论文集》（北京：国家图书馆出版社，2011年），2011年卷，頁45-52。<br>
 <sup>66</sup> 陈志勇编辑：《中国财税文化价值研究：「中国财税文化国际学术研讨会」论文集》（北京：经济科学出版社，2011年）。<br>
-<sup>67</sup> <b>Shanshan Wang</b>, “Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers” paper presented at the 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT), Changzhou, China, December 2022, p.2.<br>
+<sup>67</sup> <b>Shanshan Wang</b>, “Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers” paper presented at the 2022 6th Asian Conference on Artificial Intelligence Technology, Changzhou, China, December 2022, p.2.<br>
 <sup>68</sup> <b>Yang Yu, Erting Pan, Xinya Wang, Yuheng Wu, Xiaoguang Mei, and Jiayi Ma</b>, “Unmixing before Fusion: A Generalized Paradigm for Multi-Source-Based Hyperspectral Image Synthesis” paper presented at the CVPR, Seattle, 2024, p.4.<br>
 <sup>69</sup> <b>Sergey A. Yufin, ed.</b>, <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000</i> (Rotterdam: A. A. Balkema, 2000).<br>
 <sup>70</sup> <b>B. V. Babu, Atulya Nagar, Kusum Deep, Millie Pant, Jagdish Chand Bansal, Kanad Ray, and Umesh Gupta, eds.</b>, <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i> (New Delhi: Springer, 2014).<br>
@@ -174,7 +174,7 @@
 <sup>73</sup> 金燕萍：《社交媒体时代的虚假信息研究》（温州：温州大学硕士学位论文，2020年），頁16。<br>
 <sup>74</sup> 何筱梅：《新媒体时代原生广告的策略与发展研究》（武汉：武汉大学博士学位论文，2016年），頁24-25。<br>
 <sup>75</sup> 井丽南：《支持状态可编程的SDN交换机关键技术研究》（北京：中国科学院大学博士学位论文，2022年），頁43。<br>
-<sup>76</sup> <b>Bruce Richard Cairns</b>, <i>Infrared Spectroscopic Studies on Solid Oxygen</i> (Berkeley: University of California Doctoral dissertation, 1965), p.15.<br>
+<sup>76</sup> <b>Bruce Richard Cairns</b>, <i>Infrared Spectroscopic Studies on Solid Oxygen</i> (Berkeley: University of California, Berkeley Doctoral dissertation, 1965), p.15.<br>
 <sup>77</sup> <b>Antrea Christou</b>, <i>Improving Knowledge Graph Understanding with Contextual Views</i> (Ohio: Wright State University Doctoral dissertation, 2024), p.18.<br>
 <sup>78</sup> 中国互联网络信息中心：《第29次中国互联网络发展状况统计报告》（2012年1月）。<br>
 <sup>79</sup> 汤万金、杨跃翔、刘文、郑建国、王赟松：《人体安全重要技术标准研制最终报告》（2013年9月）。<br>
@@ -182,16 +182,16 @@
 <sup>81</sup> <b>David E. Calkin, Alan A. Ager, and Matthew P. Thompson</b>, <i>A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report</i> (2011), pp.8-9.<br>
 <sup>82</sup> <b>U.S. Department of Transportation Federal Highway Administration</b>, <i>Guidelines for Handling Excavated Acid-Producing Material</i> (Springfield: U.S. Department of Commerce National Information Service, 1990), p.25.<br>
 <sup>83</sup> <b>United Nations Department of Economic and Social Affairs</b>, <i>United Nations E-Government Survey 2024: Accelerating Digital Transformation for Sustainable Development</i> (no date).<br>
-<sup>84</sup> 全国信息与文献标准化技术委员会：《信息与文献 资源描述》（2021年3月）。<br>
+<sup>84</sup> 全国信息与文献标准化技术委员会：《信息与文献 资源描述》（2021年3月）。<br>
 <sup>85</sup> 全国信息技术标准化技术委员会：《信息技术 先进音视频编码 第16部分：广播电视视频》（2016年4月）。<br>
 <sup>86</sup> 工业和信息化部：《信息技术  中文编码字符集》（2022年7月）。<br>
 <sup>87</sup> 国家能源局：《水电工程水温实时监测系统技术规范》（2020年10月）。<br>
 <sup>88</sup> <b>ISO</b>, <i>Audit Data Collection</i> (2019).<br>
 <sup>89</sup> <b>International Electrotechnical Commission (IEC)</b>, <i>Software Interface for Maintenance Information Collection and Analysis (SIMICA): Exchanging Test Results and Session Information via the eXtensible Markup Language (XML)</i> (New York: IEEE, 2021).<br>
 <sup>90</sup> <i>IEEE Approved Draft Standard for Information Technology--Telecommunications and Information Exchange between Systems Local and Metropolitan Area Networks--Specific Requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 3: Wake-up Radio Operation</i> (New York: IEEE, 2020).<br>
-<sup>91</sup> <b>American Institute of Aeronautics and Astronautics (AIAA)</b>, <i>Guide to Lithium Battery Safety for Space Applications</i> (no date).<br>
-<sup>92</sup> <i>Explosive Atmospheres — Part 20-2: Material Characteristics — Combustible Dusts Test Methods</i> (no date).<br>
-<sup>93</sup> <i>Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles</i> (no date).<br>
+<sup>91</sup> <b>American Institute of Aeronautics and Astronautics (AIAA)</b>, <i>Guide to Lithium Battery Safety for Space Applications</i> (2022).<br>
+<sup>92</sup> <b>ISO</b>, <i>Explosive Atmospheres — Part 20-2: Material Characteristics — Combustible Dusts Test Methods</i> (2016).<br>
+<sup>93</sup> <b>ISO</b>, <i>Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles</i> (2016).<br>
 <sup>94</sup> 邓一刚：《全智能节电器》（2008年1月）。<br>
 <sup>95</sup> 张凯军、赵永杰、陈朝岗：《轨道火车及高速轨道火车紧急安全制动辅助装置》（2013年3月）。<br>
 <sup>96</sup> 李华、王昊、康佐：《一种拼接式桥梁模型》（2023年1月）。<br>
@@ -231,10 +231,10 @@
 <sup>130</sup> 刘时银、郭万钦、许君利：《中国第二次水川编目科学数据：2006-2011》（中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室，2012年）。<br>
 <sup>131</sup> 周壮、李盛阳、吴薇、郭威龙、李轩、夏桂松、赵子飞：《天宫二号遥感图像自然景物分类数据集》（国家基础学科公共科学数据中心，2023年9月）。<br>
 <sup>132</sup> 郑涵、于贵瑞、朱先进、王秋凤、张雷明、陈智、孙晓敏、何洪林、苏文、王艳芬、韩士杰、周国逸、赵新全、王辉民、欧阳竹、张宪洲、张扬建、石培礼、李英年、赵亮、张一平、闫俊华、王安志、张军辉、郝彦斌、赵风华、张法伟、周广胜、林光辉、陈世苹、刘绍民、赵斌、贾根锁、张旭东、张玉翠、古松、刘文兆、李彦、王文杰、杨大文、张劲松、张志强、赵仲辉、周石硚、郭海强、沈彦俊、徐自为、黄辉、孟平：《2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据》（Science Data Bank，2018年）。<br>
-<sup>133</sup> 黄土高原科学数据中心（西北农林科技大学水土保持研究所）：《青海省县域教育、卫生发展指标（2001—2022年）》（国家地理资源科学数据中心-黄土高原分中心，2024年12月）。<br>
+<sup>133</sup> 黄土高原科学数据中心（西北农林科技大学水土保持研究所）：《青海省县域教育、卫生发展指标（2001—2022年）》（国家地球系统科学数据中心-黄土高原分中心，2024年12月）。<br>
 <sup>134</sup> 王继民、罗鹏程、赵常煜、郭鑫、王世奇、高正：《人文社会科学数据集检索方法研究的数据集》（北京大学开放研究数据平台，2025年6月）。<br>
 <sup>135</sup> <b>L. Sugarman and S. Markham</b>, <i>Students in a Selective High School: Some Vocationally Oriented Data</i> (UK Data Service, 1980).<br>
-<sup>136</sup> <b>Xiaoya Zhong, Qingwu Yan, and Guie Li</b>, <i>Long Time Series Nighttime Light Dataset of China (2000-2020)</i> (Global Change Research Data Publishing &#38; Repository, 2022).<br>
+<sup>136</sup> <b>Xiaoya Zhong, Qingwu Yan, and Guie Li</b>, <i>Long Time Series Nighttime Light Dataset of China: 2000–2020</i> (Global Change Research Data Publishing &#38; Repository, 2022).<br>
 <sup>137</sup> <b>IHME</b>, <i>Global Burden of Disease Study 2019 (GBD2019) Data Resources</i> (Global Health Data Exchange, 2021).<br>
 <sup>138</sup> 方向明、曹迎杰：《元宇宙在图书馆的应用：理论研究与实践进展》（ChinaXiv，2023年3月）。<br>
 <sup>139</sup> 肖玲、张雪、王永：《数据要素的统计测算方法探究》（PSSXiv，2024年7月）。<br>

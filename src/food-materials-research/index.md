@@ -78,7 +78,7 @@
     <div class="csl-left-margin">7. </div><div class="csl-right-inline">冯友兰, 2008. 冯友兰自选集. 北京: 首都师范大学出版社. 2nd ed.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">8. </div><div class="csl-right-inline">康熙字典, Vol. 巳集上 水部, 1962. 北京: 中华书局. 同文书局影印本 ed.</div>
+    <div class="csl-left-margin">8. </div><div class="csl-right-inline">康熙字典, Vol. 巳集上 水部, 1962. 北京: 中华书局. 同文书局影印本 ed.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">9. </div><div class="csl-right-inline">战德臣, 张丽杰, 2019. 大学计算机：计算思维与信息素养. 北京: 高等教育出版社. 3rd ed.</div>
@@ -114,7 +114,7 @@
     <div class="csl-left-margin">19. </div><div class="csl-right-inline">Sadock BJ, Sadock VA, Ruiz P, Kaplan HI, Eds., 2009. <i>Kaplan &#38; Sadock’s comprehensive textbook of psychiatry</i>, Vol. 1. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins. 9th ed.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">20. </div><div class="csl-right-inline">Institute For Art And Architecture, Academy Of Fine Arts Vienna, 2023. <i>Wiener Hitze: architecture and storytelling in times of heat</i>. Zürich: Park Books</div>
+    <div class="csl-left-margin">20. </div><div class="csl-right-inline">Institute for Art and Architecture, Academy of Fine Arts Vienna, 2023. <i>Wiener Hitze: architecture and storytelling in times of heat</i>. Zürich: Park Books</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">21. </div><div class="csl-right-inline">Kinchy A, 2012. <i>Seeds, sciences, and struggle: the global politics of transgenic crops</i>. Cambridge, Mass.: MIT Press</div>
@@ -282,7 +282,7 @@
     <div class="csl-left-margin">75. </div><div class="csl-right-inline">井丽南, 2022. 支持状态可编程的SDN交换机关键技术研究. <i>支持状态可编程的SDN交换机关键技术研究</i>, Thesis, 中国科学院大学</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">76. </div><div class="csl-right-inline">Cairns BR, 1965. Infrared spectroscopic studies on solid oxygen. <i>Infrared spectroscopic studies on solid oxygen</i>, Thesis, University of California, pp. 224</div>
+    <div class="csl-left-margin">76. </div><div class="csl-right-inline">Cairns BR, 1965. Infrared spectroscopic studies on solid oxygen. <i>Infrared spectroscopic studies on solid oxygen</i>, Thesis, University of California, Berkeley, pp. 224</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">77. </div><div class="csl-right-inline">Christou A, 2024. Improving knowledge graph understanding with contextual views. <i>Improving knowledge graph understanding with contextual views</i>, Thesis, Wright State University</div>
@@ -306,7 +306,7 @@
     <div class="csl-left-margin">83. </div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">84. </div><div class="csl-right-inline">全国信息与文献标准化技术委员会. 2021. 信息与文献 资源描述</div>
+    <div class="csl-left-margin">84. </div><div class="csl-right-inline">全国信息与文献标准化技术委员会. 2021. 信息与文献 资源描述</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">85. </div><div class="csl-right-inline">全国信息技术标准化技术委员会. 2016. <i>信息技术 先进音视频编码 第16部分：广播电视视频</i></div>
@@ -327,13 +327,13 @@
     <div class="csl-left-margin">90. </div><div class="csl-right-inline"><i>IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation</i>. 2020</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">91. </div><div class="csl-right-inline">American Institute of Aeronautics and Astronautics (AIAA). <i>Guide to lithium battery safety for space applications</i></div>
+    <div class="csl-left-margin">91. </div><div class="csl-right-inline">American Institute of Aeronautics and Astronautics (AIAA). 2022. <i>Guide to lithium battery safety for space applications</i></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">92. </div><div class="csl-right-inline"><i>Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods</i></div>
+    <div class="csl-left-margin">92. </div><div class="csl-right-inline">ISO. 2016. <i>Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods</i></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">93. </div><div class="csl-right-inline"><i>Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles</i></div>
+    <div class="csl-left-margin">93. </div><div class="csl-right-inline">ISO. 2016. <i>Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles</i></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">94. </div><div class="csl-right-inline">邓一刚. 2008. 全智能节电器. <i>CN101106276A</i></div>
@@ -462,7 +462,7 @@
     <div class="csl-left-margin">135. </div><div class="csl-right-inline">Sugarman L, Markham S. 1980. Students in a selective high school: some vocationally oriented data</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">136. </div><div class="csl-right-inline">Zhong X, Yan Q, Li G. 2022. Long time series nighttime light dataset of China (2000-2020)</div>
+    <div class="csl-left-margin">136. </div><div class="csl-right-inline">Zhong X, Yan Q, Li G. 2022. Long time series nighttime light dataset of China: 2000–2020</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">137. </div><div class="csl-right-inline">IHME. 2021. Global Burden of Disease Study 2019 (GBD2019) data resources</div>

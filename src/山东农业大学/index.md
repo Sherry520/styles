@@ -9,11 +9,11 @@
 ### 引注
 
 （汪学军，2005）<br>
+（Praetzellis，2011）<br>
 （Wang，2022）<br>
 （扬奎斯特和萨金特，2010）<br>
 （Jenkins and Ruostekoski，2012）<br>
 （肖玲等，2024）<br>
-（Praetzellis，2011）<br>
 （于潇等，2012）<br>
 （Veen <i>et al.</i>，2014）<br>
 
@@ -89,7 +89,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">何筱梅. 新媒体时代原生广告的策略与发展研究[D]. 武汉: 武汉大学, 2016</div>
   <div class="csl-entry">胡健民. 东南极拉斯曼丘陵地区地质图. 北京: 科学出版社</div>
   <div class="csl-entry">湖北省建设厅. 湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令(1931-11-07)</div>
-  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）. 国家地理资源科学数据中心-黄土高原分中心(2024-12-25)[2025-07-10]</div>
+  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）. 国家地球系统科学数据中心-黄土高原分中心(2024-12-25)[2025-07-10]</div>
   <div class="csl-entry">冀超. 一种荒漠化地区生态植被综合培育种植方法[P]. 2001-10-24</div>
   <div class="csl-entry">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会年会论文集. 北京: 国家图书馆出版社, 2011: 45-52</div>
   <div class="csl-entry">金燕萍. 社交媒体时代的虚假信息研究[D]. 温州: 温州大学, 2020</div>
@@ -107,7 +107,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">彭守璋. 1901—2023年中国1km分辨率逐月降水量数据集. 西北农林科技大学水土保持研究所(2024-07-19)[2024-11-25]</div>
   <div class="csl-entry">钱学森. 创建系统学[M]. 太原: 山西科学技术出版社, 2001</div>
   <div class="csl-entry">全国信息技术标准化技术委员会. 信息技术 先进音视频编码 第16部分：广播电视视频. , 2016</div>
-  <div class="csl-entry">全国信息与文献标准化技术委员会. 信息与文献 资源描述. , 2021</div>
+  <div class="csl-entry">全国信息与文献标准化技术委员会. 信息与文献 资源描述. , 2021</div>
   <div class="csl-entry">石顺祥, 许海平, 孙艳玲, 陈利菊, 李家立, 刘继芳. 光折变自适应光外差探测方法[P]. 2002-03-06</div>
   <div class="csl-entry">史国华, 樊金宇, 何益, 邢利娜, 高峰. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法[P]. 2022-09-13</div>
   <div class="csl-entry">谭其骧. 中国历史地图集. 北京: 地图出版社: 6</div>
@@ -148,9 +148,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">佚名. [《昨日之歌》图书封面](2023a-03-06)</div>
   <div class="csl-entry">佚名. 西黄丸(2023b-10-07)[2025-08-26]</div>
   <div class="csl-entry">Anonymous. Coastal wetlands map of China continent. Beijing: China Ocean Press: 50</div>
-  <div class="csl-entry">Anonymous. Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods. , no date</div>
-  <div class="csl-entry">佚名. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles. , 日期不详</div>
-  <div class="csl-entry">Anonymous. Library of Congress[06/12/2020b]</div>
+  <div class="csl-entry">Anonymous. Library of Congress[06/12/2020]</div>
   <div class="csl-entry">于潇, 刘义, 柴跃廷, 孙宏波. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 2012, 52(11): 1518-1523</div>
   <div class="csl-entry">云南省企业联合会, 云南省企业家协会, 云南民族新闻文化发展研究院. 改革开放三十年：云南企业家奋斗史[M]. 芒市: 德宏民族出版社, 2009</div>
   <div class="csl-entry">战德臣, 张丽杰. 大学计算机：计算思维与信息素养[M]. 北京: 高等教育出版社, 2019</div>
@@ -168,12 +166,12 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">中国造纸学会. 中国造纸年鉴：2003[M]. 北京: 中国轻工业出版社, 2003</div>
   <div class="csl-entry">周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松, 赵子飞. 天宫二号遥感图像自然景物分类数据集. 国家基础学科公共科学数据中心(2023-09-10)[2025-07-15]</div>
   <div class="csl-entry">訾冬梅, 高秀静. 内蒙古自治区地图册. 北京: 中国地图出版社</div>
-  <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA). Guide to lithium battery safety for space applications. , no date</div>
+  <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA). Guide to lithium battery safety for space applications. , 2022</div>
   <div class="csl-entry">António M, Pepper L. Histórias de Portugal: livros caídos(2019-07-13)[2025-01-02]</div>
   <div class="csl-entry">Bevington D., Brown J. R. William Shakespeare(2025-01-01)[01/03/2025]</div>
   <div class="csl-entry">Bloss C. S., Wineinger N. E., Peters M., Boeldt D. L., Ariniello L., Kim J. Y., Sheard J., Komatireddy R., Barrett P., Topol E. J. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors. bioRxiv(2015-10-28)</div>
   <div class="csl-entry">Boobier T. AI and the future of banking[M]. Chichester: John Wiley &#38; Sons, 2020</div>
-  <div class="csl-entry">Cairns B. R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: University of California, 1965</div>
+  <div class="csl-entry">Cairns B. R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: University of California, Berkeley, 1965</div>
   <div class="csl-entry">Calkin D. E., Ager A. A., Thompson M. P. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report2011</div>
   <div class="csl-entry">Caplan P. Cataloging internet resources[J]. The Public-Access Computer Systems Review, 1993, 4(2): 61–66</div>
   <div class="csl-entry">Christou A. Improving knowledge graph understanding with contextual views[D]. Ohio: Wright State University, 2024</div>
@@ -183,9 +181,11 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Fourney M. E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, 1971: 17–38</div>
   <div class="csl-entry">Frese K. S., Katus H. A., Meder B. Next-generation sequencing: from understanding biology to personalized medicine[J]. Biology, 2013, 2(1): 378–398</div>
   <div class="csl-entry">IHME. Global Burden of Disease Study 2019 (GBD2019) data resources. Global Health Data Exchange[11/25/2024]</div>
-  <div class="csl-entry">Institute For Art And Architecture, Academy Of Fine Arts Vienna. Wiener Hitze: architecture and storytelling in times of heat[M]. Zürich: Park Books, 2023</div>
+  <div class="csl-entry">Institute for Art and Architecture, Academy of Fine Arts Vienna. Wiener Hitze: architecture and storytelling in times of heat[M]. Zürich: Park Books, 2023</div>
   <div class="csl-entry">International Electrotechnical Commission (IEC). Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML). New York: IEEE, 2021</div>
   <div class="csl-entry">International Organization for Standardization. ISO homepage[10/06/2020]</div>
+  <div class="csl-entry">ISO. Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods. , 2016a</div>
+  <div class="csl-entry">ISO. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles. , 2016b</div>
   <div class="csl-entry">ISO. Audit data collection. , 2019</div>
   <div class="csl-entry">Jenkins S. D., Ruostekoski J. Controlled manipulation of light by cooperative response of atoms in an optical lattice. arXiv(2012-03-18)</div>
   <div class="csl-entry">Kinchy A. Seeds, sciences, and struggle: the global politics of transgenic crops[M]. Cambridge, Mass.: MIT Press, 2012</div>
@@ -206,7 +206,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C]//, 2022: 2</div>
   <div class="csl-entry">Weinstein L., Swartz M. N. Pathogenic properties of invading microorganisms[M]//Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 457–472</div>
   <div class="csl-entry">Yu Y., Pan E., Wang X., Wu Y., Mei X., Ma J. Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis[C]//, 2024: 4</div>
-  <div class="csl-entry">Zhong X., Yan Q., Li G. Long time series nighttime light dataset of China (2000-2020). Global Change Research Data Publishing &#38; Repository[11/25/2024]</div>
+  <div class="csl-entry">Zhong X., Yan Q., Li G. Long time series nighttime light dataset of China: 2000–2020. Global Change Research Data Publishing &#38; Repository[11/25/2024]</div>
   <div class="csl-entry">Zotero. [Zotero download][04/08/2024]</div>
 </div>
 

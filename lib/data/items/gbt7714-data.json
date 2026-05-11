@@ -142,7 +142,7 @@
 		"publisher": "中华书局",
 		"publisher-place": "北京",
 		"title": "康熙字典",
-		"volume": "巳集上 水部",
+		"volume": "巳集上 水部",
 		"issued": {
 			"date-parts": [["1962"]]
 		}
@@ -446,10 +446,7 @@
 		"title-short": "Wiener Hitze",
 		"author": [
 			{
-				"literal": "Institute For Art And Architecture"
-			},
-			{
-				"literal": "Academy Of Fine Arts Vienna"
+				"literal": "Institute for Art and Architecture, Academy of Fine Arts Vienna"
 			}
 		],
 		"issued": {
@@ -516,7 +513,7 @@
 		"publisher": "Springer Nature",
 		"publisher-place": "Singapore",
 		"title": "Connecting the library to the curriculum",
-		"URL": "https://link.springer.com/10.1007/978-981-16-3868-8",
+		"URL": "https://link.springer.com/book/10.1007/978-981-16-3868-8",
 		"editor": [
 			{
 				"family": "Torres",
@@ -580,7 +577,7 @@
 		"publisher": "John Wiley & Sons",
 		"publisher-place": "New York",
 		"title": "A companion to California history",
-		"URL": "http://onlinelibrary.wiley.com/doi/10.1002/9781444305036/summary",
+		"URL": "https://onlinelibrary.wiley.com/doi/book/10.1002/9781444305036",
 		"editor": [
 			{
 				"family": "Deverell",
@@ -1394,7 +1391,7 @@
 		"ISSN": "1476-4687",
 		"language": "en-US",
 		"page": "356-362",
-		"title": "The genome of <i>Eucalyptus grandis</i>",
+		"title": "The genome of <i><span class=\"nocase\">Eucalyptus grandis</span></i>",
 		"URL": "https://www.nature.com/articles/nature13308.pdf",
 		"volume": "510",
 		"author": [
@@ -2031,7 +2028,7 @@
 		"citation-key": "gbt7714.b.5:8",
 		"DOI": "10.1109/ACAIT56212.2022.10137867",
 		"event-place": "Changzhou, China",
-		"event-title": "2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)",
+		"event-title": "2022 6th Asian Conference on Artificial Intelligence Technology",
 		"language": "en-US",
 		"page": "2",
 		"title": "Application of improved SOM neural network in intelligent auditing of hospital financial vouchers",
@@ -2279,7 +2276,7 @@
 		"language": "en-US",
 		"note": "page: 15",
 		"number-of-pages": "224",
-		"publisher": "University of California",
+		"publisher": "University of California, Berkeley",
 		"publisher-place": "Berkeley",
 		"title": "Infrared spectroscopic studies on solid oxygen",
 		"author": [
@@ -2471,7 +2468,7 @@
 		"language": "zh-CN",
 		"number": "GB/T 3792—2021",
 		"status": "现行",
-		"title": "信息与文献 资源描述",
+		"title": "信息与文献 资源描述",
 		"author": [
 			{
 				"literal": "全国信息与文献标准化技术委员会"
@@ -2598,7 +2595,10 @@
 			{
 				"literal": "American Institute of Aeronautics and Astronautics (AIAA)"
 			}
-		]
+		],
+		"issued": {
+			"date-parts": [["2022"]]
+		}
 	},
 	{
 		"id": "gbt7714.b.8:9",
@@ -2606,7 +2606,16 @@
 		"citation-key": "gbt7714.b.8:9",
 		"language": "en-US",
 		"number": "ISO/IEC 80079-20-2:2016(en)",
-		"title": "Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods"
+		"section": "ISO/TMBG",
+		"title": "Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods",
+		"author": [
+			{
+				"literal": "ISO"
+			}
+		],
+		"issued": {
+			"date-parts": [["2016", 2]]
+		}
 	},
 	{
 		"id": "gbt7714.b.8:10",
@@ -2614,7 +2623,16 @@
 		"citation-key": "gbt7714.b.8:10",
 		"language": "fr-FR",
 		"number": "ISO/IEC 80079-20-2:2016(fr)",
-		"title": "Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles"
+		"section": "ISO/TMBG",
+		"title": "Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles",
+		"author": [
+			{
+				"literal": "ISO"
+			}
+		],
+		"issued": {
+			"date-parts": [["2016", 2]]
+		}
 	},
 	{
 		"id": "gbt7714.b.9:1",
@@ -3234,7 +3252,7 @@
 		"type": "map",
 		"citation-key": "gbt7714.b.12:3",
 		"language": "zh-CN",
-		"note": "dimensions: 97x67cm\ntex.entrytype: map",
+		"note": "dimensions: 97cm×67cm\ntex.entrytype: map",
 		"publisher": "武汉大学出版社",
 		"publisher-place": "武汉",
 		"title": "阳新县标准地名图",
@@ -3252,7 +3270,7 @@
 		"type": "map",
 		"citation-key": "gbt7714.b.12:4",
 		"language": "zh-CN",
-		"note": "dimensions: 100x70cm\ntex.entrytype: map",
+		"note": "dimensions: 100cm×70cm\ntex.entrytype: map",
 		"publisher": "科学出版社",
 		"publisher-place": "北京",
 		"scale": "1:3000000",
@@ -3404,7 +3422,7 @@
 		"id": "gbt7714.b.13:2",
 		"type": "dataset",
 		"citation-key": "gbt7714.b.13:2",
-		"DOI": "10.3972/glacier001.2013.db",
+		"DOI": "10.3972/glacier.001.2013.db",
 		"language": "zh-CN",
 		"publisher": "中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室",
 		"title": "中国第二次水川编目科学数据：2006-2011",
@@ -3639,7 +3657,7 @@
 		"citation-key": "gbt7714.b.13:5",
 		"DOI": "10.12041/geodata.58691800703558.ver1.db",
 		"language": "zh-CN",
-		"publisher": "国家地理资源科学数据中心-黄土高原分中心",
+		"publisher": "国家地球系统科学数据中心-黄土高原分中心",
 		"title": "青海省县域教育、卫生发展指标（2001—2022年）",
 		"URL": "https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558",
 		"author": [
@@ -3725,8 +3743,8 @@
 		"language": "en-US",
 		"note": "tex.doi: 10.3974/geodb.2022.06.01.V1",
 		"publisher": "Global Change Research Data Publishing & Repository",
-		"title": "Long time series nighttime light dataset of China (2000-2020)",
-		"URL": "http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1",
+		"title": "Long time series nighttime light dataset of China: 2000–2020",
+		"URL": "https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1",
 		"author": [
 			{
 				"family": "Zhong",

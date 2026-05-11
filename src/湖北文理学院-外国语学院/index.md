@@ -9,11 +9,11 @@
 ### 引注
 
 (汪学军，2005)<br>
+(Praetzellis, 2011)<br>
 (Wang, 2022)<br>
 (扬奎斯特和萨金特，2010)<br>
 (Jenkins and Ruostekoski, 2012)<br>
 (肖玲 等，2024)<br>
-(Praetzellis, 2011)<br>
 (于潇 等，2012)<br>
 (Veen et al., 2014)<br>
 
@@ -31,7 +31,7 @@
     <div class="csl-left-margin">[3]</div><div class="csl-right-inline">Veen, P. H. van der, M. Muller, K. L. Vincken, et al. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J]. <i>Journal of the Neurological Sciences</i>, 2014(1/2): 112-118.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Wang, S. <i>Application of improved SOM neural network in intelligent auditing of hospital financial vouchers</i>[C]//2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT). , 2022: 2.</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Wang, S. <i>Application of improved SOM neural network in intelligent auditing of hospital financial vouchers</i>[C]//2022 6th Asian Conference on Artificial Intelligence Technology. , 2022: 2.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[5]</div><div class="csl-right-inline">汪学军. 中国农业转基因生物研发进展与安全管理[C]//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2005: 22-25.</div>
@@ -96,70 +96,70 @@ Qian et al. (2009b)<br>
     <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Anon. <i>IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation</i>: IEEE P802.11ba/D8.0-2020[S]. New York: IEEE, 2020.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Anon. <i>Library of Congress</i>[EB/OL]. [2020a-06-12]. <a href="https://www.loc.gov/">https://www.loc.gov/</a>.</div>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Anon. <i>Library of Congress</i>[EB/OL]. [2020-06-12]. <a href="https://www.loc.gov/">https://www.loc.gov/</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Anon. <i>Coastal wetlands map of China continent</i>[CM]. Beijing: China Ocean Press, 2024: 50.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">Anon. <i>Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods</i>: ISO/IEC 80079-20-2:2016(en)[S].</div>
+    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">American Association for the Advancement of Science. <i>Science</i>[J]. 1883, 1883，1（1）—. Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">American Association for the Advancement of Science. <i>Science</i>[J]. 1883, 1883，1（1）—. Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">American Institute of Aeronautics and Astronautics (AIAA). <i>Guide to lithium battery safety for space applications</i>: AIAA G-136-2022[S].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[9]</div><div class="csl-right-inline">American Institute of Aeronautics and Astronautics (AIAA). <i>Guide to lithium battery safety for space applications</i>: AIAA G-136-2022[S].</div>
+    <div class="csl-left-margin">[9]</div><div class="csl-right-inline">Babu, B. V., A. Nagar, K. Deep, et al. <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>[M]. New Delhi: Springer, 2014.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">Babu, B. V., A. Nagar, K. Deep, et al. <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>[M]. New Delhi: Springer, 2014.</div>
+    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">Bevington, D. &#38; J. R. Brown. <i>William Shakespeare</i>[EB/OL]. (2025-01-01)[2025-01-03]. <a href="https://www.britannica.com/biography/William-Shakespeare">https://www.britannica.com/biography/William-Shakespeare</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">Bevington, D. &#38; J. R. Brown. <i>William Shakespeare</i>[EB/OL]. (2025-01-01)[2025-01-03]. <a href="https://www.britannica.com/biography/William-Shakespeare">https://www.britannica.com/biography/William-Shakespeare</a>.</div>
+    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">Bloss, C. S., N. E. Wineinger, M. Peters, et al. <i>A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors</i>[EB]. bioRxiv, 2015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">Bloss, C. S., N. E. Wineinger, M. Peters, et al. <i>A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors</i>[EB]. bioRxiv, 2015.</div>
+    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">Boobier, T. <i>AI and the future of banking</i>[M]. Chichester: John Wiley &#38; Sons, 2020: 35.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[13]</div><div class="csl-right-inline">Boobier, T. <i>AI and the future of banking</i>[M]. Chichester: John Wiley &#38; Sons, 2020: 35.</div>
+    <div class="csl-left-margin">[13]</div><div class="csl-right-inline">Cairns, B. R. <i>Infrared spectroscopic studies on solid oxygen</i>[D]. Berkeley: University of California, Berkeley, 1965: 15.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">Cairns, B. R. <i>Infrared spectroscopic studies on solid oxygen</i>[D]. Berkeley: University of California, 1965: 15.</div>
+    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">Calkin, D. E., A. A. Ager, &#38; M. P. Thompson. <i>A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report</i>: RMRS-GTR-262[R]. , 2011: 8-9.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">Calkin, D. E., A. A. Ager, &#38; M. P. Thompson. <i>A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report</i>: RMRS-GTR-262[R]. , 2011: 8-9.</div>
+    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">Caplan, P. Cataloging internet resources[J]. <i>The Public-Access Computer Systems Review</i>, 1993(2): 61-66.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">Caplan, P. Cataloging internet resources[J]. <i>The Public-Access Computer Systems Review</i>, 1993(2): 61-66.</div>
+    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">Christou, A. <i>Improving knowledge graph understanding with contextual views</i>[D]. Ohio: Wright State University, 2024: 18.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">Christou, A. <i>Improving knowledge graph understanding with contextual views</i>[D]. Ohio: Wright State University, 2024: 18.</div>
+    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">Cribb, R. <i>Historical atlas of Indonesia</i>[CM]. Abingdon: Routledge, 2015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Cribb, R. <i>Historical atlas of Indonesia</i>[CM]. Abingdon: Routledge, 2015.</div>
+    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Des Marais, D. J., H. Strauss, R. E. Summons, et al. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]. <i>Nature</i>, 1992: 605-609.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[19]</div><div class="csl-right-inline">Des Marais, D. J., H. Strauss, R. E. Summons, et al. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]. <i>Nature</i>, 1992: 605-609.</div>
+    <div class="csl-left-margin">[19]</div><div class="csl-right-inline">Deverell, W. &#38; D. Igler. <i>A companion to California history</i>[M]. New York: John Wiley &#38; Sons, 2013: 21-22.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">Deverell, W. &#38; D. Igler. <i>A companion to California history</i>[M]. New York: John Wiley &#38; Sons, 2013: 21-22.</div>
+    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">Fourney, M. E. <i>Advances in holographic photoelasticity</i>[C]//Gottenberg, W. G. <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>. New York: ASME, 1971: 17-38.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[21]</div><div class="csl-right-inline">Fourney, M. E. <i>Advances in holographic photoelasticity</i>[C]//Gottenberg, W. G. <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>. New York: ASME, 1971: 17-38.</div>
+    <div class="csl-left-margin">[21]</div><div class="csl-right-inline">Frese, K. S., H. A. Katus, &#38; B. Meder. Next-generation sequencing: from understanding biology to personalized medicine[J]. <i>Biology</i>, 2013(1): 378-398.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">Frese, K. S., H. A. Katus, &#38; B. Meder. Next-generation sequencing: from understanding biology to personalized medicine[J]. <i>Biology</i>, 2013(1): 378-398.</div>
+    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">IHME. <i>Global Burden of Disease Study 2019 (GBD2019) data resources</i>[DS/OL]. Global Health Data Exchange, 2021. <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">IHME. <i>Global Burden of Disease Study 2019 (GBD2019) data resources</i>[DS/OL]. Global Health Data Exchange, 2021. <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a>.</div>
+    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">Institute for Art and Architecture, Academy of Fine Arts Vienna. <i>Wiener Hitze: architecture and storytelling in times of heat</i>[M]. Zürich: Park Books, 2023: 78.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">Institute For Art And Architecture &#38; Academy Of Fine Arts Vienna. <i>Wiener Hitze: architecture and storytelling in times of heat</i>[M]. Zürich: Park Books, 2023: 78.</div>
+    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">International Electrotechnical Commission (IEC). <i>Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML)</i>: IEC/IEEE 61636-1:2021[S]. New York: IEEE, 2021.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">International Electrotechnical Commission (IEC). <i>Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML)</i>: IEC/IEEE 61636-1:2021[S]. New York: IEEE, 2021.</div>
+    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">International Organization for Standardization. <i>ISO homepage</i>[EB/OL]. [2020-10-06]. <a href="https://www.iso.org/home.html">https://www.iso.org/home.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">International Organization for Standardization. <i>ISO homepage</i>[EB/OL]. [2020-10-06]. <a href="https://www.iso.org/home.html">https://www.iso.org/home.html</a>.</div>
+    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">ISO. <i>Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods</i>: ISO/IEC 80079-20-2:2016(en)[S].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[27]</div><div class="csl-right-inline">ISO. <i>Audit data collection</i>: ISO 21378:2019[S].</div>
@@ -216,7 +216,7 @@ Qian et al. (2009b)<br>
     <div class="csl-left-margin">[44]</div><div class="csl-right-inline">Veen, P. H. van der, M. Muller, K. L. Vincken, et al. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J]. <i>Journal of the Neurological Sciences</i>, 2014(1/2): 112-118.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Wang, S. <i>Application of improved SOM neural network in intelligent auditing of hospital financial vouchers</i>[C]//2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT). , 2022: 2.</div>
+    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Wang, S. <i>Application of improved SOM neural network in intelligent auditing of hospital financial vouchers</i>[C]//2022 6th Asian Conference on Artificial Intelligence Technology. , 2022: 2.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Weinstein, L. &#38; M. N. Swartz. <i>Pathogenic properties of invading microorganisms</i>[M]//Sodeman, W. A., Jr. &#38; W. A. Sodeman. <i>Pathologic physiology: mechanisms of disease</i>. 5th ed. Philadelphia: Saunders, 1974: 457-472.</div>
@@ -228,13 +228,13 @@ Qian et al. (2009b)<br>
     <div class="csl-left-margin">[48]</div><div class="csl-right-inline">Yufin, S. A. <i>Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000</i>[M]. Rotterdam: A. A. Balkema, 2000.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[49]</div><div class="csl-right-inline">Zhong, X., Q. Yan, &#38; G. Li. <i>Long time series nighttime light dataset of China (2000-2020)</i>[DS/OL]. Global Change Research Data Publishing &#38; Repository, 2022. <a href="http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>.</div>
+    <div class="csl-left-margin">[49]</div><div class="csl-right-inline">Zhong, X., Q. Yan, &#38; G. Li. <i>Long time series nighttime light dataset of China: 2000–2020</i>[DS/OL]. Global Change Research Data Publishing &#38; Repository, 2022. <a href="https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[50]</div><div class="csl-right-inline">Zotero. <i>[Zotero download]</i>[EB/OL]. [2024-04-08]. <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[51]</div><div class="csl-right-inline">佚名. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles: ISO/IEC 80079-20-2:2016(fr)[S].</div>
+    <div class="csl-left-margin">[51]</div><div class="csl-right-inline">ISO. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles: ISO/IEC 80079-20-2:2016(fr)[S].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[52]</div><div class="csl-right-inline">史国华, 樊金宇, 何益, 等. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法: JP2022539784A[P]. 2022-09-13.</div>
@@ -315,7 +315,7 @@ Qian et al. (2009b)<br>
     <div class="csl-left-margin">[77]</div><div class="csl-right-inline">湖北省建设厅. 湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令[Z]. 武汉: 湖北省档案馆, 1931.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[78]</div><div class="csl-right-inline">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]. 国家地理资源科学数据中心-黄土高原分中心, 2024. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>.</div>
+    <div class="csl-left-margin">[78]</div><div class="csl-right-inline">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]. 国家地球系统科学数据中心-黄土高原分中心, 2024. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[79]</div><div class="csl-right-inline">冀超. 一种荒漠化地区生态植被综合培育种植方法: CN1318281A[P]. 2001-10-24.</div>
@@ -375,7 +375,7 @@ Qian et al. (2009b)<br>
     <div class="csl-left-margin">[97]</div><div class="csl-right-inline">全国信息技术标准化技术委员会. 信息技术 先进音视频编码 第16部分：广播电视视频: GB/T 20090.16—2016[S].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[98]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021[S].</div>
+    <div class="csl-left-margin">[98]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021[S].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[99]</div><div class="csl-right-inline">石顺祥, 许海平, 孙艳玲, 等. 光折变自适应光外差探测方法: CN1338652A[P]. 2002-03-06.</div>
@@ -432,7 +432,7 @@ Qian et al. (2009b)<br>
     <div class="csl-left-margin">[116]</div><div class="csl-right-inline">佚名. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[Z]. 武汉: 武汉大学档案馆, 1949.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[117]</div><div class="csl-right-inline">佚名. 康熙字典: 巳集上 水部[M]. 同文书局影印本. 北京: 中华书局, 1962: 50.</div>
+    <div class="csl-left-margin">[117]</div><div class="csl-right-inline">佚名. 康熙字典: 巳集上 水部[M]. 同文书局影印本. 北京: 中华书局, 1962: 50.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[118]</div><div class="csl-right-inline">佚名. 周易外传：卷5[M]//王夫之. 船山全书: 第1册. 修订版. 长沙: 岳麓书社, 2011: 983-1029.</div>

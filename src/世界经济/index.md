@@ -9,11 +9,11 @@
 ### 引注
 
 （汪学军，2005）<br>
+（Praetzellis，2011）<br>
 （Wang，2022）<br>
 （扬奎斯特和萨金特，2010）<br>
 （Jenkins and Ruostekoski，2012）<br>
 （肖玲等，2024）<br>
-（Praetzellis，2011）<br>
 （于潇等，2012）<br>
 （Veen <i>et al.</i>，2014）<br>
 
@@ -91,7 +91,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">何筱梅（2016）：《新媒体时代原生广告的策略与发展研究》，武汉大学博士学位论文，2016年。</div>
   <div class="csl-entry">胡健民（2021）：《东南极拉斯曼丘陵地区地质图》，科学出版社，2021年。</div>
   <div class="csl-entry">湖北省建设厅（1931）：《湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令》，1931年。</div>
-  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）（2024）：《青海省县域教育、卫生发展指标（2001—2022年）》，国家地理资源科学数据中心-黄土高原分中心，2024年。</div>
+  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）（2024）：《青海省县域教育、卫生发展指标（2001—2022年）》，国家地球系统科学数据中心-黄土高原分中心，2024年。</div>
   <div class="csl-entry">冀超（2001）：《一种荒漠化地区生态植被综合培育种植方法》，2001年。</div>
   <div class="csl-entry">贾东琴、柯平（2011）：《面向数字素养的高校图书馆数字服务体系研究》，载中国图书馆学会主编：《中国图书馆学会年会论文集》，国家图书馆出版社，2011年。</div>
   <div class="csl-entry">金燕萍（2020）：《社交媒体时代的虚假信息研究》，温州大学硕士学位论文，2020年。</div>
@@ -111,7 +111,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">彭守璋（2024）：《1901—2023年中国1km分辨率逐月降水量数据集》，西北农林科技大学水土保持研究所，2024年。</div>
   <div class="csl-entry">钱学森（2001）：《创建系统学》，山西科学技术出版社，2001年。</div>
   <div class="csl-entry">全国信息技术标准化技术委员会（2016）：《信息技术 先进音视频编码 第16部分：广播电视视频》，2016年。</div>
-  <div class="csl-entry">全国信息与文献标准化技术委员会（2021）：《信息与文献 资源描述》，2021年。</div>
+  <div class="csl-entry">全国信息与文献标准化技术委员会（2021）：《信息与文献 资源描述》，2021年。</div>
   <div class="csl-entry">石顺祥、许海平、孙艳玲、陈利菊、李家立、刘继芳（2002）：《光折变自适应光外差探测方法》，2002年。</div>
   <div class="csl-entry">史国华; 樊金宇; 何益; 邢利娜; and 高峰 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法.</div>
   <div class="csl-entry">谭其骧（1982）：《中国历史地图集》，地图出版社，1982年。</div>
@@ -158,7 +158,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Bevington, D. and Brown, J. R. <i>William Shakespeare</i>.</div>
   <div class="csl-entry">Bloss, C. S.; Wineinger, N. E.; Peters, M.; Boeldt, D. L.; Ariniello, L.; Kim, J. Y.; Sheard, J.; Komatireddy, R.; Barrett, P. and Topol, E. J. “A Prospective Randomized Trial Examining Health Care Utilization in Individuals Using Multiple Smartphone-Enabled Biosensors.”.</div>
   <div class="csl-entry">Boobier, T. <i>AI and the Future of Banking</i> Chichester: John Wiley &#38; Sons.</div>
-  <div class="csl-entry">Cairns, B. R. <i>Infrared Spectroscopic Studies on Solid Oxygen</i> Berkeley: University of California.</div>
+  <div class="csl-entry">Cairns, B. R. <i>Infrared Spectroscopic Studies on Solid Oxygen</i> Berkeley: University of California, Berkeley.</div>
   <div class="csl-entry">Calkin, D. E.; Ager, A. A. and Thompson, M. P. “A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report.” RMRS-GTR-262.</div>
   <div class="csl-entry">Caplan, P. “Cataloging Internet Resources.” <i>The Public-Access Computer Systems Review</i>, 1993, 4(2), pp. 61-66.</div>
   <div class="csl-entry">Christou, A. <i>Improving Knowledge Graph Understanding with Contextual Views</i> Ohio: Wright State University.</div>
@@ -169,13 +169,15 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Fourney, M. E. “Advances in Holographic Photoelasticity.” in Gottenberg, W. G., ed: <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i> New York: ASME.</div>
   <div class="csl-entry">Frese, K. S.; Katus, H. A. and Meder, B. “Next-Generation Sequencing: From Understanding Biology to Personalized Medicine.” <i>Biology</i>, 2013, 2(1), pp. 378-398.</div>
   <div class="csl-entry">IHME <i>Global Burden of Disease Study 2019 (GBD2019) Data Resources</i> Global Health Data Exchange.</div>
-  <div class="csl-entry">Institute For Art And Architecture and Academy Of Fine Arts Vienna <i>Wiener Hitze: Architecture and Storytelling in Times of Heat</i> Zürich: Park Books.</div>
+  <div class="csl-entry">Institute for Art and Architecture, Academy of Fine Arts Vienna <i>Wiener Hitze: Architecture and Storytelling in Times of Heat</i> Zürich: Park Books.</div>
   <div class="csl-entry">International Electrotechnical Commission (IEC) <i>Software Interface for Maintenance Information Collection and Analysis (SIMICA): Exchanging Test Results and Session Information via the eXtensible Markup Language (XML)</i> New York: IEEE.</div>
   <div class="csl-entry">International Organization for Standardization <i>ISO Homepage</i>.</div>
+  <div class="csl-entry">ISO <i>Explosive Atmospheres — Part 20-2: Material Characteristics — Combustible Dusts Test Methods</i>.</div>
+  <div class="csl-entry">ISO <i>Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles</i>.</div>
   <div class="csl-entry">ISO <i>Audit Data Collection</i>.</div>
   <div class="csl-entry">Jenkins, S. D. and Ruostekoski, J. “Controlled Manipulation of Light by Cooperative Response of Atoms in an Optical Lattice.” arXiv:1112.6136.</div>
   <div class="csl-entry">Kinchy, A. <i>Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops</i> Cambridge, Mass.: MIT Press.</div>
-  <div class="csl-entry">Myburg, A. A.; Grattapaglia, D.; Tuskan, G. A.; Hellsten, U.; Hayes, R. D.; Grimwood, J.; Jenkins, J.; Lindquist, E.; Tice, H.; Bauer, D.; Goodstein, D. M.; Dubchak, I.; Poliakov, A.; Mizrachi, E.; Kullan, A. R. K.; Hussey, S. G.; Pinard, D.; Merwe, K. van der; Singh, P.; Jaarsveld, I. van; Silva-Junior, O. B.; Togawa, R. C.; Pappas, M. R.; Faria, D. A.; Sansaloni, C. P.; Petroli, C. D.; Yang, X.; Ranjan, P.; Tschaplinski, T. J.; Ye, C. Y.; Li, T.; Sterck, L.; Vanneste, K.; Murat, F.; Soler, M.; Clemente, H. S.; Saidi, N.; Cassan-Wang, H.; Dunand, C.; Hefer, C. A.; Bornberg-Bauer, E.; Kersting, A. R.; Vining, K.; Amarasinghe, V.; Ranik, M.; Naithani, S.; Elser, J.; Boyd, A. E.; Liston, A.; Spatafora, J. W.; Dharmwardhana, P.; Raja, R.; Sullivan, C.; Romanel, E.; Alves-Ferreira, M.; Külheim, C.; Foley, W.; Carocha, V.; Paiva, J.; Kudrna, D.; Brommonschenkel, S. H.; Pasquali, G.; Byrne, M.; Rigault, P.; Tibbits, J.; Spokevicius, A.; Jones, R. C.; Steane, D. A.; Vaillancourt, R. E.; Potts, B. M.; Joubert, F.; Barry, K.; Pappas, G. J.; Strauss, S. H.; Jaiswal, P.; Grima-Pettenati, J.; Salse, J.; Van de Peer, Y.; Rokhsar, D. S. and Schmutz, J. “The Genome of <i>Eucalyptus Grandis</i>.” <i>Nature</i>, 2014, vol. 510, pp. 356-362.</div>
+  <div class="csl-entry">Myburg, A. A.; Grattapaglia, D.; Tuskan, G. A.; Hellsten, U.; Hayes, R. D.; Grimwood, J.; Jenkins, J.; Lindquist, E.; Tice, H.; Bauer, D.; Goodstein, D. M.; Dubchak, I.; Poliakov, A.; Mizrachi, E.; Kullan, A. R. K.; Hussey, S. G.; Pinard, D.; Merwe, K. van der; Singh, P.; Jaarsveld, I. van; Silva-Junior, O. B.; Togawa, R. C.; Pappas, M. R.; Faria, D. A.; Sansaloni, C. P.; Petroli, C. D.; Yang, X.; Ranjan, P.; Tschaplinski, T. J.; Ye, C. Y.; Li, T.; Sterck, L.; Vanneste, K.; Murat, F.; Soler, M.; Clemente, H. S.; Saidi, N.; Cassan-Wang, H.; Dunand, C.; Hefer, C. A.; Bornberg-Bauer, E.; Kersting, A. R.; Vining, K.; Amarasinghe, V.; Ranik, M.; Naithani, S.; Elser, J.; Boyd, A. E.; Liston, A.; Spatafora, J. W.; Dharmwardhana, P.; Raja, R.; Sullivan, C.; Romanel, E.; Alves-Ferreira, M.; Külheim, C.; Foley, W.; Carocha, V.; Paiva, J.; Kudrna, D.; Brommonschenkel, S. H.; Pasquali, G.; Byrne, M.; Rigault, P.; Tibbits, J.; Spokevicius, A.; Jones, R. C.; Steane, D. A.; Vaillancourt, R. E.; Potts, B. M.; Joubert, F.; Barry, K.; Pappas, G. J.; Strauss, S. H.; Jaiswal, P.; Grima-Pettenati, J.; Salse, J.; Van de Peer, Y.; Rokhsar, D. S. and Schmutz, J. “The Genome of <i>Eucalyptus grandis</i>.” <i>Nature</i>, 2014, vol. 510, pp. 356-362.</div>
   <div class="csl-entry">Park, J. R. and Tosaka, Y. “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms.” <i>Cataloging &#38; Classification Quarterly</i>, 2010, 48(8), pp. 696-715.</div>
   <div class="csl-entry">Peebles, P. Z., Jr. <i>Probability, Random Variable, and Random Signal Principles</i> New York: McGraw-Hill.</div>
   <div class="csl-entry">Praetzellis, A. <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i> Rowman &#38; Littlefield Publishing Group, Inc.</div>
@@ -195,7 +197,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Weinstein, L. and Swartz, M. N. “Pathogenic Properties of Invading Microorganisms.” in Sodeman, W. A., Jr. and W. A. Sodeman, eds: <i>Pathologic Physiology: Mechanisms of Disease</i> Philadelphia: Saunders.</div>
   <div class="csl-entry">Yu, Y.; Pan, E.; Wang, X.; Wu, Y.; Mei, X. and Ma, J. “Unmixing before Fusion: A Generalized Paradigm for Multi-Source-Based Hyperspectral Image Synthesis.”.</div>
   <div class="csl-entry">Yufin, S. A., ed. <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000</i> Rotterdam: A. A. Balkema.</div>
-  <div class="csl-entry">Zhong, X.; Yan, Q. and Li, G. <i>Long Time Series Nighttime Light Dataset of China (2000-2020)</i> Global Change Research Data Publishing &#38; Repository.</div>
+  <div class="csl-entry">Zhong, X.; Yan, Q. and Li, G. <i>Long Time Series Nighttime Light Dataset of China: 2000–2020</i> Global Change Research Data Publishing &#38; Repository.</div>
   <div class="csl-entry">Zotero <i>[Zotero Download]</i>.</div>
   <div class="csl-entry">（1949）：《中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告》，1949年。</div>
   <div class="csl-entry">（1962）：《康熙字典》，中华书局，1962年。</div>
@@ -205,8 +207,6 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">（2023a）：《[《昨日之歌》图书封面]》，2023年。</div>
   <div class="csl-entry">（2023b）：《西黄丸》，2023年。</div>
   <div class="csl-entry"><i>Coastal Wetlands Map of China Continent</i> Beijing: China Ocean Press.</div>
-  <div class="csl-entry"><i>Explosive Atmospheres — Part 20-2: Material Characteristics — Combustible Dusts Test Methods</i>.</div>
-  <div class="csl-entry"><i>Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles</i>.</div>
   <div class="csl-entry"><i>Library of Congress</i>.</div>
 </div>
 

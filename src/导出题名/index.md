@@ -123,7 +123,7 @@
   <div class="csl-entry">A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262</div>
   <div class="csl-entry">Guidelines for handling excavated acid-producing material: PB 91-194001</div>
   <div class="csl-entry">United Nations e-government survey 2024: accelerating digital transformation for sustainable development</div>
-  <div class="csl-entry">信息与文献 资源描述: GB/T 3792—2021</div>
+  <div class="csl-entry">信息与文献 资源描述: GB/T 3792—2021</div>
   <div class="csl-entry">信息技术 先进音视频编码 第16部分：广播电视视频: GB/T 20090.16—2016</div>
   <div class="csl-entry">信息技术  中文编码字符集: GB 18030—2022</div>
   <div class="csl-entry">水电工程水温实时监测系统技术规范: NB/T 10386—2020</div>
@@ -175,7 +175,7 @@
   <div class="csl-entry">青海省县域教育、卫生发展指标（2001—2022年）</div>
   <div class="csl-entry">人文社会科学数据集检索方法研究的数据集</div>
   <div class="csl-entry">Students in a selective high school: some vocationally oriented data</div>
-  <div class="csl-entry">Long time series nighttime light dataset of China (2000-2020)</div>
+  <div class="csl-entry">Long time series nighttime light dataset of China: 2000–2020</div>
   <div class="csl-entry">Global Burden of Disease Study 2019 (GBD2019) data resources</div>
   <div class="csl-entry">元宇宙在图书馆的应用：理论研究与实践进展</div>
   <div class="csl-entry">数据要素的统计测算方法探究</div>

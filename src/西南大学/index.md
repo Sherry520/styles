@@ -9,11 +9,11 @@
 ### 引注
 
 （汪学军, 2005）<br>
+（Praetzellis, 2011）<br>
 （Wang, 2022）<br>
 （扬奎斯特和萨金特, 2010）<br>
 （Jenkins &#38; Ruostekoski, 2012）<br>
 （肖玲等, 2024）<br>
-（Praetzellis, 2011）<br>
 （于潇等, 2012）<br>
 （Veen et al., 2014）<br>
 
@@ -28,7 +28,7 @@
   <div class="csl-entry">Jenkins S D, Ruostekoski J. Controlled manipulation of light by cooperative response of atoms in an optical lattice[EB/OL]. arXiv, 2012(2012-03-18).</div>
   <div class="csl-entry">Praetzellis A. Death by theory: a tale of mystery and archaeological theory[M/OL]. Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13.</div>
   <div class="csl-entry">Veen P H van der, Muller M, Vincken K L, et al. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J/OL]. <i>J. Neurol. Sci.</i>, 2014, 337(1/2): 112-118.</div>
-  <div class="csl-entry">Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C/OL]//2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT), Changzhou, China, 2022: 2.</div>
+  <div class="csl-entry">Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C/OL]//2022 6th Asian Conference on Artificial Intelligence Technology, Changzhou, China, 2022: 2.</div>
 </div>
 
 ## 默认测试
@@ -89,7 +89,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">何筱梅. 新媒体时代原生广告的策略与发展研究[D/OL]. 武汉: 武汉大学, 2016: 24-25.</div>
   <div class="csl-entry">胡健民. 东南极拉斯曼丘陵地区地质图[Z]. 北京: 科学出版社, 2021.</div>
   <div class="csl-entry">湖北省建设厅. 湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令[Z/OL](1931-11-07).</div>
-  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]. 国家地理资源科学数据中心-黄土高原分中心, 2024(2024-12-25).</div>
+  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]. 国家地球系统科学数据中心-黄土高原分中心, 2024(2024-12-25).</div>
   <div class="csl-entry">冀超. 一种荒漠化地区生态植被综合培育种植方法[P/OL]. 2001-10-24.</div>
   <div class="csl-entry">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]. 中国图书馆学会, 编. 北京: 国家图书馆出版社, 2011: 45-522011, 2011年卷: 45-52.</div>
   <div class="csl-entry">金燕萍. 社交媒体时代的虚假信息研究[D/OL]. 温州: 温州大学, 2020: 16.</div>
@@ -107,7 +107,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">彭守璋. 1901—2023年中国1km分辨率逐月降水量数据集[DS/OL]. 西北农林科技大学水土保持研究所, 2024(2024-07-19).</div>
   <div class="csl-entry">钱学森. 创建系统学[M]. 太原: 山西科学技术出版社, 2001: 序2-3.</div>
   <div class="csl-entry">全国信息技术标准化技术委员会. 信息技术 先进音视频编码 第16部分：广播电视视频[S]. .</div>
-  <div class="csl-entry">全国信息与文献标准化技术委员会. 信息与文献 资源描述[S]. .</div>
+  <div class="csl-entry">全国信息与文献标准化技术委员会. 信息与文献 资源描述[S]. .</div>
   <div class="csl-entry">石顺祥, 许海平, 孙艳玲, 等. 光折变自适应光外差探测方法[P/OL]. 2002-03-06.</div>
   <div class="csl-entry">史国华, 樊金宇, 何益, 等. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法[P/OL]. 2022-09-13.</div>
   <div class="csl-entry">谭其骧. 中国历史地图集[Z]. 北京: 地图出版社, 1982: 6.</div>
@@ -148,8 +148,6 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">佚名. [《昨日之歌》图书封面][Z/OL](2023a-03-06).</div>
   <div class="csl-entry">佚名. 西黄丸[EB/OL](2023b-10-07).</div>
   <div class="csl-entry">Anonymous. Coastal wetlands map of China continent[Z]. Beijing: China Ocean Press, 2024: 50.</div>
-  <div class="csl-entry">Anonymous. Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods[S]. .</div>
-  <div class="csl-entry">佚名. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles[S]. .</div>
   <div class="csl-entry">Anonymous. Library of Congress[EB/OL].</div>
   <div class="csl-entry">于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 2012, 52(11): 1518-1523.</div>
   <div class="csl-entry">云南省企业联合会, 云南省企业家协会, 云南民族新闻文化发展研究院. 改革开放三十年：云南企业家奋斗史[M]. 芒市: 德宏民族出版社, 2009.</div>
@@ -173,7 +171,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Bevington D, Brown J R. William Shakespeare[EB/OL](2025-01-01).</div>
   <div class="csl-entry">Bloss C S, Wineinger N E, Peters M, et al. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[EB/OL]. bioRxiv, 2015(2015-10-28).</div>
   <div class="csl-entry">Boobier T. AI and the future of banking[M]. Chichester: John Wiley &#38; Sons, 2020: 35.</div>
-  <div class="csl-entry">Cairns B R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: University of California, 1965: 15.</div>
+  <div class="csl-entry">Cairns B R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: University of California, Berkeley, 1965: 15.</div>
   <div class="csl-entry">Calkin D E, Ager A A, Thompson M P. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report[R/OL]. .</div>
   <div class="csl-entry">Caplan P. Cataloging internet resources[J]. <i>Public-Access Comput. Syst. Rev.</i>, 1993, 4(2): 61-66.</div>
   <div class="csl-entry">Christou A. Improving knowledge graph understanding with contextual views[D/OL]. Ohio: Wright State University, 2024: 18.</div>
@@ -183,9 +181,11 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Fourney M E. Advances in holographic photoelasticity[C]. Gottenberg W G, ed.. New York: ASME, 1971: 17-381971: 17-38.</div>
   <div class="csl-entry">Frese K S, Katus H A, Meder B. Next-generation sequencing: from understanding biology to personalized medicine[J/OL]. <i>Biology</i>, 2013, 2(1): 378-398.</div>
   <div class="csl-entry">IHME. Global Burden of Disease Study 2019 (GBD2019) data resources[DS/OL]. Global Health Data Exchange, 2021.</div>
-  <div class="csl-entry">Institute For Art And Architecture, Academy Of Fine Arts Vienna. Wiener Hitze: architecture and storytelling in times of heat[M]. Zürich: Park Books, 2023: 78.</div>
+  <div class="csl-entry">Institute for Art and Architecture, Academy of Fine Arts Vienna. Wiener Hitze: architecture and storytelling in times of heat[M]. Zürich: Park Books, 2023: 78.</div>
   <div class="csl-entry">International Electrotechnical Commission (IEC). Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML)[S]. New York: IEEE, 2021.</div>
   <div class="csl-entry">International Organization for Standardization. ISO homepage[EB/OL].</div>
+  <div class="csl-entry">ISO. Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods[S]. .</div>
+  <div class="csl-entry">ISO. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles[S]. .</div>
   <div class="csl-entry">ISO. Audit data collection[S]. .</div>
   <div class="csl-entry">Jenkins S D, Ruostekoski J. Controlled manipulation of light by cooperative response of atoms in an optical lattice[EB/OL]. arXiv, 2012(2012-03-18).</div>
   <div class="csl-entry">Kinchy A. Seeds, sciences, and struggle: the global politics of transgenic crops[M/OL]. Cambridge, Mass.: MIT Press, 2012: 50.</div>
@@ -203,10 +203,10 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development[R/OL]. .</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material[R]. Springfield: U.S. Department of Commerce National Information Service, 1990: 25.</div>
   <div class="csl-entry">Veen P H van der, Muller M, Vincken K L, et al. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J/OL]. <i>J. Neurol. Sci.</i>, 2014, 337(1/2): 112-118.</div>
-  <div class="csl-entry">Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C/OL]//2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT), Changzhou, China, 2022: 2.</div>
+  <div class="csl-entry">Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C/OL]//2022 6th Asian Conference on Artificial Intelligence Technology, Changzhou, China, 2022: 2.</div>
   <div class="csl-entry">Weinstein L, Swartz M N. Pathogenic properties of invading microorganisms[M]. Sodeman W A Jr, Sodeman W A, eds.//Pathologic physiology: mechanisms of disease. 5 edition. Philadelphia: Saunders, 1974: 457-472.</div>
   <div class="csl-entry">Yu Y, Pan E, Wang X, et al. Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis[C/OL]//CVPR, Seattle, 2024: 4.</div>
-  <div class="csl-entry">Zhong X, Yan Q, Li G. Long time series nighttime light dataset of China (2000-2020)[DS/OL]. Global Change Research Data Publishing &#38; Repository, 2022.</div>
+  <div class="csl-entry">Zhong X, Yan Q, Li G. Long time series nighttime light dataset of China: 2000–2020[DS/OL]. Global Change Research Data Publishing &#38; Repository, 2022.</div>
   <div class="csl-entry">Zotero. [Zotero download][EB/OL].</div>
 </div>
 

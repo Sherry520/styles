@@ -9,11 +9,11 @@
 ### 引注
 
 (汪学军, 2005)<br>
+(Praetzellis, 2011)<br>
 (Wang, 2022)<br>
 (扬奎斯特 等, 2010)<br>
 (Jenkins et al., 2012)<br>
 (肖玲 等, 2024)<br>
-(Praetzellis, 2011)<br>
 (于潇 等, 2012)<br>
 (Veen et al., 2014)<br>
 
@@ -140,8 +140,6 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">佚名, 2023b.</div>
   <div class="csl-entry">Anon, 2024.</div>
   <div class="csl-entry">Anon.</div>
-  <div class="csl-entry">佚名.</div>
-  <div class="csl-entry">Anon.</div>
   <div class="csl-entry">于潇等, 2012.</div>
   <div class="csl-entry">云南省企业联合会等, 2009.</div>
   <div class="csl-entry">战德臣等, 2019.</div>
@@ -163,7 +161,7 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">周壮等, 2023.</div>
   <div class="csl-entry">訾冬梅等, 2006.</div>
   <div class="csl-entry">American Association for the Advancement of Science, 1883.</div>
-  <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA).</div>
+  <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA), 2022.</div>
   <div class="csl-entry">António M等, 2019.</div>
   <div class="csl-entry">Babu <i>et al.</i>, 2014.</div>
   <div class="csl-entry">Bevington <i>et al.</i>, 2025.</div>
@@ -180,9 +178,11 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">Fourney, 1971.</div>
   <div class="csl-entry">Frese <i>et al.</i>, 2013.</div>
   <div class="csl-entry">IHME, 2021.</div>
-  <div class="csl-entry">Institute For Art And Architecture <i>et al.</i>, 2023.</div>
+  <div class="csl-entry">Institute for Art and Architecture, Academy of Fine Arts Vienna, 2023.</div>
   <div class="csl-entry">International Electrotechnical Commission (IEC), 2021.</div>
   <div class="csl-entry">International Organization for Standardization.</div>
+  <div class="csl-entry">ISO, 2016a.</div>
+  <div class="csl-entry">ISO, 2016b.</div>
   <div class="csl-entry">ISO, 2019.</div>
   <div class="csl-entry">Jenkins <i>et al.</i>, 2012.</div>
   <div class="csl-entry">Kinchy, 2012.</div>

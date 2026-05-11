@@ -18,7 +18,7 @@
   <div class="csl-entry">[3] 于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 2012, 52(11): 1518-1523.</div>
   <div class="csl-entry">[4] Veen P H van der, Muller M, Vincken K L, <i>et al.</i> Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J]. Journal of the Neurological Sciences, 2014, 337(1/2): 112-118.</div>
   <div class="csl-entry">[5] 汪学军. 中国农业转基因生物研发进展与安全管理[A]. 见: 国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集[C]. 北京: 中国环境科学出版社, 2005: 22-25.</div>
-  <div class="csl-entry">[6] Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[A]. In: 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)[C]. 2022: 2.</div>
+  <div class="csl-entry">[6] Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[A]. In: 2022 6th Asian Conference on Artificial Intelligence Technology[C]. 2022: 2.</div>
   <div class="csl-entry">[7] 肖玲, 张雪, 王永. 数据要素的统计测算方法探究[EB]. 2024.</div>
   <div class="csl-entry">[8] Jenkins S D, Ruostekoski J. Controlled manipulation of light by cooperative response of atoms in an optical lattice[EB]. 2012.</div>
 </div>
@@ -47,7 +47,7 @@
   <div class="csl-entry">[5] 顾炎武. 昌平山水记；京东考古录[M]. 北京: 北京古籍出版社, 1980.</div>
   <div class="csl-entry">[6] 钱学森. 创建系统学[M]. 太原: 山西科学技术出版社, 2001: 序2-3.</div>
   <div class="csl-entry">[7] 冯友兰. 冯友兰自选集[M]. 2 版. 北京: 首都师范大学出版社, 2008: 第1版自序.</div>
-  <div class="csl-entry">[8] 康熙字典: 巳集上 水部[M]. 同文书局影印本. 北京: 中华书局, 1962: 50.</div>
+  <div class="csl-entry">[8] 康熙字典: 巳集上 水部[M]. 同文书局影印本. 北京: 中华书局, 1962: 50.</div>
   <div class="csl-entry">[9] 战德臣, 张丽杰. 大学计算机：计算思维与信息素养[M]. 3 版. 北京: 高等教育出版社, 2019.</div>
   <div class="csl-entry">[10] 哈里森, 沃尔德伦. 经济数学与金融数学[M]. 谢远涛, 译. 北京: 中国人民大学出版社, 2012: 235-236.</div>
   <div class="csl-entry">[11] 牛永敢, 孔晓, 王阳, 等. 鼻整形应用解剖学[M]. 北京: 人民卫生出版社, 2019: 65-66.</div>
@@ -59,7 +59,7 @@
   <div class="csl-entry">[17] 図書館用語辞典編集委員会. 最新図書館用語大辞典[M]. 東京: 柏書房株式会社, 2004: 154.</div>
   <div class="csl-entry">[18] Peebles P Z Jr. Probability, random variable, and random signal principles[M]. 4th ed. New York: McGraw-Hill, 2001.</div>
   <div class="csl-entry">[19] Sadock B J, Sadock V A, Ruiz P, <i>et al.</i> Kaplan &#38; Sadock’s comprehensive textbook of psychiatry: Vol. 1[M]. 9th ed. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.</div>
-  <div class="csl-entry">[20] Institute For Art And Architecture, Academy Of Fine Arts Vienna. Wiener Hitze: architecture and storytelling in times of heat[M]. Zürich: Park Books, 2023: 78.</div>
+  <div class="csl-entry">[20] Institute for Art and Architecture, Academy of Fine Arts Vienna. Wiener Hitze: architecture and storytelling in times of heat[M]. Zürich: Park Books, 2023: 78.</div>
   <div class="csl-entry">[21] Kinchy A. Seeds, sciences, and struggle: the global politics of transgenic crops[M]. Cambridge, Mass.: MIT Press, 2012: 50.</div>
   <div class="csl-entry">[22] Praetzellis A. Death by theory: a tale of mystery and archaeological theory[M]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13.</div>
   <div class="csl-entry">[23] Torres L, Salisbury F, Yazbeck B, <i>et al.</i> Connecting the library to the curriculum[M]. Singapore: Springer Nature, 2021: 97.</div>
@@ -106,7 +106,7 @@
   <div class="csl-entry">[64] 汪学军. 中国农业转基因生物研发进展与安全管理[A]. 见: 国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集[C]. 北京: 中国环境科学出版社, 2005: 22-25.</div>
   <div class="csl-entry">[65] 贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[A]. 见: 中国图书馆学会. 中国图书馆学会年会论文集: 2011年卷[C]. 北京: 国家图书馆出版社, 2011: 45-52.</div>
   <div class="csl-entry">[66] 陈志勇. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M]. 北京: 经济科学出版社, 2011.</div>
-  <div class="csl-entry">[67] Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[A]. In: 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)[C]. 2022: 2.</div>
+  <div class="csl-entry">[67] Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[A]. In: 2022 6th Asian Conference on Artificial Intelligence Technology[C]. 2022: 2.</div>
   <div class="csl-entry">[68] Yu Y, Pan E, Wang X, <i>et al.</i> Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis[A]. In: CVPR[C]. 2024: 4.</div>
   <div class="csl-entry">[69] Yufin S A. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000[M]. Rotterdam: A. A. Balkema, 2000.</div>
   <div class="csl-entry">[70] Babu B V, Nagar A, Deep K, <i>et al.</i> Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012[M]. New Delhi: Springer, 2014.</div>
@@ -115,7 +115,7 @@
   <div class="csl-entry">[73] 金燕萍. 社交媒体时代的虚假信息研究[D]:[硕士学位论文]. 温州: 温州大学, 2020: 16.</div>
   <div class="csl-entry">[74] 何筱梅. 新媒体时代原生广告的策略与发展研究[D]:[博士学位论文]. 武汉: 武汉大学, 2016: 24-25.</div>
   <div class="csl-entry">[75] 井丽南. 支持状态可编程的SDN交换机关键技术研究[D]:[博士学位论文]. 北京: 中国科学院大学, 2022: 43.</div>
-  <div class="csl-entry">[76] Cairns B R. Infrared spectroscopic studies on solid oxygen[D]:[Doctoral dissertation]. Berkeley: University of California, 1965: 15.</div>
+  <div class="csl-entry">[76] Cairns B R. Infrared spectroscopic studies on solid oxygen[D]:[Doctoral dissertation]. Berkeley: University of California, Berkeley, 1965: 15.</div>
   <div class="csl-entry">[77] Christou A. Improving knowledge graph understanding with contextual views[D]:[Doctoral dissertation]. Ohio: Wright State University, 2024: 18.</div>
   <div class="csl-entry">[78] 中国互联网络信息中心. 第29次中国互联网络发展状况统计报告[R]. 2012.</div>
   <div class="csl-entry">[79] 汤万金, 杨跃翔, 刘文, 等. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013[R]. 2013.</div>
@@ -123,16 +123,16 @@
   <div class="csl-entry">[81] Calkin D E, Ager A A, Thompson M P. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. 2011.</div>
   <div class="csl-entry">[82] U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001[R]. 1990.</div>
   <div class="csl-entry">[83] United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development[R]. [2025].</div>
-  <div class="csl-entry">[84] 全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021[S]. 2021.</div>
+  <div class="csl-entry">[84] 全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021[S]. 2021.</div>
   <div class="csl-entry">[85] 全国信息技术标准化技术委员会. 信息技术 先进音视频编码 第16部分：广播电视视频: GB/T 20090.16—2016[S]. 2016.</div>
   <div class="csl-entry">[86] 工业和信息化部. 信息技术  中文编码字符集: GB 18030—2022[S]. 2022.</div>
   <div class="csl-entry">[87] 国家能源局. 水电工程水温实时监测系统技术规范: NB/T 10386—2020[S]. 2020.</div>
   <div class="csl-entry">[88] ISO. Audit data collection: ISO 21378:2019[S]. 2019.</div>
   <div class="csl-entry">[89] International Electrotechnical Commission (IEC). Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML): IEC/IEEE 61636-1:2021[S]. 2021.</div>
   <div class="csl-entry">[90] IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation: IEEE P802.11ba/D8.0-2020[S]. 2020.</div>
-  <div class="csl-entry">[91] American Institute of Aeronautics and Astronautics (AIAA). Guide to lithium battery safety for space applications: AIAA G-136-2022[S].</div>
-  <div class="csl-entry">[92] Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods: ISO/IEC 80079-20-2:2016(en)[S].</div>
-  <div class="csl-entry">[93] Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles: ISO/IEC 80079-20-2:2016(fr)[S].</div>
+  <div class="csl-entry">[91] American Institute of Aeronautics and Astronautics (AIAA). Guide to lithium battery safety for space applications: AIAA G-136-2022[S]. 2022.</div>
+  <div class="csl-entry">[92] ISO. Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods: ISO/IEC 80079-20-2:2016(en)[S]. 2016.</div>
+  <div class="csl-entry">[93] ISO. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles: ISO/IEC 80079-20-2:2016(fr)[S]. 2016.</div>
   <div class="csl-entry">[94] 邓一刚. 全智能节电器[P]. 中国, 发明公开, CN101106276A, 2008-01-16.</div>
   <div class="csl-entry">[95] 张凯军, 赵永杰, 陈朝岗. 轨道火车及高速轨道火车紧急安全制动辅助装置[P]. 中国, 发明公开, CN202827616U, 2013-03-27.</div>
   <div class="csl-entry">[96] 李华, 王昊, 康佐. 一种拼接式桥梁模型[P]. 中国, 发明公开, CN218214474U, 2023-01-03.</div>
@@ -175,7 +175,7 @@
   <div class="csl-entry">[133] 黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]. (2024-12-25) [2025-07-10] . <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>.</div>
   <div class="csl-entry">[134] 王继民, 罗鹏程, 赵常煜, 等. 人文社会科学数据集检索方法研究的数据集[DS/OL]. (2025-06-11) [2025-07-10] . <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>.</div>
   <div class="csl-entry">[135] Sugarman L, Markham S. Students in a selective high school: some vocationally oriented data[DS/OL]. 1980[2025-07-10] . <a href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996">https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996</a>.</div>
-  <div class="csl-entry">[136] Zhong X, Yan Q, Li G. Long time series nighttime light dataset of China (2000-2020)[DS/OL]. 2022[2024-11-25] . <a href="http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>.</div>
+  <div class="csl-entry">[136] Zhong X, Yan Q, Li G. Long time series nighttime light dataset of China: 2000–2020[DS/OL]. 2022[2024-11-25] . <a href="https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>.</div>
   <div class="csl-entry">[137] IHME. Global Burden of Disease Study 2019 (GBD2019) data resources[DS/OL]. 2021[2024-11-25] . <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a>.</div>
   <div class="csl-entry">[138] 方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[EB]. 2023.</div>
   <div class="csl-entry">[139] 肖玲, 张雪, 王永. 数据要素的统计测算方法探究[EB]. 2024.</div>

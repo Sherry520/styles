@@ -231,7 +231,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[44]</div><div class="csl-right-inline">全国信息技术标准化技术委员会，2016，《信息技术 先进音视频编码 第16部分：广播电视视频》。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会，2021，《信息与文献 资源描述》。</div>
+    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会，2021，《信息与文献 资源描述》。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[46]</div><div class="csl-right-inline">石顺祥、许海平、孙艳玲、陈利菊、李家立、刘继芳，2002，《光折变自适应光外差探测方法》。</div>
@@ -354,7 +354,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[85]</div><div class="csl-right-inline">American Association for the Advancement of Science (ed.), 1883, <i>Science</i>, 1883，1（1）—, Washington, D.C.: American Association for the Advancement of Science.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[86]</div><div class="csl-right-inline">American Institute of Aeronautics and Astronautics (AIAA), no date, <i>Guide to Lithium Battery Safety for Space Applications</i>.</div>
+    <div class="csl-left-margin">[86]</div><div class="csl-right-inline">American Institute of Aeronautics and Astronautics (AIAA), 2022, <i>Guide to Lithium Battery Safety for Space Applications</i>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[87]</div><div class="csl-right-inline">António, Marco &#38; Lucy Pepper, 2019, <i>Histórias de Portugal: livros caídos</i>, <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a>, January 2, 2025.</div>
@@ -372,7 +372,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[91]</div><div class="csl-right-inline">Boobier, Tony, 2020, <i>AI and the Future of Banking</i>, Chichester: John Wiley &#38; Sons.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[92]</div><div class="csl-right-inline">Cairns, Bruce Richard, 1965, <i>Infrared Spectroscopic Studies on Solid Oxygen</i>, Doctoral dissertation, University of California.</div>
+    <div class="csl-left-margin">[92]</div><div class="csl-right-inline">Cairns, Bruce Richard, 1965, <i>Infrared Spectroscopic Studies on Solid Oxygen</i>, Doctoral dissertation, University of California, Berkeley.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[93]</div><div class="csl-right-inline">Calkin, David E., Alan A. Ager &#38; Matthew P. Thompson, 2011, <i>A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report</i>.</div>
@@ -405,7 +405,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[102]</div><div class="csl-right-inline">IHME, 2021, <i>Global Burden of Disease Study 2019 (GBD2019) Data Resources</i>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[103]</div><div class="csl-right-inline">Institute For Art And Architecture &#38; Academy Of Fine Arts Vienna, 2023, <i>Wiener Hitze: Architecture and Storytelling in Times of Heat</i>, Zürich: Park Books.</div>
+    <div class="csl-left-margin">[103]</div><div class="csl-right-inline">Institute for Art and Architecture, Academy of Fine Arts Vienna, 2023, <i>Wiener Hitze: Architecture and Storytelling in Times of Heat</i>, Zürich: Park Books.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[104]</div><div class="csl-right-inline">International Electrotechnical Commission (IEC), 2021, <i>Software Interface for Maintenance Information Collection and Analysis (SIMICA): Exchanging Test Results and Session Information via the eXtensible Markup Language (XML)</i>, New York: IEEE.</div>
@@ -414,112 +414,112 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[105]</div><div class="csl-right-inline">International Organization for Standardization, <i>ISO Homepage</i>, <a href="https://www.iso.org/home.html">https://www.iso.org/home.html</a>, October 6, 2020.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[106]</div><div class="csl-right-inline">ISO, 2019, <i>Audit Data Collection</i>.</div>
+    <div class="csl-left-margin">[106]</div><div class="csl-right-inline">ISO, 2016a, <i>Explosive Atmospheres — Part 20-2: Material Characteristics — Combustible Dusts Test Methods</i>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[107]</div><div class="csl-right-inline">Jenkins, Stewart D. &#38; Janne Ruostekoski, 2012, <i>Controlled Manipulation of Light by Cooperative Response of Atoms in an Optical Lattice</i>, arXiv.</div>
+    <div class="csl-left-margin">[107]</div><div class="csl-right-inline">ISO, 2016b, <i>Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles</i>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[108]</div><div class="csl-right-inline">Kinchy, Abby, 2012, <i>Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops</i>, Cambridge, Mass.: MIT Press.</div>
+    <div class="csl-left-margin">[108]</div><div class="csl-right-inline">ISO, 2019, <i>Audit Data Collection</i>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[109]</div><div class="csl-right-inline">Myburg, Alexander A., Dario Grattapaglia, Gerald A. Tuskan, Uffe Hellsten, Richard D. Hayes, Jane Grimwood, Jerry Jenkins, Erika Lindquist, Hope Tice, Diane Bauer, David M. Goodstein, Inna Dubchak, Alexandre Poliakov, Eshchar Mizrachi, Anand R. K. Kullan, Steven G. Hussey, Desre Pinard, Karen van der Merwe, Pooja Singh, Ida van Jaarsveld, Orzenil B. Silva-Junior, Roberto C. Togawa, Marilia R. Pappas, Danielle A. Faria, Carolina P. Sansaloni, Cesar D. Petroli, Xiaohan Yang, Priya Ranjan, Timothy J. Tschaplinski, Chu-Yu Ye, Ting Li, Lieven Sterck, Kevin Vanneste, Florent Murat, Marçal Soler, Hélène San Clemente, Naijib Saidi, Hua Cassan-Wang, Christophe Dunand, Charles A. Hefer, Erich Bornberg-Bauer, Anna R. Kersting, Kelly Vining, Vindhya Amarasinghe, Martin Ranik, Sushma Naithani, Justin Elser, Alexander E. Boyd, Aaron Liston, Joseph W. Spatafora, Palitha Dharmwardhana, Rajani Raja, Christopher Sullivan, Elisson Romanel, Marcio Alves-Ferreira, Carsten Külheim, William Foley, Victor Carocha, Jorge Paiva, David Kudrna, Sergio H. Brommonschenkel, Giancarlo Pasquali, Margaret Byrne, Philippe Rigault, Josquin Tibbits, Antanas Spokevicius, Rebecca C. Jones, Dorothy A. Steane, René E. Vaillancourt, Brad M. Potts, Fourie Joubert, Kerrie Barry, Georgios J. Pappas, Steven H. Strauss, Pankaj Jaiswal, Jacqueline Grima-Pettenati, Jérôme Salse, Yves Van de Peer, Daniel S. Rokhsar &#38; Jeremy Schmutz, 2014, “The Genome of <i>Eucalyptus Grandis</i>,” <i>Nature</i>, vol. 510, pp. 356-362.</div>
+    <div class="csl-left-margin">[109]</div><div class="csl-right-inline">Jenkins, Stewart D. &#38; Janne Ruostekoski, 2012, <i>Controlled Manipulation of Light by Cooperative Response of Atoms in an Optical Lattice</i>, arXiv.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[110]</div><div class="csl-right-inline">Park, Jung-Ran &#38; Yuji Tosaka, 2010, “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms,” <i>Cataloging &#38; Classification Quarterly</i>, vol. 48, no. 8, pp. 696-715.</div>
+    <div class="csl-left-margin">[110]</div><div class="csl-right-inline">Kinchy, Abby, 2012, <i>Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops</i>, Cambridge, Mass.: MIT Press.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[111]</div><div class="csl-right-inline">Peebles, Peyton Z., Jr., 2001, <i>Probability, Random Variable, and Random Signal Principles</i>, New York: McGraw-Hill.</div>
+    <div class="csl-left-margin">[111]</div><div class="csl-right-inline">Myburg, Alexander A., Dario Grattapaglia, Gerald A. Tuskan, Uffe Hellsten, Richard D. Hayes, Jane Grimwood, Jerry Jenkins, Erika Lindquist, Hope Tice, Diane Bauer, David M. Goodstein, Inna Dubchak, Alexandre Poliakov, Eshchar Mizrachi, Anand R. K. Kullan, Steven G. Hussey, Desre Pinard, Karen van der Merwe, Pooja Singh, Ida van Jaarsveld, Orzenil B. Silva-Junior, Roberto C. Togawa, Marilia R. Pappas, Danielle A. Faria, Carolina P. Sansaloni, Cesar D. Petroli, Xiaohan Yang, Priya Ranjan, Timothy J. Tschaplinski, Chu-Yu Ye, Ting Li, Lieven Sterck, Kevin Vanneste, Florent Murat, Marçal Soler, Hélène San Clemente, Naijib Saidi, Hua Cassan-Wang, Christophe Dunand, Charles A. Hefer, Erich Bornberg-Bauer, Anna R. Kersting, Kelly Vining, Vindhya Amarasinghe, Martin Ranik, Sushma Naithani, Justin Elser, Alexander E. Boyd, Aaron Liston, Joseph W. Spatafora, Palitha Dharmwardhana, Rajani Raja, Christopher Sullivan, Elisson Romanel, Marcio Alves-Ferreira, Carsten Külheim, William Foley, Victor Carocha, Jorge Paiva, David Kudrna, Sergio H. Brommonschenkel, Giancarlo Pasquali, Margaret Byrne, Philippe Rigault, Josquin Tibbits, Antanas Spokevicius, Rebecca C. Jones, Dorothy A. Steane, René E. Vaillancourt, Brad M. Potts, Fourie Joubert, Kerrie Barry, Georgios J. Pappas, Steven H. Strauss, Pankaj Jaiswal, Jacqueline Grima-Pettenati, Jérôme Salse, Yves Van de Peer, Daniel S. Rokhsar &#38; Jeremy Schmutz, 2014, “The Genome of <i>Eucalyptus grandis</i>,” <i>Nature</i>, vol. 510, pp. 356-362.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[112]</div><div class="csl-right-inline">Praetzellis, Adrian, 2011, <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>, Rowman &#38; Littlefield Publishing Group, Inc.</div>
+    <div class="csl-left-margin">[112]</div><div class="csl-right-inline">Park, Jung-Ran &#38; Yuji Tosaka, 2010, “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms,” <i>Cataloging &#38; Classification Quarterly</i>, vol. 48, no. 8, pp. 696-715.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[113]</div><div class="csl-right-inline">Roberson, J. Alan &#38; Eric G. Burneson, 2011, “Drinking Water Standards, Regulations and Goals,” in American Water Works Association (ed.), <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, New York: McGraw-Hill, 1.1-1.36.</div>
+    <div class="csl-left-margin">[113]</div><div class="csl-right-inline">Peebles, Peyton Z., Jr., 2001, <i>Probability, Random Variable, and Random Signal Principles</i>, New York: McGraw-Hill.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[114]</div><div class="csl-right-inline">Sadock, Benjamin J., Virginia Alcott Sadock, Pedro Ruiz &#38; Harold I. Kaplan (eds.), 2009, <i>Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry</i>, vol. 1, Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins.</div>
+    <div class="csl-left-margin">[114]</div><div class="csl-right-inline">Praetzellis, Adrian, 2011, <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>, Rowman &#38; Littlefield Publishing Group, Inc.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[115]</div><div class="csl-right-inline">Saito, Makoto &#38; Kazuhiro Miyazaki, 2006, “Jadeite-Bearing Metagabbro in Serpentinite Melange of the ‘Kurosegawa Belt’ in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu,” <i>Bulletin of the Geological Survey of Japan</i>, vol. 57, no. 5/6, pp. 169-176.</div>
+    <div class="csl-left-margin">[115]</div><div class="csl-right-inline">Roberson, J. Alan &#38; Eric G. Burneson, 2011, “Drinking Water Standards, Regulations and Goals,” in American Water Works Association (ed.), <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, New York: McGraw-Hill, 1.1-1.36.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[116]</div><div class="csl-right-inline">Santer, Roger D. &#38; Otar Akanyeti, 2025, “Using Artificial Neural Networks to Explain the Attraction of Jewel Beetles (Coleoptera: Buprestidae) to Colored Traps,” <i>Insect Science</i>.</div>
+    <div class="csl-left-margin">[116]</div><div class="csl-right-inline">Sadock, Benjamin J., Virginia Alcott Sadock, Pedro Ruiz &#38; Harold I. Kaplan (eds.), 2009, <i>Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry</i>, vol. 1, Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[117]</div><div class="csl-right-inline">Shinotsuka, Hiroshi, Kenji Nagata, Malinda Siriwardana, Hideki Yoshikawa, Hayaru Shouno &#38; Masato Okada, 2023, “Sample Structure Prediction from Measured XPS Data Using Bayesian Estimation and SESSA Simulator,” <i>Journal of Electron Spectroscopy and Related Phenomena</i>, vol. 267.</div>
+    <div class="csl-left-margin">[117]</div><div class="csl-right-inline">Saito, Makoto &#38; Kazuhiro Miyazaki, 2006, “Jadeite-Bearing Metagabbro in Serpentinite Melange of the ‘Kurosegawa Belt’ in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu,” <i>Bulletin of the Geological Survey of Japan</i>, vol. 57, no. 5/6, pp. 169-176.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[118]</div><div class="csl-right-inline">Sugarman, L. &#38; S. Markham, 1980, <i>Students in a Selective High School: Some Vocationally Oriented Data</i>.</div>
+    <div class="csl-left-margin">[118]</div><div class="csl-right-inline">Santer, Roger D. &#38; Otar Akanyeti, 2025, “Using Artificial Neural Networks to Explain the Attraction of Jewel Beetles (Coleoptera: Buprestidae) to Colored Traps,” <i>Insect Science</i>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[119]</div><div class="csl-right-inline">Tachibana, Ryuki, Shuhichi Shimizu, Seiji Kobayashi &#38; Taiga Nakamura, 2001, <i>Electronic watermarking method and system</i>.</div>
+    <div class="csl-left-margin">[119]</div><div class="csl-right-inline">Shinotsuka, Hiroshi, Kenji Nagata, Malinda Siriwardana, Hideki Yoshikawa, Hayaru Shouno &#38; Masato Okada, 2023, “Sample Structure Prediction from Measured XPS Data Using Bayesian Estimation and SESSA Simulator,” <i>Journal of Electron Spectroscopy and Related Phenomena</i>, vol. 267.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[120]</div><div class="csl-right-inline">Torres, Lynette, Fiona Salisbury, Barbara Yazbeck, Sharon Karasmanis, Janice Pinder &#38; Caroline Ondracek (eds.), 2021, <i>Connecting the Library to the Curriculum</i>, Singapore: Springer Nature.</div>
+    <div class="csl-left-margin">[120]</div><div class="csl-right-inline">Sugarman, L. &#38; S. Markham, 1980, <i>Students in a Selective High School: Some Vocationally Oriented Data</i>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[121]</div><div class="csl-right-inline">Tristram, Michael, Peter Skarshewski, Ian Tristram &#38; Brenda Mossel, 2022, <i>Storage and delivery system</i>.</div>
+    <div class="csl-left-margin">[121]</div><div class="csl-right-inline">Tachibana, Ryuki, Shuhichi Shimizu, Seiji Kobayashi &#38; Taiga Nakamura, 2001, <i>Electronic watermarking method and system</i>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[122]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs, no date, <i>United Nations E-Government Survey 2024: Accelerating Digital Transformation for Sustainable Development</i>.</div>
+    <div class="csl-left-margin">[122]</div><div class="csl-right-inline">Torres, Lynette, Fiona Salisbury, Barbara Yazbeck, Sharon Karasmanis, Janice Pinder &#38; Caroline Ondracek (eds.), 2021, <i>Connecting the Library to the Curriculum</i>, Singapore: Springer Nature.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[123]</div><div class="csl-right-inline">U.S. Department of Transportation Federal Highway Administration, 1990, <i>Guidelines for Handling Excavated Acid-Producing Material</i>, Report, U.S. Department of Commerce National Information Service.</div>
+    <div class="csl-left-margin">[123]</div><div class="csl-right-inline">Tristram, Michael, Peter Skarshewski, Ian Tristram &#38; Brenda Mossel, 2022, <i>Storage and delivery system</i>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[124]</div><div class="csl-right-inline">Veen, Pieternella H. van der, Majon Muller, Koen L. Vincken, Theo D. Witkamp, Willem P. T. M. Mali, Yolanda van der Graaf, Mirjam I. Geerlings, &#38; SMART-MR Study Group, 2014, “Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study,” <i>Journal of the Neurological Sciences</i>, vol. 337, no. 1/2, pp. 112-118.</div>
+    <div class="csl-left-margin">[124]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs, no date, <i>United Nations E-Government Survey 2024: Accelerating Digital Transformation for Sustainable Development</i>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[125]</div><div class="csl-right-inline">Wang, Shanshan, 2022, “Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers,” “2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)” paper, Changzhou, China.</div>
+    <div class="csl-left-margin">[125]</div><div class="csl-right-inline">U.S. Department of Transportation Federal Highway Administration, 1990, <i>Guidelines for Handling Excavated Acid-Producing Material</i>, Report, U.S. Department of Commerce National Information Service.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[126]</div><div class="csl-right-inline">Weinstein, L. &#38; M. N. Swartz, 1974, “Pathogenic Properties of Invading Microorganisms,” in William A. Sodeman Jr. &#38; William A. Sodeman (eds.), <i>Pathologic Physiology: Mechanisms of Disease</i>, Philadelphia: Saunders, pp. 457-472.</div>
+    <div class="csl-left-margin">[126]</div><div class="csl-right-inline">Veen, Pieternella H. van der, Majon Muller, Koen L. Vincken, Theo D. Witkamp, Willem P. T. M. Mali, Yolanda van der Graaf, Mirjam I. Geerlings, &#38; SMART-MR Study Group, 2014, “Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study,” <i>Journal of the Neurological Sciences</i>, vol. 337, no. 1/2, pp. 112-118.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[127]</div><div class="csl-right-inline">Yu, Yang, Erting Pan, Xinya Wang, Yuheng Wu, Xiaoguang Mei &#38; Jiayi Ma, 2024, “Unmixing before Fusion: A Generalized Paradigm for Multi-Source-Based Hyperspectral Image Synthesis,” “CVPR” paper, Seattle.</div>
+    <div class="csl-left-margin">[127]</div><div class="csl-right-inline">Wang, Shanshan, 2022, “Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers,” “2022 6th Asian Conference on Artificial Intelligence Technology” paper, Changzhou, China.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[128]</div><div class="csl-right-inline">Yufin, Sergey A. (ed.), 2000, <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000</i>, Rotterdam: A. A. Balkema.</div>
+    <div class="csl-left-margin">[128]</div><div class="csl-right-inline">Weinstein, L. &#38; M. N. Swartz, 1974, “Pathogenic Properties of Invading Microorganisms,” in William A. Sodeman Jr. &#38; William A. Sodeman (eds.), <i>Pathologic Physiology: Mechanisms of Disease</i>, Philadelphia: Saunders, pp. 457-472.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[129]</div><div class="csl-right-inline">Zhong, Xiaoya, Qingwu Yan &#38; Guie Li, 2022, <i>Long Time Series Nighttime Light Dataset of China (2000-2020)</i>.</div>
+    <div class="csl-left-margin">[129]</div><div class="csl-right-inline">Yu, Yang, Erting Pan, Xinya Wang, Yuheng Wu, Xiaoguang Mei &#38; Jiayi Ma, 2024, “Unmixing before Fusion: A Generalized Paradigm for Multi-Source-Based Hyperspectral Image Synthesis,” “CVPR” paper, Seattle.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[130]</div><div class="csl-right-inline">Zotero, <i>[Zotero Download]</i>, <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a>, April 8, 2024.</div>
+    <div class="csl-left-margin">[130]</div><div class="csl-right-inline">Yufin, Sergey A. (ed.), 2000, <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000</i>, Rotterdam: A. A. Balkema.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[131]</div><div class="csl-right-inline">1949，《中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告》。</div>
+    <div class="csl-left-margin">[131]</div><div class="csl-right-inline">Zhong, Xiaoya, Qingwu Yan &#38; Guie Li, 2022, <i>Long Time Series Nighttime Light Dataset of China: 2000–2020</i>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[132]</div><div class="csl-right-inline">1962，《康熙字典》（同文书局影印本）巳集上 水部，北京：中华书局。</div>
+    <div class="csl-left-margin">[132]</div><div class="csl-right-inline">Zotero, <i>[Zotero Download]</i>, <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a>, April 8, 2024.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">1979, <i>Public Library Quarterly</i>, 1979，1（1）—, Philadelphia: Taylor &#38; Francis.</div>
+    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">1949，《中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告》。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[134]</div><div class="csl-right-inline">2020, <i>IEEE Approved Draft Standard for Information Technology--Telecommunications and Information Exchange between Systems Local and Metropolitan Area Networks--Specific Requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 3: Wake-up Radio Operation</i>, New York: IEEE.</div>
+    <div class="csl-left-margin">[134]</div><div class="csl-right-inline">1962，《康熙字典》（同文书局影印本）巳集上 水部，北京：中华书局。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[135]</div><div class="csl-right-inline">2022，《《庄子》读不懂？看完这一篇“导读”就明白了》。</div>
+    <div class="csl-left-margin">[135]</div><div class="csl-right-inline">1979, <i>Public Library Quarterly</i>, 1979，1（1）—, Philadelphia: Taylor &#38; Francis.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[136]</div><div class="csl-right-inline">2023a，《[《昨日之歌》图书封面]》。</div>
+    <div class="csl-left-margin">[136]</div><div class="csl-right-inline">2020, <i>IEEE Approved Draft Standard for Information Technology--Telecommunications and Information Exchange between Systems Local and Metropolitan Area Networks--Specific Requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 3: Wake-up Radio Operation</i>, New York: IEEE.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[137]</div><div class="csl-right-inline">2023b，《西黄丸》，<a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a>，2025年8月26日。</div>
+    <div class="csl-left-margin">[137]</div><div class="csl-right-inline">2022，《《庄子》读不懂？看完这一篇“导读”就明白了》。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[138]</div><div class="csl-right-inline">2024, <i>Coastal Wetlands Map of China Continent</i>, Beijing: China Ocean Press.</div>
+    <div class="csl-left-margin">[138]</div><div class="csl-right-inline">2023a，《[《昨日之歌》图书封面]》。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[139]</div><div class="csl-right-inline">No date, <i>Explosive Atmospheres — Part 20-2: Material Characteristics — Combustible Dusts Test Methods</i>.</div>
+    <div class="csl-left-margin">[139]</div><div class="csl-right-inline">2023b，《西黄丸》，<a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a>，2025年8月26日。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[140]</div><div class="csl-right-inline">No date, <i>Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles</i>.</div>
+    <div class="csl-left-margin">[140]</div><div class="csl-right-inline">2024, <i>Coastal Wetlands Map of China Continent</i>, Beijing: China Ocean Press.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[141]</div><div class="csl-right-inline"><i>Library of Congress</i>, <a href="https://www.loc.gov/">https://www.loc.gov/</a>, June 12, 2020c.</div>
+    <div class="csl-left-margin">[141]</div><div class="csl-right-inline"><i>Library of Congress</i>, <a href="https://www.loc.gov/">https://www.loc.gov/</a>, June 12, 2020.</div>
   </div>
 </div>
 

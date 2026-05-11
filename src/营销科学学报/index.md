@@ -9,11 +9,11 @@
 ### 引注
 
 （汪学军，2005）<br>
+（Praetzellis A，2011）<br>
 （Wang S，2022）<br>
 （扬奎斯特 et al.，2010）<br>
 （Jenkins S D et al.，2012）<br>
 （肖玲 et al.，2024）<br>
-（Praetzellis A，2011）<br>
 （于潇 et al.，2012）<br>
 （Veen P H van der et al.，2014）<br>
 
@@ -149,8 +149,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[22]	湖北省建设厅. 1931. 湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令[Z](1931-11-07).
     <div class="csl-block">湖北省建设厅. 1931. 湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令[Z](1931-11-07) (In Chinese)</div>
   </div>
-  <div class="csl-entry">[23]	黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 2024. 青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]. 国家地理资源科学数据中心-黄土高原分中心(2024-12-25).
-    <div class="csl-block">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 2024. 青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]. 国家地理资源科学数据中心-黄土高原分中心(2024-12-25) (In Chinese)</div>
+  <div class="csl-entry">[23]	黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 2024. 青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]. 国家地球系统科学数据中心-黄土高原分中心(2024-12-25).
+    <div class="csl-block">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 2024. 青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]. 国家地球系统科学数据中心-黄土高原分中心(2024-12-25) (In Chinese)</div>
   </div>
   <div class="csl-entry">[24]	冀超. 2001. 一种荒漠化地区生态植被综合培育种植方法[P]. 2001-10-24.
     <div class="csl-block">冀超. 2001. 一种荒漠化地区生态植被综合培育种植方法[P]. 2001-10-24 (In Chinese)</div>
@@ -203,8 +203,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[40]	全国信息技术标准化技术委员会. 2016. 信息技术 先进音视频编码 第16部分：广播电视视频[S]. .
     <div class="csl-block">全国信息技术标准化技术委员会. 2016. 信息技术 先进音视频编码 第16部分：广播电视视频[S].  (In Chinese)</div>
   </div>
-  <div class="csl-entry">[41]	全国信息与文献标准化技术委员会. 2021. 信息与文献 资源描述[S]. .
-    <div class="csl-block">全国信息与文献标准化技术委员会. 2021. 信息与文献 资源描述[S].  (In Chinese)</div>
+  <div class="csl-entry">[41]	全国信息与文献标准化技术委员会. 2021. 信息与文献 资源描述[S]. .
+    <div class="csl-block">全国信息与文献标准化技术委员会. 2021. 信息与文献 资源描述[S].  (In Chinese)</div>
   </div>
   <div class="csl-entry">[42]	石顺祥, 许海平, 孙艳玲, 陈利菊, 李家立, 刘继芳. 2002. 光折变自适应光外差探测方法[P]. 2002-03-06.
     <div class="csl-block">石顺祥, 许海平, 孙艳玲, 陈利菊, 李家立, 刘继芳. 2002. 光折变自适应光外差探测方法[P]. 2002-03-06 (In Chinese)</div>
@@ -308,8 +308,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[75]	訾冬梅, 高秀静. 2006. 内蒙古自治区地图册[CM]. 北京: 中国地图出版社.
     <div class="csl-block">訾冬梅, 高秀静. 2006. 内蒙古自治区地图册[CM]. 北京: 中国地图出版社 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[76]	AMERICAN INSTITUTE OF AERONAUTICS AND ASTRONAUTICS (AIAA). [no date]. Guide to lithium battery safety for space applications[S]. .
-    <div class="csl-block">AMERICAN INSTITUTE OF AERONAUTICS AND ASTRONAUTICS (AIAA). [no date]. Guide to lithium battery safety for space applications[S].  (In Chinese)</div>
+  <div class="csl-entry">[76]	AMERICAN INSTITUTE OF AERONAUTICS AND ASTRONAUTICS (AIAA). 2022. Guide to lithium battery safety for space applications[S]. .
+    <div class="csl-block">AMERICAN INSTITUTE OF AERONAUTICS AND ASTRONAUTICS (AIAA). 2022. Guide to lithium battery safety for space applications[S].  (In Chinese)</div>
   </div>
   <div class="csl-entry">[77]	Anonymous. 1883. Science[J]. Washington, D.C.: American Association for the Advancement of Science.
     <div class="csl-block">anonymous. 1883. Science[J]. Washington, D.C.: American Association for the Advancement of Science (In Chinese)</div>
@@ -380,63 +380,63 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[99]	Anonymous. 2024. Coastal wetlands map of China continent[CM]. Beijing: China Ocean Press: 50.
     <div class="csl-block">anonymous. 2024. Coastal wetlands map of China continent[CM]. Beijing: China Ocean Press: 50 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[100]	Anonymous. [no date]. Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods[S]. .
-    <div class="csl-block">anonymous. [no date]. Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods[S].  (In Chinese)</div>
-  </div>
-  <div class="csl-entry">[101]	Anonymous. [no date]. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles[S]. .
-    <div class="csl-block">anonymous. [no date]. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles[S].  (In Chinese)</div>
-  </div>
-  <div class="csl-entry">[102]	Anonymous. [no date]. Library of Congress[EB/OL].
+  <div class="csl-entry">[100]	Anonymous. [no date]. Library of Congress[EB/OL].
     <div class="csl-block">anonymous. [no date]. Library of Congress[EB/OL] (In Chinese)</div>
   </div>
-  <div class="csl-entry">[103]	ANTÓNIO M, PEPPER L. 2019. Histórias de Portugal: livros caídos[EB/OL](2019-07-13).
+  <div class="csl-entry">[101]	ANTÓNIO M, PEPPER L. 2019. Histórias de Portugal: livros caídos[EB/OL](2019-07-13).
     <div class="csl-block">ANTÓNIO M, PEPPER L. 2019. Histórias de Portugal: livros caídos[EB/OL](2019-07-13) (In Chinese)</div>
   </div>
-  <div class="csl-entry">[104]	BEVINGTON D, BROWN J R. 2025. William Shakespeare[EB/OL](2025-01-01).
+  <div class="csl-entry">[102]	BEVINGTON D, BROWN J R. 2025. William Shakespeare[EB/OL](2025-01-01).
     <div class="csl-block">BEVINGTON D, BROWN J R. 2025. William Shakespeare[EB/OL](2025-01-01) (In Chinese)</div>
   </div>
-  <div class="csl-entry">[105]	BLOSS C S, WINEINGER N E, PETERS M, BOELDT D L, ARINIELLO L, KIM J Y, SHEARD J, KOMATIREDDY R, BARRETT P, TOPOL E J. 2015. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[EB]. bioRxiv(2015-10-28).
+  <div class="csl-entry">[103]	BLOSS C S, WINEINGER N E, PETERS M, BOELDT D L, ARINIELLO L, KIM J Y, SHEARD J, KOMATIREDDY R, BARRETT P, TOPOL E J. 2015. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[EB]. bioRxiv(2015-10-28).
     <div class="csl-block">BLOSS C S, WINEINGER N E, PETERS M, BOELDT D L, ARINIELLO L, KIM J Y, SHEARD J, KOMATIREDDY R, BARRETT P, TOPOL E J. 2015. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[EB]. bioRxiv(2015-10-28) (In Chinese)</div>
   </div>
-  <div class="csl-entry">[106]	BOOBIER T. 2020. AI and the future of banking[M]. Chichester: John Wiley &#38; Sons，2020年.
+  <div class="csl-entry">[104]	BOOBIER T. 2020. AI and the future of banking[M]. Chichester: John Wiley &#38; Sons，2020年.
     <div class="csl-block">BOOBIER T. 2020. AI and the future of banking[M]. Chichester: John Wiley &#38; Sons，2020年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[107]	CAIRNS B R. 1965. Infrared spectroscopic studies on solid oxygen[D]，University of CaliforniaDoctoral dissertation学位论文，1965年.
-    <div class="csl-block">CAIRNS B R. 1965. Infrared spectroscopic studies on solid oxygen[D]，University of CaliforniaDoctoral dissertation学位论文，1965年 (In Chinese)</div>
+  <div class="csl-entry">[105]	CAIRNS B R. 1965. Infrared spectroscopic studies on solid oxygen[D]，University of California, BerkeleyDoctoral dissertation学位论文，1965年.
+    <div class="csl-block">CAIRNS B R. 1965. Infrared spectroscopic studies on solid oxygen[D]，University of California, BerkeleyDoctoral dissertation学位论文，1965年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[108]	CALKIN D E, AGER A A, THOMPSON M P. 2011. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report[R]. [2025-12-02].
+  <div class="csl-entry">[106]	CALKIN D E, AGER A A, THOMPSON M P. 2011. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report[R]. [2025-12-02].
     <div class="csl-block">CALKIN D E, AGER A A, THOMPSON M P. 2011. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report[R]. [2025-12-02]. (In Chinese)</div>
   </div>
-  <div class="csl-entry">[109]	CAPLAN P. 1993. Cataloging internet resources[J]，The Public-Access Computer Systems Review, 4(2): 61-66. .
+  <div class="csl-entry">[107]	CAPLAN P. 1993. Cataloging internet resources[J]，The Public-Access Computer Systems Review, 4(2): 61-66. .
     <div class="csl-block">CAPLAN P. 1993. Cataloging internet resources[J]，The Public-Access Computer Systems Review, 4(2): 61-66. (In Chinese)</div>
   </div>
-  <div class="csl-entry">[110]	CHRISTOU A. 2024. Improving knowledge graph understanding with contextual views[D]，Wright State UniversityDoctoral dissertation学位论文，2024年.
+  <div class="csl-entry">[108]	CHRISTOU A. 2024. Improving knowledge graph understanding with contextual views[D]，Wright State UniversityDoctoral dissertation学位论文，2024年.
     <div class="csl-block">CHRISTOU A. 2024. Improving knowledge graph understanding with contextual views[D]，Wright State UniversityDoctoral dissertation学位论文，2024年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[111]	CRIBB R. 2015. Historical atlas of Indonesia[CM]. Abingdon: Routledge.
+  <div class="csl-entry">[109]	CRIBB R. 2015. Historical atlas of Indonesia[CM]. Abingdon: Routledge.
     <div class="csl-block">CRIBB R. 2015. Historical atlas of Indonesia[CM]. Abingdon: Routledge (In Chinese)</div>
   </div>
-  <div class="csl-entry">[112]	DES MARAIS D J, STRAUSS H, SUMMONS R E, HAYES J M. 1992. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]，Nature, 359: 605-609. .
+  <div class="csl-entry">[110]	DES MARAIS D J, STRAUSS H, SUMMONS R E, HAYES J M. 1992. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]，Nature, 359: 605-609. .
     <div class="csl-block">DES MARAIS D J, STRAUSS H, SUMMONS R E, HAYES J M. 1992. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]，Nature, 359: 605-609. (In Chinese)</div>
   </div>
-  <div class="csl-entry">[113]	FITZWILLIAM H. 1570. [Letter to Bess of Hardwick][A](1570-07-28).</div>
-  <div class="csl-entry">[114]	FOURNEY M E. 1971. Advances in holographic photoelasticity[C]. Gottenberg W G, ed.//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, CaliforniaNew York: ASME，1971年.
+  <div class="csl-entry">[111]	FITZWILLIAM H. 1570. [Letter to Bess of Hardwick][A](1570-07-28).</div>
+  <div class="csl-entry">[112]	FOURNEY M E. 1971. Advances in holographic photoelasticity[C]. Gottenberg W G, ed.//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, CaliforniaNew York: ASME，1971年.
     <div class="csl-block">FOURNEY M E. 1971. Advances in holographic photoelasticity[C]. Gottenberg W G, ed.//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, CaliforniaNew York: ASME，1971年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[115]	FRESE K S, KATUS H A, MEDER B. 2013. Next-generation sequencing: from understanding biology to personalized medicine[J]，Biology, 2(1): 378-398. .
+  <div class="csl-entry">[113]	FRESE K S, KATUS H A, MEDER B. 2013. Next-generation sequencing: from understanding biology to personalized medicine[J]，Biology, 2(1): 378-398. .
     <div class="csl-block">FRESE K S, KATUS H A, MEDER B. 2013. Next-generation sequencing: from understanding biology to personalized medicine[J]，Biology, 2(1): 378-398. (In Chinese)</div>
   </div>
-  <div class="csl-entry">[116]	IHME. 2021. Global Burden of Disease Study 2019 (GBD2019) data resources[DS/OL]. Global Health Data Exchange.
+  <div class="csl-entry">[114]	IHME. 2021. Global Burden of Disease Study 2019 (GBD2019) data resources[DS/OL]. Global Health Data Exchange.
     <div class="csl-block">IHME. 2021. Global Burden of Disease Study 2019 (GBD2019) data resources[DS/OL]. Global Health Data Exchange (In Chinese)</div>
   </div>
-  <div class="csl-entry">[117]	INSTITUTE FOR ART AND ARCHITECTURE, ACADEMY OF FINE ARTS VIENNA. 2023. Wiener Hitze: architecture and storytelling in times of heat[M]. Zürich: Park Books，2023年.
+  <div class="csl-entry">[115]	INSTITUTE FOR ART AND ARCHITECTURE, ACADEMY OF FINE ARTS VIENNA. 2023. Wiener Hitze: architecture and storytelling in times of heat[M]. Zürich: Park Books，2023年.
     <div class="csl-block">INSTITUTE FOR ART AND ARCHITECTURE, ACADEMY OF FINE ARTS VIENNA. 2023. Wiener Hitze: architecture and storytelling in times of heat[M]. Zürich: Park Books，2023年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[118]	INTERNATIONAL ELECTROTECHNICAL COMMISSION (IEC). 2021. Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML)[S]. New York: IEEE，2021年.
+  <div class="csl-entry">[116]	INTERNATIONAL ELECTROTECHNICAL COMMISSION (IEC). 2021. Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML)[S]. New York: IEEE，2021年.
     <div class="csl-block">INTERNATIONAL ELECTROTECHNICAL COMMISSION (IEC). 2021. Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML)[S]. New York: IEEE，2021年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[119]	INTERNATIONAL ORGANIZATION FOR STANDARDIZATION. [no date]. ISO homepage[EB/OL].
+  <div class="csl-entry">[117]	INTERNATIONAL ORGANIZATION FOR STANDARDIZATION. [no date]. ISO homepage[EB/OL].
     <div class="csl-block">INTERNATIONAL ORGANIZATION FOR STANDARDIZATION. [no date]. ISO homepage[EB/OL] (In Chinese)</div>
+  </div>
+  <div class="csl-entry">[118]	ISO. 2016a. Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods[S]. .
+    <div class="csl-block">ISO. 2016. Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods[S].  (In Chinese)</div>
+  </div>
+  <div class="csl-entry">[119]	ISO. 2016b. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles[S]. .
+    <div class="csl-block">ISO. 2016. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles[S].  (In Chinese)</div>
   </div>
   <div class="csl-entry">[120]	ISO. 2019. Audit data collection[S]. .
     <div class="csl-block">ISO. 2019. Audit data collection[S].  (In Chinese)</div>
@@ -496,8 +496,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[139]	YU Y, PAN E, WANG X, WU Y, MEI X, MA J. 2024. Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis[C]. .
     <div class="csl-block">YU Y, PAN E, WANG X, WU Y, MEI X, MA J. 2024. Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis[C].  (In Chinese)</div>
   </div>
-  <div class="csl-entry">[140]	ZHONG X, YAN Q, LI G. 2022. Long time series nighttime light dataset of China (2000-2020)[DS/OL]. Global Change Research Data Publishing &#38; Repository.
-    <div class="csl-block">ZHONG X, YAN Q, LI G. 2022. Long time series nighttime light dataset of China (2000-2020)[DS/OL]. Global Change Research Data Publishing &#38; Repository (In Chinese)</div>
+  <div class="csl-entry">[140]	ZHONG X, YAN Q, LI G. 2022. Long time series nighttime light dataset of China: 2000–2020[DS/OL]. Global Change Research Data Publishing &#38; Repository.
+    <div class="csl-block">ZHONG X, YAN Q, LI G. 2022. Long time series nighttime light dataset of China: 2000–2020[DS/OL]. Global Change Research Data Publishing &#38; Repository (In Chinese)</div>
   </div>
   <div class="csl-entry">[141]	ZOTERO. [no date]. [Zotero download][EB/OL].
     <div class="csl-block">ZOTERO. [no date]. [Zotero download][EB/OL] (In Chinese)</div>

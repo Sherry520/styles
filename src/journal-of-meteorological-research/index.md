@@ -9,11 +9,11 @@
 ### 引注
 
 (汪学军 2005)<br>
+(Praetzellis 2011)<br>
 (Wang 2022)<br>
 (扬奎斯特 and 萨金特 2010)<br>
 (Jenkins and Ruostekoski 2012)<br>
 (肖玲 et al. 2024)<br>
-(Praetzellis 2011)<br>
 (于潇 et al. 2012)<br>
 (Veen et al. 2014)<br>
 
@@ -68,13 +68,13 @@ Qian et al. (2009a)<br>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">American Association for the Advancement of Science, ed., 1883: Science. <b>1883，1（1）—</b>.</div>
-  <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA), Guide to lithium battery safety for space applications.</div>
+  <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA), 2022: Guide to lithium battery safety for space applications.</div>
   <div class="csl-entry">António, M., and L. Pepper, 2019: Histórias de Portugal: livros caídos. <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a> (Accessed January 2, 2025).</div>
   <div class="csl-entry">Babu, B. V., A. Nagar, K. Deep, M. Pant, J. C. Bansal, K. Ray, and U. Gupta, eds., 2014: <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>. Springer,.</div>
   <div class="csl-entry">Bevington, D., and J. R. Brown, 2025: William Shakespeare. <a href="https://www.britannica.com/biography/William-Shakespeare">https://www.britannica.com/biography/William-Shakespeare</a> (Accessed January 3, 2025).</div>
   <div class="csl-entry">Bloss, C. S., et al., 2015: A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors.</div>
   <div class="csl-entry">Boobier, T., 2020: <i>AI and the future of banking</i>. John Wiley &#38; Sons,.</div>
-  <div class="csl-entry">Cairns, B. R., 1965: Infrared spectroscopic studies on solid oxygen. University of California, 224 pp.</div>
+  <div class="csl-entry">Cairns, B. R., 1965: Infrared spectroscopic studies on solid oxygen. University of California, Berkeley, 224 pp.</div>
   <div class="csl-entry">Calkin, D. E., A. A. Ager, and M. P. Thompson, 2011: <i>A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report</i>. <a href="https://www.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf">https://www.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf</a> (Accessed December 2, 2025).</div>
   <div class="csl-entry">Caplan, P., 1993: Cataloging internet resources. <i>Public-Access Comput. Syst. Rev.</i>, <b>4</b>, 61–66.</div>
   <div class="csl-entry">Christou, A., 2024: Improving knowledge graph understanding with contextual views. Wright State University, <a href="http://rave.ohiolink.edu/etdc/view?acc_num=wright1715878159408301">http://rave.ohiolink.edu/etdc/view?acc_num=wright1715878159408301</a> (Accessed February 28, 2025).</div>
@@ -85,9 +85,11 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">Fourney, M. E., 1971: Advances in holographic photoelasticity. <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>, W.G. Gottenberg, Ed., New York, ASME, 17–38.</div>
   <div class="csl-entry">Frese, K. S., H. A. Katus, and B. Meder, 2013: Next-generation sequencing: from understanding biology to personalized medicine. <i>Biology</i>, <b>2</b>, 378–398, <a href="https://doi.org/10.3390/biology2010378">https://doi.org/10.3390/biology2010378</a>.</div>
   <div class="csl-entry">IHME, 2021: Global Burden of Disease Study 2019 (GBD2019) data resources. <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a> (Accessed November 25, 2024).</div>
-  <div class="csl-entry">Institute For Art And Architecture and Academy Of Fine Arts Vienna, 2023: <i>Wiener Hitze: architecture and storytelling in times of heat</i>. Park Books,.</div>
+  <div class="csl-entry">Institute for Art and Architecture, Academy of Fine Arts Vienna, 2023: <i>Wiener Hitze: architecture and storytelling in times of heat</i>. Park Books,.</div>
   <div class="csl-entry">International Electrotechnical Commission (IEC), 2021: Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML).</div>
   <div class="csl-entry">International Organization for Standardization, ISO homepage. <a href="https://www.iso.org/home.html">https://www.iso.org/home.html</a> (Accessed October 6, 2020).</div>
+  <div class="csl-entry">ISO, 2016a: Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods.</div>
+  <div class="csl-entry">ISO, 2016b: Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles.</div>
   <div class="csl-entry">ISO, 2019: Audit data collection.</div>
   <div class="csl-entry">Jenkins, S. D., and J. Ruostekoski, 2012: Controlled manipulation of light by cooperative response of atoms in an optical lattice.</div>
   <div class="csl-entry">Kinchy, A., 2012: <i>Seeds, sciences, and struggle: the global politics of transgenic crops</i>. MIT Press,.</div>
@@ -111,7 +113,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">Weinstein, L., and M. N. Swartz, 1974: Pathogenic properties of invading microorganisms. <i>Pathologic physiology: mechanisms of disease</i>, W.A. Sodeman Jr. and W.A. Sodeman, Eds., Saunders, 457–472.</div>
   <div class="csl-entry">Yu, Y., E. Pan, X. Wang, Y. Wu, X. Mei, and J. Ma, 2024: Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis. 4 <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Unmixing_Before_Fusion_A_Generalized_Paradigm_for_Multi-Source-based_Hyperspectral_Image_CVPR_2024_paper.html">https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Unmixing_Before_Fusion_A_Generalized_Paradigm_for_Multi-Source-based_Hyperspectral_Image_CVPR_2024_paper.html</a> (Accessed December 2, 2025).</div>
   <div class="csl-entry">Yufin, S. A., ed., 2000: <i>Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000</i>. A. A. Balkema,.</div>
-  <div class="csl-entry">Zhong, X., Q. Yan, and G. Li, 2022: Long time series nighttime light dataset of China (2000-2020). <a href="http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a> (Accessed November 25, 2024).</div>
+  <div class="csl-entry">Zhong, X., Q. Yan, and G. Li, 2022: Long time series nighttime light dataset of China: 2000–2020. <a href="https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a> (Accessed November 25, 2024).</div>
   <div class="csl-entry">Zotero, [Zotero download]. <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a> (Accessed April 8, 2024).</div>
   <div class="csl-entry">丁文详, 2000: 数字革命与竞争国际化. 中国青年报, November 20.</div>
   <div class="csl-entry">中华医学会湖北分会, ed., 1984: 临床内科杂志. <b>1984，1（1）—</b>.</div>
@@ -128,11 +130,11 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">井丽南, 2022: 支持状态可编程的SDN交换机关键技术研究. 中国科学院大学, <a href="http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20209289">http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20209289</a> (Accessed December 2, 2025).</div>
   <div class="csl-entry">仉尚航, 2024: 开放世界中的实体基础模型. <a href="https://www.ppthub.com.cn/view/19309">https://www.ppthub.com.cn/view/19309</a> (Accessed January 2, 2025).</div>
   <div class="csl-entry">何筱梅, 2016: 新媒体时代原生广告的策略与发展研究. 武汉大学, <a href="http://paperright.lib.whu.edu.cn/read/pdfindex1.jsp?fid=2f1d8c4e156d9863466de341e4790782">http://paperright.lib.whu.edu.cn/read/pdfindex1.jsp?fid=2f1d8c4e156d9863466de341e4790782</a> (Accessed February 28, 2025).</div>
-  <div class="csl-entry">全国信息与文献标准化技术委员会, 2021: 信息与文献 资源描述.</div>
+  <div class="csl-entry">全国信息与文献标准化技术委员会, 2021: 信息与文献 资源描述.</div>
   <div class="csl-entry">全国信息技术标准化技术委员会, 2016: 信息技术 先进音视频编码 第16部分：广播电视视频.</div>
   <div class="csl-entry">冀超, 2001: 一种荒漠化地区生态植被综合培育种植方法.</div>
   <div class="csl-entry">冯友兰, 2008: 冯友兰自选集. 2nd ed. 首都师范大学出版社,.</div>
-  <div class="csl-entry">刘时银, 郭万钦, and 许君利, 2012: 中国第二次水川编目科学数据：2006-2011. <a href="https://doi.org/10.3972/glacier001.2013.db">https://doi.org/10.3972/glacier001.2013.db</a>.</div>
+  <div class="csl-entry">刘时银, 郭万钦, and 许君利, 2012: 中国第二次水川编目科学数据：2006-2011. <a href="https://doi.org/10.3972/glacier.001.2013.db">https://doi.org/10.3972/glacier.001.2013.db</a>.</div>
   <div class="csl-entry">刘祥沈, 2016: 沈阳市政区图.</div>
   <div class="csl-entry">北京鲁迅博物馆, 2021: 北京鲁迅博物馆志愿服务章程. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a> (Accessed May 2, 2023).</div>
   <div class="csl-entry">博伯尔, 2023: 银行业的未来与人工智能. 清华大学出版社,.</div>
@@ -205,9 +207,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">2023a: [《昨日之歌》图书封面].</div>
   <div class="csl-entry">2023b: 西黄丸. <a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a> (Accessed August 26, 2025).</div>
   <div class="csl-entry">2024: Coastal wetlands map of China continent. 50.</div>
-  <div class="csl-entry"> Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods.</div>
-  <div class="csl-entry"> Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles.</div>
-  <div class="csl-entry"> Library of Congress. <a href="https://www.loc.gov/">https://www.loc.gov/</a> (Accessed June 12, 2020c).</div>
+  <div class="csl-entry"> Library of Congress. <a href="https://www.loc.gov/">https://www.loc.gov/</a> (Accessed June 12, 2020).</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

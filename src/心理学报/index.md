@@ -64,14 +64,13 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">American Association for the Advancement of Science (Ed.). (1883). <i>Science</i>. American Association for the Advancement of Science.</div>
-  <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA). (n.d.). <i>Guide to lithium battery safety for space applications</i> (No. AIAA G-136-2022).</div>
+  <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA). (2022). <i>Guide to lithium battery safety for space applications</i> (No. AIAA G-136-2022).</div>
   <div class="csl-entry">António, M., &#38; Pepper, L. (2019, July 13). <i>Histórias de Portugal: livros caídos</i>.</div>
-  <div class="csl-entry"><i>Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles</i> (No. ISO/IEC 80079-20-2:2016(fr)). (n.d.).</div>
   <div class="csl-entry">Babu, B. V., Nagar, A., Deep, K., Pant, M., Bansal, J. C., Ray, K., &#38; Gupta, U. (Eds.). (2014). <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>. Springer.</div>
   <div class="csl-entry">Bevington, D., &#38; Brown, J. R. (2025, January 1). <i>William Shakespeare</i>.</div>
   <div class="csl-entry">Bloss, C. S., Wineinger, N. E., Peters, M., Boeldt, D. L., Ariniello, L., Kim, J. Y., … Topol, E. J. (2015). <i>A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors</i>. bioRxiv.</div>
   <div class="csl-entry">Boobier, T. (2020). <i>AI and the future of banking</i> (p. 35). John Wiley &#38; Sons.</div>
-  <div class="csl-entry">Cairns, B. R. (1965). <i>Infrared spectroscopic studies on solid oxygen</i> (Doctoral dissertation). University of California, Berkeley.</div>
+  <div class="csl-entry">Cairns, B. R. (1965). <i>Infrared spectroscopic studies on solid oxygen</i> (Doctoral dissertation). University of California, Berkeley, Berkeley.</div>
   <div class="csl-entry">Calkin, D. E., Ager, A. A., &#38; Thompson, M. P. (2011). <i>A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report</i> (No. RMRS-GTR-262; pp. 8–9).</div>
   <div class="csl-entry">Caplan, P. (1993). Cataloging internet resources. <i>The Public-Access Computer Systems Review</i>, <i>4</i>(2), 61–66.</div>
   <div class="csl-entry">Christou, A. (2024). <i>Improving knowledge graph understanding with contextual views</i> (Doctoral dissertation). Wright State University, Ohio.</div>
@@ -79,15 +78,16 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">Cribb, R. (2015). <i>Historical atlas of Indonesia</i>. Routledge.</div>
   <div class="csl-entry">Des Marais, D. J., Strauss, H., Summons, R. E., &#38; Hayes, J. M. (1992). Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment. <i>Nature</i>, <i>359</i>, 605–609.</div>
   <div class="csl-entry">Deverell, W., &#38; Igler, D. (Eds.). (2013). <i>A companion to California history</i> (pp. 21–22). John Wiley &#38; Sons.</div>
-  <div class="csl-entry"><i>Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods</i> (No. ISO/IEC 80079-20-2:2016(en)). (n.d.).</div>
   <div class="csl-entry">Fitzwilliam, H. (1570, July 28). <i>[Letter to Bess of Hardwick]</i>.</div>
   <div class="csl-entry">Fourney, M. E. (1971). Advances in holographic photoelasticity. In W. G. Gottenberg (Ed.), <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i> (pp. 17–38). ASME.</div>
   <div class="csl-entry">Frese, K. S., Katus, H. A., &#38; Meder, B. (2013). Next-generation sequencing: from understanding biology to personalized medicine. <i>Biology</i>, <i>2</i>(1), 378–398.</div>
   <div class="csl-entry"><i>IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation</i> (No. IEEE P802.11ba/D8.0-2020). (2020). IEEE.</div>
   <div class="csl-entry">IHME. (2021). <i>Global Burden of Disease Study 2019 (GBD2019) data resources</i>. Global Health Data Exchange.</div>
-  <div class="csl-entry">Institute For Art And Architecture &#38; Academy Of Fine Arts Vienna. (2023). <i>Wiener Hitze: architecture and storytelling in times of heat</i> (p. 78). Park Books.</div>
+  <div class="csl-entry">Institute for Art and Architecture, Academy of Fine Arts Vienna. (2023). <i>Wiener Hitze: architecture and storytelling in times of heat</i> (p. 78). Park Books.</div>
   <div class="csl-entry">International Electrotechnical Commission (IEC). (2021). <i>Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML)</i> (No. IEC/IEEE 61636-1:2021). IEEE.</div>
   <div class="csl-entry">International Organization for Standardization. (n.d.). <i>ISO homepage</i>.</div>
+  <div class="csl-entry">ISO. (2016a). <i>Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles</i> (No. ISO/IEC 80079-20-2:2016(fr)).</div>
+  <div class="csl-entry">ISO. (2016b). <i>Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods</i> (No. ISO/IEC 80079-20-2:2016(en)).</div>
   <div class="csl-entry">ISO. (2019). <i>Audit data collection</i> (No. ISO 21378:2019).</div>
   <div class="csl-entry">Jenkins, S. D., &#38; Ruostekoski, J. (2012). <i>Controlled manipulation of light by cooperative response of atoms in an optical lattice</i> (No. arXiv:1112.6136). arXiv.</div>
   <div class="csl-entry">Kinchy, A. (2012). <i>Seeds, sciences, and struggle: the global politics of transgenic crops</i> (p. 50). MIT Press.</div>
@@ -110,14 +110,14 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">United Nations Department of Economic and Social Affairs. (n.d.). <i>United Nations e-government survey 2024: accelerating digital transformation for sustainable development</i>.</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. (1990). <i>Guidelines for handling excavated acid-producing material</i> (No. PB 91-194001; p. 25). U.S. Department of Commerce National Information Service.</div>
   <div class="csl-entry">Veen, P. H. van der, Muller, M., Vincken, K. L., Witkamp, T. D., Mali, W. P. T. M., van der Graaf, Y., … SMART-MR Study Group. (2014). Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study. <i>Journal of the Neurological Sciences</i>, <i>337</i>(1/2), 112–118.</div>
-  <div class="csl-entry">Wang, S. (2022). <i>Application of improved SOM neural network in intelligent auditing of hospital financial vouchers</i> (p. 2). 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT), Changzhou, China.</div>
+  <div class="csl-entry">Wang, S. (2022). <i>Application of improved SOM neural network in intelligent auditing of hospital financial vouchers</i> (p. 2). 2022 6th Asian Conference on Artificial Intelligence Technology, Changzhou, China.</div>
   <div class="csl-entry">Wang X. J. (2005). Progress and safety management of genetically modified organism research and development in China. In <i>Proceedings of China National Biosafety Framework Implementation International Cooperation Project Seminar</i> (pp. 22–25). China Environmental Science Press. [汪学军. (2005). 中国农业转基因生物研发进展与安全管理. 见 国家环境保护总局生物安全管理办公室 (编), <i>中国国家生物安全框架实施国际合作项目研讨会论文集</i> (pp. 22–25). 北京: 中国环境科学出版社.]</div>
   <div class="csl-entry">Weinstein, L., &#38; Swartz, M. N. (1974). Pathogenic properties of invading microorganisms. In W. A. Sodeman Jr. &#38; W. A. Sodeman (Eds.), <i>Pathologic physiology: mechanisms of disease</i> (5th ed., pp. 457–472). Saunders.</div>
   <div class="csl-entry">Xiao L., Zhang X., &#38; Wang Y. (2024). <i>Exploring statistical measurement methods for data elements</i> (No. PSSXiv:202408.01096). PSSXiv. [肖玲, 张雪, 王永. (2024). <i>数据要素的统计测算方法探究</i> (No. PSSXiv:202408.01096). PSSXiv.]</div>
   <div class="csl-entry">Yu X., Liu Y., Chai Y. T., &#38; Sun H. B. (2012). The model for reviewing and registering the qualifications of entities in a trustworthy online pharmaceutical trading environment. <i>Journal of Tsinghua University (Science and Technology)</i>, <i>52</i>(11), 1518–1523. [于潇, 刘义, 柴跃廷, 孙宏波. (2012). 互联网药品可信交易环境中主体资质审核备案模式. <i>清华大学学报（自然科学版）</i>, <i>52</i>(11), 1518–1523.]</div>
   <div class="csl-entry">Yu, Y., Pan, E., Wang, X., Wu, Y., Mei, X., &#38; Ma, J. (2024). <i>Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis</i> (p. 4). CVPR, Seattle.</div>
   <div class="csl-entry">Yufin, S. A. (Ed.). (2000). <i>Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000</i>. A. A. Balkema.</div>
-  <div class="csl-entry">Zhong, X., Yan, Q., &#38; Li, G. (2022). <i>Long time series nighttime light dataset of China (2000-2020)</i>. Global Change Research Data Publishing &#38; Repository.</div>
+  <div class="csl-entry">Zhong, X., Yan, Q., &#38; Li, G. (2022). <i>Long time series nighttime light dataset of China: 2000–2020</i>. Global Change Research Data Publishing &#38; Repository.</div>
   <div class="csl-entry">Zotero. (n.d.). <i>[Zotero download]</i>.</div>
   <div class="csl-entry">[丁文详. (2000-11-20). 数字革命与竞争国际化. <i>中国青年报</i>, p15.]</div>
   <div class="csl-entry">[中华医学会湖北分会 (编). (1984). <i>临床内科杂志</i>. 武汉: 中华医学会湖北分会.]</div>
@@ -134,7 +134,7 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">[井丽南. (2022). <i>支持状态可编程的SDN交换机关键技术研究</i> (博士学位论文). 中国科学院大学, 北京.]</div>
   <div class="csl-entry">[仉尚航. (2024-12-24). <i>开放世界中的实体基础模型</i>.]</div>
   <div class="csl-entry">[何筱梅. (2016). <i>新媒体时代原生广告的策略与发展研究</i> (博士学位论文). 武汉大学, 武汉.]</div>
-  <div class="csl-entry">[全国信息与文献标准化技术委员会. (2021). <i>信息与文献 资源描述</i> (国家标准 No. GB/T 3792—2021).]</div>
+  <div class="csl-entry">[全国信息与文献标准化技术委员会. (2021). <i>信息与文献 资源描述</i> (国家标准 No. GB/T 3792—2021).]</div>
   <div class="csl-entry">[全国信息技术标准化技术委员会. (2016). <i>信息技术 先进音视频编码 第16部分：广播电视视频</i> (国家标准 No. GB/T 20090.16—2016).]</div>
   <div class="csl-entry">[冀超. (2001). <i>一种荒漠化地区生态植被综合培育种植方法</i> (No. CN1318281A).]</div>
   <div class="csl-entry">[冯友兰. (2008). <i>冯友兰自选集</i> (2 版, p. 第1版自序). 北京: 首都师范大学出版社.]</div>
@@ -203,7 +203,7 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">[顾炎武. (1980). <i>昌平山水记；京东考古录</i>. 北京: 北京古籍出版社.]</div>
   <div class="csl-entry">[马克思. (2013). 政治经济学批判. 见 马克思, 恩格斯, <i>马克思恩格斯全集</i>(35) (2 版, p. 302). 北京: 人民出版社.]</div>
   <div class="csl-entry">[高等教育文献保障系统. (无日期). <i>馆际互借与文献传递服务</i>.]</div>
-  <div class="csl-entry">[黄土高原科学数据中心（西北农林科技大学水土保持研究所）. (2024). <i>青海省县域教育、卫生发展指标（2001—2022年）</i>. 国家地理资源科学数据中心-黄土高原分中心.]</div>
+  <div class="csl-entry">[黄土高原科学数据中心（西北农林科技大学水土保持研究所）. (2024). <i>青海省县域教育、卫生发展指标（2001—2022年）</i>. 国家地球系统科学数据中心-黄土高原分中心.]</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

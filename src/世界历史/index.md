@@ -55,7 +55,7 @@
 <sup>5</sup> 顾炎武：《昌平山水记；京东考古录》，北京古籍出版社1980年版。<br>
 <sup>6</sup> 钱学森：《创建系统学》，山西科学技术出版社2001年版。<br>
 <sup>7</sup> 冯友兰：《冯友兰自选集》2，首都师范大学出版社2008年版。<br>
-<sup>8</sup> 《康熙字典》同文书局影印本第巳集上 水部卷，中华书局1962年版。<br>
+<sup>8</sup> 《康熙字典》同文书局影印本第巳集上 水部卷，中华书局1962年版。<br>
 <sup>9</sup> 战德臣、张丽杰：《大学计算机：计算思维与信息素养》3，高等教育出版社2019年版。<br>
 <sup>10</sup> 哈里森、沃尔德伦著，谢远涛译：《经济数学与金融数学》，中国人民大学出版社2012年版。<br>
 <sup>11</sup> 牛永敢等主编：《鼻整形应用解剖学》，人民卫生出版社2019年版。<br>
@@ -67,7 +67,7 @@
 <sup>17</sup> 図書館用語辞典編集委員会主编：《最新図書館用語大辞典》，柏書房株式会社2004年版。<br>
 <sup>18</sup> Peyton Z. Peebles, Jr., <i>Probability, random variable, and random signal principles</i>, New York: McGraw-Hill, 2001.<br>
 <sup>19</sup> Benjamin J. Sadock et al. eds., <i>Kaplan &#38; Sadock’s comprehensive textbook of psychiatry</i>, Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.<br>
-<sup>20</sup> Institute For Art And Architecture and Academy Of Fine Arts Vienna, <i>Wiener Hitze: architecture and storytelling in times of heat</i>, Zürich: Park Books, 2023.<br>
+<sup>20</sup> Institute for Art and Architecture, Academy of Fine Arts Vienna, <i>Wiener Hitze: architecture and storytelling in times of heat</i>, Zürich: Park Books, 2023.<br>
 <sup>21</sup> Abby Kinchy, <i>Seeds, sciences, and struggle: the global politics of transgenic crops</i>, Cambridge, Mass.: MIT Press, 2012.<br>
 <sup>22</sup> Adrian Praetzellis, <i>Death by theory: a tale of mystery and archaeological theory</i>, Rowman &#38; Littlefield Publishing Group, Inc., 2011.<br>
 <sup>23</sup> Lynette Torres et al. eds., <i>Connecting the library to the curriculum</i>, Singapore: Springer Nature, 2021.<br>
@@ -123,7 +123,7 @@
 <sup>73</sup> 金燕萍：《社交媒体时代的虚假信息研究》，硕士学位论文学位论文，温州大学，2020年。<br>
 <sup>74</sup> 何筱梅：《新媒体时代原生广告的策略与发展研究》，博士学位论文学位论文，武汉大学，2016年。<br>
 <sup>75</sup> 井丽南：《支持状态可编程的SDN交换机关键技术研究》，博士学位论文学位论文，中国科学院大学，2022年。<br>
-<sup>76</sup> Bruce Richard Cairns, <i>Infrared spectroscopic studies on solid oxygen</i>, Berkeley: University of California, Doctoral dissertation Dissertation, 1965.<br>
+<sup>76</sup> Bruce Richard Cairns, <i>Infrared spectroscopic studies on solid oxygen</i>, Berkeley: University of California, Berkeley, Doctoral dissertation Dissertation, 1965.<br>
 <sup>77</sup> Antrea Christou, <i>Improving knowledge graph understanding with contextual views</i>, Ohio: Wright State University, Doctoral dissertation Dissertation, 2024.<br>
 <sup>78</sup> 中国互联网络信息中心：《第29次中国互联网络发展状况统计报告》，2012年。<br>
 <sup>79</sup> 汤万金等：《人体安全重要技术标准研制最终报告》，2013年。<br>
@@ -131,16 +131,16 @@
 <sup>81</sup> David E. Calkin, Alan A. Ager and Matthew P. Thompson, <i>A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report</i>, 2011, pp. 8—9.<br>
 <sup>82</sup> U.S. Department of Transportation Federal Highway Administration, <i>Guidelines for handling excavated acid-producing material</i>, Springfield: U.S. Department of Commerce National Information Service, 1990, p. 25.<br>
 <sup>83</sup> United Nations Department of Economic and Social Affairs, <i>United Nations e-government survey 2024: accelerating digital transformation for sustainable development</i>, .<br>
-<sup>84</sup> 全国信息与文献标准化技术委员会：《信息与文献 资源描述》，2021年。<br>
+<sup>84</sup> 全国信息与文献标准化技术委员会：《信息与文献 资源描述》，2021年。<br>
 <sup>85</sup> 全国信息技术标准化技术委员会：《信息技术 先进音视频编码 第16部分：广播电视视频》，2016年。<br>
 <sup>86</sup> 工业和信息化部：《信息技术  中文编码字符集》，2022年。<br>
 <sup>87</sup> 国家能源局：《水电工程水温实时监测系统技术规范》，2020年。<br>
 <sup>88</sup> ISO, <i>Audit data collection</i>, 2019.<br>
 <sup>89</sup> International Electrotechnical Commission (IEC), <i>Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML)</i>, New York: IEEE, 2021.<br>
 <sup>90</sup> <i>IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation</i>, New York: IEEE, 2020.<br>
-<sup>91</sup> American Institute of Aeronautics and Astronautics (AIAA), <i>Guide to lithium battery safety for space applications</i>, .<br>
-<sup>92</sup> <i>Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods</i>, .<br>
-<sup>93</sup> 《Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles》，出版时间不详。<br>
+<sup>91</sup> American Institute of Aeronautics and Astronautics (AIAA), <i>Guide to lithium battery safety for space applications</i>, 2022.<br>
+<sup>92</sup> ISO, <i>Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods</i>, 2016.<br>
+<sup>93</sup> ISO：《Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles》，2016年。<br>
 <sup>94</sup> 邓一刚：《全智能节电器》，2008年。<br>
 <sup>95</sup> 张凯军、赵永杰、陈朝岗：《轨道火车及高速轨道火车紧急安全制动辅助装置》，2013年。<br>
 <sup>96</sup> 李华、王昊、康佐：《一种拼接式桥梁模型》，2023年。<br>
@@ -180,10 +180,10 @@
 <sup>130</sup> 刘时银、郭万钦、许君利：《中国第二次水川编目科学数据：2006-2011》中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室，2012年。<br>
 <sup>131</sup> 周壮等：《天宫二号遥感图像自然景物分类数据集》国家基础学科公共科学数据中心，2023年。<br>
 <sup>132</sup> 郑涵等：《2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据》Science Data Bank，2018年。<br>
-<sup>133</sup> 黄土高原科学数据中心（西北农林科技大学水土保持研究所）：《青海省县域教育、卫生发展指标（2001—2022年）》国家地理资源科学数据中心-黄土高原分中心，2024年。<br>
+<sup>133</sup> 黄土高原科学数据中心（西北农林科技大学水土保持研究所）：《青海省县域教育、卫生发展指标（2001—2022年）》国家地球系统科学数据中心-黄土高原分中心，2024年。<br>
 <sup>134</sup> 王继民等：《人文社会科学数据集检索方法研究的数据集》北京大学开放研究数据平台，2025年。<br>
 <sup>135</sup> L. Sugarman and S. Markham, <i>Students in a selective high school: some vocationally oriented data</i>, UK Data Service, 1980.<br>
-<sup>136</sup> Xiaoya Zhong, Qingwu Yan and Guie Li, <i>Long time series nighttime light dataset of China (2000-2020)</i>, Global Change Research Data Publishing &#38; Repository, 2022.<br>
+<sup>136</sup> Xiaoya Zhong, Qingwu Yan and Guie Li, <i>Long time series nighttime light dataset of China: 2000–2020</i>, Global Change Research Data Publishing &#38; Repository, 2022.<br>
 <sup>137</sup> IHME, <i>Global Burden of Disease Study 2019 (GBD2019) data resources</i>, Global Health Data Exchange, 2021.<br>
 <sup>138</sup> 方向明、曹迎杰：《元宇宙在图书馆的应用：理论研究与实践进展》2023年。<br>
 <sup>139</sup> 肖玲、张雪、王永：《数据要素的统计测算方法探究》2024年。<br>

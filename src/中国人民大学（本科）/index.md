@@ -99,7 +99,7 @@
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">冯友兰. 冯友兰自选集[M]. 2 版. 北京: 首都师范大学出版社, 2008: 第1版自序.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">康熙字典: 巳集上 水部[M]. 同文书局影印本. 北京: 中华书局, 1962: 50.</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">康熙字典: 巳集上 水部[M]. 同文书局影印本. 北京: 中华书局, 1962: 50.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[9]</div><div class="csl-right-inline">战德臣, 张丽杰. 大学计算机：计算思维与信息素养[M]. 3 版. 北京: 高等教育出版社, 2019.</div>
@@ -135,7 +135,7 @@
     <div class="csl-left-margin">[19]</div><div class="csl-right-inline">Sadock, B. J., Sadock, V. A., Ruiz, P., et al. (Eds.). (2009). <i>Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry</i> (9th ed., Vol. 1). Wolters Kluwer Health/Lippincott Williams &#38; Wilkins.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">Institute For Art And Architecture &#38; Academy Of Fine Arts Vienna. (2023). <i>Wiener Hitze: Architecture and Storytelling in Times of Heat</i> (p. 78). Park Books.</div>
+    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">Institute for Art and Architecture, Academy of Fine Arts Vienna. (2023). <i>Wiener Hitze: Architecture and Storytelling in Times of Heat</i> (p. 78). Park Books.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[21]</div><div class="csl-right-inline">Kinchy, A. (2012). <i>Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops</i> (p. 50). MIT Press.</div>
@@ -243,7 +243,7 @@
     <div class="csl-left-margin">[55]</div><div class="csl-right-inline">Frese, K. S., Katus, H. A., &#38; Meder, B. (2013). Next-Generation Sequencing: From Understanding Biology to Personalized Medicine. <i>Biology</i>, <i>2</i>(1), 378-398.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[56]</div><div class="csl-right-inline">Myburg, A. A., Grattapaglia, D., Tuskan, G. A., et al. (2014). The Genome of <i>Eucalyptus Grandis</i>. <i>Nature</i>, <i>510</i>, 356-362.</div>
+    <div class="csl-left-margin">[56]</div><div class="csl-right-inline">Myburg, A. A., Grattapaglia, D., Tuskan, G. A., et al. (2014). The Genome of <i>Eucalyptus grandis</i>. <i>Nature</i>, <i>510</i>, 356-362.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[57]</div><div class="csl-right-inline">Santer, R. D., &#38; Akanyeti, O. (2025). Using Artificial Neural Networks to Explain the Attraction of Jewel Beetles (Coleoptera: Buprestidae) to Colored Traps. <i>Insect Science</i>.</div>
@@ -303,7 +303,7 @@
     <div class="csl-left-margin">[75]</div><div class="csl-right-inline">井丽南. 支持状态可编程的SDN交换机关键技术研究[D]. 北京: 中国科学院大学, 2022: 43.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[76]</div><div class="csl-right-inline">Cairns, B. R. (1965). <i>Infrared Spectroscopic Studies on Solid Oxygen</i> (p. 15) [Doctoral dissertation]. University of California.</div>
+    <div class="csl-left-margin">[76]</div><div class="csl-right-inline">Cairns, B. R. (1965). <i>Infrared Spectroscopic Studies on Solid Oxygen</i> (p. 15) [Doctoral dissertation]. University of California, Berkeley.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[77]</div><div class="csl-right-inline">Christou, A. (2024). <i>Improving Knowledge Graph Understanding with Contextual Views</i> (p. 18) [Doctoral dissertation, Wright State University].</div>
@@ -327,7 +327,7 @@
     <div class="csl-left-margin">[83]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. (n.d.). <i>United Nations E-Government Survey 2024: Accelerating Digital Transformation for Sustainable Development</i>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">GB/T 3792—2021, 信息与文献 资源描述[S].</div>
+    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">GB/T 3792—2021, 信息与文献 资源描述[S].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[85]</div><div class="csl-right-inline">GB/T 20090.16—2016, 信息技术 先进音视频编码 第16部分：广播电视视频[S].</div>
@@ -348,13 +348,13 @@
     <div class="csl-left-margin">[90]</div><div class="csl-right-inline"><i>IEEE Approved Draft Standard for Information Technology--Telecommunications and Information Exchange between Systems Local and Metropolitan Area Networks--Specific Requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 3: Wake-up Radio Operation</i> (No. IEEE P802.11ba/D8.0-2020). (2020). IEEE.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[91]</div><div class="csl-right-inline">American Institute of Aeronautics and Astronautics (AIAA). (n.d.). <i>Guide to Lithium Battery Safety for Space Applications</i> (No. AIAA G-136-2022).</div>
+    <div class="csl-left-margin">[91]</div><div class="csl-right-inline">American Institute of Aeronautics and Astronautics (AIAA). (2022). <i>Guide to Lithium Battery Safety for Space Applications</i> (No. AIAA G-136-2022).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[92]</div><div class="csl-right-inline"><i>Explosive Atmospheres — Part 20-2: Material Characteristics — Combustible Dusts Test Methods</i> (No. ISO/IEC 80079-20-2:2016(en)). (n.d.).</div>
+    <div class="csl-left-margin">[92]</div><div class="csl-right-inline">ISO. (2016). <i>Explosive Atmospheres — Part 20-2: Material Characteristics — Combustible Dusts Test Methods</i> (No. ISO/IEC 80079-20-2:2016(en)).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[93]</div><div class="csl-right-inline"><i>Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles</i> (No. ISO/IEC 80079-20-2:2016(fr)). (n.d.).</div>
+    <div class="csl-left-margin">[93]</div><div class="csl-right-inline">ISO. (2016). <i>Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles</i> (No. ISO/IEC 80079-20-2:2016(fr)).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[94]</div><div class="csl-right-inline">邓一刚. 全智能节电器: CN101106276A[P]. 中国专利: 2008-01-16.</div>
@@ -474,7 +474,7 @@
     <div class="csl-left-margin">[132]</div><div class="csl-right-inline">郑涵, 于贵瑞, 朱先进, 等. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据[DS/OL]. Science Data Bank, 20182025年2月14日. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a>. 2025年2月14日访问.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]. 国家地理资源科学数据中心-黄土高原分中心, 20242025年7月10日. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>. 2025年7月10日访问.</div>
+    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]. 国家地球系统科学数据中心-黄土高原分中心, 20242025年7月10日. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>. 2025年7月10日访问.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[134]</div><div class="csl-right-inline">王继民, 罗鹏程, 赵常煜, 等. 人文社会科学数据集检索方法研究的数据集[DS/OL]. 北京大学开放研究数据平台, 20252025年7月10日. <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>. 2025年7月10日访问.</div>
@@ -483,7 +483,7 @@
     <div class="csl-left-margin">[135]</div><div class="csl-right-inline">Sugarman, L., &#38; Markham, S. (1980). <i>Students in a Selective High School: Some Vocationally Oriented Data</i> [dataset]. UK Data Service. <a href="https://doi.org/10.5255/UKDA-SN-996-1">https://doi.org/10.5255/UKDA-SN-996-1</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[136]</div><div class="csl-right-inline">Zhong, X., Yan, Q., &#38; Li, G. (2022). <i>Long Time Series Nighttime Light Dataset of China (2000-2020)</i> [dataset]. Global Change Research Data Publishing &#38; Repository. <a href="http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a></div>
+    <div class="csl-left-margin">[136]</div><div class="csl-right-inline">Zhong, X., Yan, Q., &#38; Li, G. (2022). <i>Long Time Series Nighttime Light Dataset of China: 2000–2020</i> [dataset]. Global Change Research Data Publishing &#38; Repository. <a href="https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[137]</div><div class="csl-right-inline">IHME. (2021). <i>Global Burden of Disease Study 2019 (GBD2019) Data Resources</i> [dataset]. Global Health Data Exchange. <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a></div>

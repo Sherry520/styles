@@ -9,11 +9,11 @@
 ### 引注
 
 (汪学军, 2005)<br>
+(Praetzellis, 2011)<br>
 (Wang, 2022)<br>
 (扬奎斯特 and 萨金特, 2010)<br>
 (Jenkins and Ruostekoski, 2012)<br>
 (肖玲, et al, 2024)<br>
-(Praetzellis, 2011)<br>
 (于潇, et al, 2012)<br>
 (Veen, et al, 2014)<br>
 
@@ -111,7 +111,7 @@ Qian, et al (2009b)<br>
   <div class="csl-entry">彭守璋. 2024. 1901—2023年中国1km分辨率逐月降水量数据集[EB/OL]. <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a>.</div>
   <div class="csl-entry">钱学森. 2001. 创建系统学[M]. 太原: 山西科学技术出版社.</div>
   <div class="csl-entry">全国信息技术标准化技术委员会. 2016. 信息技术 先进音视频编码 第16部分：广播电视视频[S].</div>
-  <div class="csl-entry">全国信息与文献标准化技术委员会. 2021. 信息与文献 资源描述[S].</div>
+  <div class="csl-entry">全国信息与文献标准化技术委员会. 2021. 信息与文献 资源描述[S].</div>
   <div class="csl-entry">石顺祥, 许海平, 孙艳玲, , 等. 2002. 光折变自适应光外差探测方法[P].</div>
   <div class="csl-entry">史国华, 樊金宇, 何益, , et al. 2022. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法[P].</div>
   <div class="csl-entry">谭其骧. 1982. 中国历史地图集[Z]. 北京: 地图出版社.</div>
@@ -152,13 +152,13 @@ Qian, et al (2009b)<br>
   <div class="csl-entry">周壮, 李盛阳, 吴薇, , 等. 2023. 天宫二号遥感图像自然景物分类数据集[EB/OL]. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>.</div>
   <div class="csl-entry">訾冬梅, 高秀静. 2006. 内蒙古自治区地图册[Z]. 北京: 中国地图出版社.</div>
   <div class="csl-entry">American Association for the Advancement of Science. 1883. Science[Z]. Washington, D.C.: American Association for the Advancement of Science.</div>
-  <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA). Guide to lithium battery safety for space applications[S].</div>
+  <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA). 2022. Guide to lithium battery safety for space applications[S].</div>
   <div class="csl-entry">António M, Pepper L. 2019. Histórias de Portugal: livros caídos[EB/OL]. <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a>.</div>
   <div class="csl-entry">Babu B V, Nagar A, Deep K, , et al. 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012[M]. New Delhi: Springer.</div>
   <div class="csl-entry">Bevington D, Brown J R. 2025. William Shakespeare[EB/OL]. <a href="https://www.britannica.com/biography/William-Shakespeare">https://www.britannica.com/biography/William-Shakespeare</a>.</div>
   <div class="csl-entry">Bloss C S, Wineinger N E, Peters M, , et al. 2015. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[Z]. bioRxiv.</div>
   <div class="csl-entry">Boobier T. 2020. AI and the future of banking[M]. Chichester: John Wiley &#38; Sons.</div>
-  <div class="csl-entry">Cairns B R. 1965. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: University of California.</div>
+  <div class="csl-entry">Cairns B R. 1965. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: University of California, Berkeley.</div>
   <div class="csl-entry">Calkin D E, Ager A A, Thompson M P. 2011. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report[R].</div>
   <div class="csl-entry">Caplan P. 1993. Cataloging internet resources[J]. <i>The Public-Access Computer Systems Review</i>, 4(2): 61-66.</div>
   <div class="csl-entry">Christou A. 2024. Improving knowledge graph understanding with contextual views[D]. Ohio: Wright State University.</div>
@@ -169,9 +169,11 @@ Qian, et al (2009b)<br>
   <div class="csl-entry">Fourney M E. 1971. Advances in holographic photoelasticity[C]//Gottenberg W G. Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, 17-38.</div>
   <div class="csl-entry">Frese K S, Katus H A, Meder B. 2013. Next-generation sequencing: from understanding biology to personalized medicine[J]. <i>Biology</i>, 2(1): 378-398.</div>
   <div class="csl-entry">IHME. 2021. Global Burden of Disease Study 2019 (GBD2019) data resources[EB/OL]. <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a>.</div>
-  <div class="csl-entry">Institute For Art And Architecture, Academy Of Fine Arts Vienna. 2023. Wiener Hitze: architecture and storytelling in times of heat[M]. Zürich: Park Books.</div>
+  <div class="csl-entry">Institute for Art and Architecture, Academy of Fine Arts Vienna. 2023. Wiener Hitze: architecture and storytelling in times of heat[M]. Zürich: Park Books.</div>
   <div class="csl-entry">International Electrotechnical Commission (IEC). 2021. Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML)[S]. New York: IEEE.</div>
   <div class="csl-entry">International Organization for Standardization. ISO homepage[EB/OL]. <a href="https://www.iso.org/home.html">https://www.iso.org/home.html</a>.</div>
+  <div class="csl-entry">ISO. 2016a. Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods[S].</div>
+  <div class="csl-entry">ISO. 2016b. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles[S].</div>
   <div class="csl-entry">ISO. 2019. Audit data collection[S].</div>
   <div class="csl-entry">Jenkins S D, Ruostekoski J. 2012. Controlled manipulation of light by cooperative response of atoms in an optical lattice[Z]. arXiv.</div>
   <div class="csl-entry">Kinchy A. 2012. Seeds, sciences, and struggle: the global politics of transgenic crops[M]. Cambridge, Mass.: MIT Press.</div>
@@ -195,7 +197,7 @@ Qian, et al (2009b)<br>
   <div class="csl-entry">Weinstein L, Swartz M N. 1974. Pathogenic properties of invading microorganisms[M]//Sodeman W A Jr, Sodeman W A. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 457-472.</div>
   <div class="csl-entry">Yu Y, Pan E, Wang X, , et al. 2024. Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis[C]. , 4.</div>
   <div class="csl-entry">Yufin S A. 2000. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000[M]. Rotterdam: A. A. Balkema.</div>
-  <div class="csl-entry">Zhong X, Yan Q, Li G. 2022. Long time series nighttime light dataset of China (2000-2020)[EB/OL]. <a href="http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>.</div>
+  <div class="csl-entry">Zhong X, Yan Q, Li G. 2022. Long time series nighttime light dataset of China: 2000–2020[EB/OL]. <a href="https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>.</div>
   <div class="csl-entry">Zotero. [Zotero download][EB/OL]. <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a>.</div>
   <div class="csl-entry">1949. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[Z].</div>
   <div class="csl-entry">1962. 康熙字典[M]. 北京: 中华书局.</div>
@@ -205,8 +207,6 @@ Qian, et al (2009b)<br>
   <div class="csl-entry">2023a. [《昨日之歌》图书封面][Z].</div>
   <div class="csl-entry">2023b. 西黄丸[EB/OL]. <a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a>.</div>
   <div class="csl-entry">2024. Coastal wetlands map of China continent[Z]. Beijing: China Ocean Press.</div>
-  <div class="csl-entry">Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods[S].</div>
-  <div class="csl-entry">Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles[S].</div>
   <div class="csl-entry">Library of Congress[EB/OL]. <a href="https://www.loc.gov/">https://www.loc.gov/</a>.</div>
 </div>
 

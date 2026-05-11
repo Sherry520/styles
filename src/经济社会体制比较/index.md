@@ -9,11 +9,11 @@
 ### 引注
 
 （汪学军, 2005）<br>
+（Praetzellis, 2011）<br>
 （Wang, 2022）<br>
 （扬奎斯特和萨金特, 2010）<br>
 （Jenkins &#38; Ruostekoski, 2012）<br>
 （肖玲等, 2024）<br>
-（Praetzellis, 2011）<br>
 （于潇等, 2012）<br>
 （Veen et al., 2014）<br>
 
@@ -69,7 +69,7 @@ Qian et al. （2009b）<br>
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">Fitzwilliam H., 1570. “[Letter to Bess of Hardwick].”(1570-07-28)[2025-02-28].</div>
   <div class="csl-entry">Sugarman L. &#38; Markham S., 1980. “Students in a selective high school: some vocationally oriented data.”. UK Data Service[2025-07-10].</div>
-  <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA), [no date]. “Guide to lithium battery safety for space applications.”. .</div>
+  <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA), 2022. “Guide to lithium battery safety for space applications.”. .</div>
   <div class="csl-entry">Anonymous, 1883. “Science.”. Washington, D.C.: American Association for the Advancement of Science.</div>
   <div class="csl-entry">Anonymous, 1979. “Public library quarterly.”. Philadelphia: Taylor &#38; Francis[2025-02-28].</div>
   <div class="csl-entry">Anonymous, 2000. “Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000.”. Yufin S A, ed.. Rotterdam: A. A. Balkema.</div>
@@ -79,12 +79,11 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Anonymous, 2020. “IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation.”. New York: IEEE.</div>
   <div class="csl-entry">Anonymous, 2021. “Connecting the library to the curriculum.”. Torres L, Salisbury F, Yazbeck B, et al., eds.. Singapore: Springer Nature: 97[2025-12-02].</div>
   <div class="csl-entry">Anonymous, 2024. “Coastal wetlands map of China continent.”. Beijing: China Ocean Press: 50.</div>
-  <div class="csl-entry">Anonymous, [no date]. “Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods.”. .</div>
-  <div class="csl-entry">Anonymous, [no date]. “Library of Congress.”[2020b-06-12].</div>
+  <div class="csl-entry">Anonymous, [no date]. “Library of Congress.”[2020-06-12].</div>
   <div class="csl-entry">Bevington D. &#38; Brown J.R., 2025. “William Shakespeare.”(2025-01-01)[2025-01-03].</div>
   <div class="csl-entry">Bloss C.S., Wineinger N.E., Peters M., et al., 2015. “A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors.”. bioRxiv(2015-10-28)[2018-07-12].</div>
   <div class="csl-entry">Boobier T., 2020. “AI and the future of banking.”. Chichester: John Wiley &#38; Sons: 35.</div>
-  <div class="csl-entry">Cairns B.R., 1965. “Infrared spectroscopic studies on solid oxygen.”. Berkeley: University of California: 15.</div>
+  <div class="csl-entry">Cairns B.R., 1965. “Infrared spectroscopic studies on solid oxygen.”. Berkeley: University of California, Berkeley: 15.</div>
   <div class="csl-entry">Calkin D.E., Ager A.A. &#38; Thompson M.P., 2011. “A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report.”. [2025-12-02].</div>
   <div class="csl-entry">Caplan P., 1993. “Cataloging internet resources.” <i>The Public-Access Computer Systems Review</i>. 4(2): 61–66.</div>
   <div class="csl-entry">Christou A., 2024. “Improving knowledge graph understanding with contextual views.”. Ohio: Wright State University: 18[2025-02-28].</div>
@@ -93,9 +92,10 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Fourney M.E., 1971. “Advances in holographic photoelasticity.”. Gottenberg W G, ed.//<i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>  New York: ASME: 17–38.</div>
   <div class="csl-entry">Frese K.S., Katus H.A. &#38; Meder B., 2013. “Next-generation sequencing: from understanding biology to personalized medicine.” <i>Biology</i>. 2(1): 378–398[2013-03-19].</div>
   <div class="csl-entry">IHME, 2021. “Global Burden of Disease Study 2019 (GBD2019) data resources.”. Global Health Data Exchange[2024-11-25].</div>
-  <div class="csl-entry">Institute For Art And Architecture &#38; Academy Of Fine Arts Vienna, 2023. “Wiener Hitze: architecture and storytelling in times of heat.”. Zürich: Park Books: 78.</div>
+  <div class="csl-entry">Institute for Art and Architecture, Academy of Fine Arts Vienna, 2023. “Wiener Hitze: architecture and storytelling in times of heat.”. Zürich: Park Books: 78.</div>
   <div class="csl-entry">International Electrotechnical Commission (IEC), 2021. “Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML).”. New York: IEEE.</div>
   <div class="csl-entry">International Organization for Standardization, [no date]. “ISO homepage.”[2020-10-06].</div>
+  <div class="csl-entry">ISO, 2016a. “Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods.”. .</div>
   <div class="csl-entry">ISO, 2019. “Audit data collection.”. .</div>
   <div class="csl-entry">Jenkins S.D. &#38; Ruostekoski J., 2012. “Controlled manipulation of light by cooperative response of atoms in an optical lattice.”. arXiv(2012-03-18)[2020-06-24].</div>
   <div class="csl-entry">Kinchy A., 2012. “Seeds, sciences, and struggle: the global politics of transgenic crops.”. Cambridge, Mass.: MIT Press: 50[2013-07-14].</div>
@@ -115,9 +115,9 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Wang S., 2022. “Application of improved SOM neural network in intelligent auditing of hospital financial vouchers.”. [2025-12-02].</div>
   <div class="csl-entry">Weinstein L. &#38; Swartz M.N., 1974. “Pathogenic properties of invading microorganisms.”. Sodeman W A Jr, Sodeman W A, eds.//<i>Pathologic Physiology: Mechanisms of Disease</i>  5 edition. Philadelphia: Saunders: 457–472.</div>
   <div class="csl-entry">Yu Y., Pan E., Wang X., et al., 2024. “Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis.”. [2025-12-02].</div>
-  <div class="csl-entry">Zhong X., Yan Q. &#38; Li G., 2022. “Long time series nighttime light dataset of China (2000-2020).”. Global Change Research Data Publishing &#38; Repository[2024-11-25].</div>
+  <div class="csl-entry">Zhong X., Yan Q. &#38; Li G., 2022. “Long time series nighttime light dataset of China: 2000–2020.”. Global Change Research Data Publishing &#38; Repository[2024-11-25].</div>
   <div class="csl-entry">Zotero, [no date]. “[Zotero download].”[2024-04-08].</div>
-  <div class="csl-entry">Anonymous, [no date]. “Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles.”. .</div>
+  <div class="csl-entry">ISO, 2016b. “Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles.”. .</div>
   <div class="csl-entry">史国华, 樊金宇, 何益, et al., 2022. “光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法.”. 2022-09-13[2025-02-28].</div>
   <div class="csl-entry">Anonymous, 2004. “最新図書館用語大辞典.”. 図書館用語辞典編集委員会, ed.. 東京: 柏書房株式会社: 154.</div>
   <div class="csl-entry">António M. &#38; Pepper L., 2019. “Histórias de Portugal: livros caídos.”(2019-07-13)[2025-01-02].</div>
@@ -143,7 +143,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">何筱梅, 2016：“新媒体时代原生广告的策略与发展研究”. 武汉: 武汉大学: 24–25[2025-02-28]。</div>
   <div class="csl-entry">胡健民, 2021：“东南极拉斯曼丘陵地区地质图”. 北京: 科学出版社。</div>
   <div class="csl-entry">湖北省建设厅, 1931：“湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令”(1931-11-07)[2025-02-28]。</div>
-  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）, 2024：“青海省县域教育、卫生发展指标（2001—2022年）”. 国家地理资源科学数据中心-黄土高原分中心(2024-12-25)[2025-07-10]。</div>
+  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）, 2024：“青海省县域教育、卫生发展指标（2001—2022年）”. 国家地球系统科学数据中心-黄土高原分中心(2024-12-25)[2025-07-10]。</div>
   <div class="csl-entry">冀超, 2001：“一种荒漠化地区生态植被综合培育种植方法”. 2001-10-24[2002-05-28]。</div>
   <div class="csl-entry">贾东琴、柯平, 2011：“面向数字素养的高校图书馆数字服务体系研究”. 中国图书馆学会, 编//《中国图书馆学会年会论文集》北京: 国家图书馆出版社: 45–52。</div>
   <div class="csl-entry">金燕萍, 2020：“社交媒体时代的虚假信息研究”. 温州: 温州大学: 16[2025-12-02]。</div>
@@ -161,7 +161,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">彭守璋, 2024：“1901—2023年中国1km分辨率逐月降水量数据集”. 西北农林科技大学水土保持研究所(2024-07-19)[2024-11-25]。</div>
   <div class="csl-entry">钱学森, 2001：“创建系统学”. 太原: 山西科学技术出版社: 序2-3。</div>
   <div class="csl-entry">全国信息技术标准化技术委员会, 2016：“信息技术 先进音视频编码 第16部分：广播电视视频”. 。</div>
-  <div class="csl-entry">全国信息与文献标准化技术委员会, 2021：“信息与文献 资源描述”. 。</div>
+  <div class="csl-entry">全国信息与文献标准化技术委员会, 2021：“信息与文献 资源描述”. 。</div>
   <div class="csl-entry">石顺祥、许海平、孙艳玲等, 2002：“光折变自适应光外差探测方法”. 2002-03-06[2002-05-28]。</div>
   <div class="csl-entry">谭其骧, 1982：“中国历史地图集”. 北京: 地图出版社: 6。</div>
   <div class="csl-entry">汤万金、杨跃翔、刘文等, 2013：“人体安全重要技术标准研制最终报告”. [2014-06-24]。</div>

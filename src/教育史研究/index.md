@@ -57,7 +57,7 @@
 <sup>5</sup> 顾炎武：《昌平山水记；京东考古录》，北京：北京古籍出版社，1980年。<br>
 <sup>6</sup> 钱学森：《创建系统学》，太原：山西科学技术出版社，2001年，序2-3。<br>
 <sup>7</sup> 冯友兰：《冯友兰自选集》（第2版），北京：首都师范大学出版社，2008年，第1版自序。<br>
-<sup>8</sup> 《康熙字典》（同文书局影印本）巳集上 水部，北京：中华书局，1962年，第50页。<br>
+<sup>8</sup> 《康熙字典》（同文书局影印本）巳集上 水部，北京：中华书局，1962年，第50页。<br>
 <sup>9</sup> 战德臣、张丽杰：《大学计算机：计算思维与信息素养》（第3版），北京：高等教育出版社，2019年。<br>
 <sup>10</sup> 哈里森、沃尔德伦著，谢远涛译：《经济数学与金融数学》，北京：中国人民大学出版社，2012年，第235—236页。<br>
 <sup>11</sup> 牛永敢、孔晓、王阳、斯楼斌主编：《鼻整形应用解剖学》，北京：人民卫生出版社，2019年，第65—66页。<br>
@@ -69,7 +69,7 @@
 <sup>17</sup> 図書館用語辞典編集委員会, ed. 最新図書館用語大辞典. 東京: 柏書房株式会社. 2004. p. 154.<br>
 <sup>18</sup> Peyton Z. Peebles, Jr. Probability, Random Variable, and Random Signal Principles. New York: McGraw-Hill. 2001.<br>
 <sup>19</sup> Benjamin J. Sadock, Virginia Alcott Sadock, Pedro Ruiz, and Harold I. Kaplan, eds. Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry, vol. 1. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins. 2009.<br>
-<sup>20</sup> Institute For Art And Architecture and Academy Of Fine Arts Vienna. Wiener Hitze: Architecture and Storytelling in Times of Heat. Zürich: Park Books. 2023. p. 78.<br>
+<sup>20</sup> Institute for Art and Architecture, Academy of Fine Arts Vienna. Wiener Hitze: Architecture and Storytelling in Times of Heat. Zürich: Park Books. 2023. p. 78.<br>
 <sup>21</sup> Abby Kinchy. Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops. Cambridge, Mass.: MIT Press. 2012. p. 50.<br>
 <sup>22</sup> Adrian Praetzellis. Death by Theory: A Tale of Mystery and Archaeological Theory. Rowman &#38; Littlefield Publishing Group, Inc. 2011. p. 13.<br>
 <sup>23</sup> Lynette Torres, Fiona Salisbury, Barbara Yazbeck, Sharon Karasmanis, Janice Pinder, and Caroline Ondracek, eds. Connecting the Library to the Curriculum. Singapore: Springer Nature. 2021. p. 97.<br>
@@ -105,7 +105,7 @@
 <sup>53</sup> David J. Des Marais, Harald Strauss, Roger E. Summons, and J. M. Hayes. Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment. Nature, 1992, 359. pp. 605-609.<br>
 <sup>54</sup> Jung-Ran Park and Yuji Tosaka. Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms. Cataloging &#38; Classification Quarterly, 2010, 48(8). pp. 696-715.<br>
 <sup>55</sup> Karen S. Frese, Hugo A. Katus, and Benjamin Meder. Next-Generation Sequencing: From Understanding Biology to Personalized Medicine. Biology, 2013, 2(1). pp. 378-398.<br>
-<sup>56</sup> Alexander A. Myburg, Dario Grattapaglia, Gerald A. Tuskan, Uffe Hellsten, Richard D. Hayes, Jane Grimwood, Jerry Jenkins, Erika Lindquist, Hope Tice, Diane Bauer, David M. Goodstein, Inna Dubchak, Alexandre Poliakov, Eshchar Mizrachi, Anand R. K. Kullan, Steven G. Hussey, Desre Pinard, Karen van der Merwe, Pooja Singh, Ida van Jaarsveld, Orzenil B. Silva-Junior, Roberto C. Togawa, Marilia R. Pappas, Danielle A. Faria, Carolina P. Sansaloni, Cesar D. Petroli, Xiaohan Yang, Priya Ranjan, Timothy J. Tschaplinski, Chu-Yu Ye, Ting Li, Lieven Sterck, Kevin Vanneste, Florent Murat, Marçal Soler, Hélène San Clemente, Naijib Saidi, Hua Cassan-Wang, Christophe Dunand, Charles A. Hefer, Erich Bornberg-Bauer, Anna R. Kersting, Kelly Vining, Vindhya Amarasinghe, Martin Ranik, Sushma Naithani, Justin Elser, Alexander E. Boyd, Aaron Liston, Joseph W. Spatafora, Palitha Dharmwardhana, Rajani Raja, Christopher Sullivan, Elisson Romanel, Marcio Alves-Ferreira, Carsten Külheim, William Foley, Victor Carocha, Jorge Paiva, David Kudrna, Sergio H. Brommonschenkel, Giancarlo Pasquali, Margaret Byrne, Philippe Rigault, Josquin Tibbits, Antanas Spokevicius, Rebecca C. Jones, Dorothy A. Steane, René E. Vaillancourt, Brad M. Potts, Fourie Joubert, Kerrie Barry, Georgios J. Pappas, Steven H. Strauss, Pankaj Jaiswal, Jacqueline Grima-Pettenati, Jérôme Salse, Yves Van de Peer, Daniel S. Rokhsar, and Jeremy Schmutz. The Genome of <i>Eucalyptus Grandis</i>. Nature, 2014, 510. pp. 356-362.<br>
+<sup>56</sup> Alexander A. Myburg, Dario Grattapaglia, Gerald A. Tuskan, Uffe Hellsten, Richard D. Hayes, Jane Grimwood, Jerry Jenkins, Erika Lindquist, Hope Tice, Diane Bauer, David M. Goodstein, Inna Dubchak, Alexandre Poliakov, Eshchar Mizrachi, Anand R. K. Kullan, Steven G. Hussey, Desre Pinard, Karen van der Merwe, Pooja Singh, Ida van Jaarsveld, Orzenil B. Silva-Junior, Roberto C. Togawa, Marilia R. Pappas, Danielle A. Faria, Carolina P. Sansaloni, Cesar D. Petroli, Xiaohan Yang, Priya Ranjan, Timothy J. Tschaplinski, Chu-Yu Ye, Ting Li, Lieven Sterck, Kevin Vanneste, Florent Murat, Marçal Soler, Hélène San Clemente, Naijib Saidi, Hua Cassan-Wang, Christophe Dunand, Charles A. Hefer, Erich Bornberg-Bauer, Anna R. Kersting, Kelly Vining, Vindhya Amarasinghe, Martin Ranik, Sushma Naithani, Justin Elser, Alexander E. Boyd, Aaron Liston, Joseph W. Spatafora, Palitha Dharmwardhana, Rajani Raja, Christopher Sullivan, Elisson Romanel, Marcio Alves-Ferreira, Carsten Külheim, William Foley, Victor Carocha, Jorge Paiva, David Kudrna, Sergio H. Brommonschenkel, Giancarlo Pasquali, Margaret Byrne, Philippe Rigault, Josquin Tibbits, Antanas Spokevicius, Rebecca C. Jones, Dorothy A. Steane, René E. Vaillancourt, Brad M. Potts, Fourie Joubert, Kerrie Barry, Georgios J. Pappas, Steven H. Strauss, Pankaj Jaiswal, Jacqueline Grima-Pettenati, Jérôme Salse, Yves Van de Peer, Daniel S. Rokhsar, and Jeremy Schmutz. The Genome of <i>Eucalyptus grandis</i>. Nature, 2014, 510. pp. 356-362.<br>
 <sup>57</sup> Roger D. Santer and Otar Akanyeti. Using Artificial Neural Networks to Explain the Attraction of Jewel Beetles (Coleoptera: Buprestidae) to Colored Traps. Insect Science, 2025.<br>
 <sup>58</sup> Hiroshi Shinotsuka, Kenji Nagata, Malinda Siriwardana, Hideki Yoshikawa, Hayaru Shouno, and Masato Okada. Sample Structure Prediction from Measured XPS Data Using Bayesian Estimation and SESSA Simulator. Journal of Electron Spectroscopy and Related Phenomena, 2023, 267.<br>
 <sup>59</sup> Pieternella H. van der Veen, Majon Muller, Koen L. Vincken, Theo D. Witkamp, Willem P. T. M. Mali, Yolanda van der Graaf, Mirjam I. Geerlings, and SMART-MR Study Group. Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study. Journal of the Neurological Sciences, 2014, 337(1/2). pp. 112-118.<br>
@@ -125,7 +125,7 @@
 <sup>73</sup> 金燕萍：《社交媒体时代的虚假信息研究》，硕士学位论文，温州大学，2020年，第16页。<br>
 <sup>74</sup> 何筱梅：《新媒体时代原生广告的策略与发展研究》，博士学位论文，武汉大学，2016年，第24—25页。<br>
 <sup>75</sup> 井丽南：《支持状态可编程的SDN交换机关键技术研究》，博士学位论文，中国科学院大学，2022年，第43页。<br>
-<sup>76</sup> Bruce Richard Cairns. Infrared Spectroscopic Studies on Solid Oxygen, Doctoral Dissertation. University of California. 1965. p. 15.<br>
+<sup>76</sup> Bruce Richard Cairns. Infrared Spectroscopic Studies on Solid Oxygen, Doctoral Dissertation. University of California, Berkeley. 1965. p. 15.<br>
 <sup>77</sup> Antrea Christou. Improving Knowledge Graph Understanding with Contextual Views, Doctoral Dissertation. Wright State University. 2024. p. 18.<br>
 <sup>78</sup> 中国互联网络信息中心：《第29次中国互联网络发展状况统计报告》，2012年。<br>
 <sup>79</sup> 汤万金、杨跃翔、刘文、郑建国、王赟松：《人体安全重要技术标准研制最终报告》，2013年。<br>
@@ -133,16 +133,16 @@
 <sup>81</sup> David E. Calkin, Alan A. Ager, and Matthew P. Thompson. A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report. 2011. pp. 8-9.<br>
 <sup>82</sup> U.S. Department of Transportation Federal Highway Administration. Guidelines for Handling Excavated Acid-Producing Material. Springfield: U.S. Department of Commerce National Information Service. 1990. p. 25.<br>
 <sup>83</sup> United Nations Department of Economic and Social Affairs. United Nations E-Government Survey 2024: Accelerating Digital Transformation for Sustainable Development.<br>
-<sup>84</sup> 全国信息与文献标准化技术委员会：《信息与文献 资源描述》，2021年。<br>
+<sup>84</sup> 全国信息与文献标准化技术委员会：《信息与文献 资源描述》，2021年。<br>
 <sup>85</sup> 全国信息技术标准化技术委员会：《信息技术 先进音视频编码 第16部分：广播电视视频》，2016年。<br>
 <sup>86</sup> 工业和信息化部：《信息技术  中文编码字符集》，2022年。<br>
 <sup>87</sup> 国家能源局：《水电工程水温实时监测系统技术规范》，2020年。<br>
 <sup>88</sup> ISO. Audit Data Collection. 2019.<br>
 <sup>89</sup> International Electrotechnical Commission (IEC). Software Interface for Maintenance Information Collection and Analysis (SIMICA): Exchanging Test Results and Session Information via the eXtensible Markup Language (XML). New York: IEEE. 2021.<br>
 <sup>90</sup> IEEE Approved Draft Standard for Information Technology--Telecommunications and Information Exchange between Systems Local and Metropolitan Area Networks--Specific Requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 3: Wake-up Radio Operation. New York: IEEE. 2020.<br>
-<sup>91</sup> American Institute of Aeronautics and Astronautics (AIAA). Guide to Lithium Battery Safety for Space Applications.<br>
-<sup>92</sup> Explosive Atmospheres — Part 20-2: Material Characteristics — Combustible Dusts Test Methods.<br>
-<sup>93</sup> Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles.<br>
+<sup>91</sup> American Institute of Aeronautics and Astronautics (AIAA). Guide to Lithium Battery Safety for Space Applications. 2022.<br>
+<sup>92</sup> ISO. Explosive Atmospheres — Part 20-2: Material Characteristics — Combustible Dusts Test Methods. 2016.<br>
+<sup>93</sup> ISO. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles. 2016.<br>
 <sup>94</sup> 邓一刚：《全智能节电器》，2008年，第8—9页。<br>
 <sup>95</sup> 张凯军、赵永杰、陈朝岗：《轨道火车及高速轨道火车紧急安全制动辅助装置》，2013年。<br>
 <sup>96</sup> 李华、王昊、康佐：《一种拼接式桥梁模型》，2023年。<br>
@@ -182,10 +182,10 @@
 <sup>130</sup> 刘时银、郭万钦、许君利：《中国第二次水川编目科学数据：2006-2011》，中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室，2012年。<br>
 <sup>131</sup> 周壮、李盛阳、吴薇、郭威龙、李轩、夏桂松、赵子飞：《天宫二号遥感图像自然景物分类数据集》，国家基础学科公共科学数据中心，2023年。<br>
 <sup>132</sup> 郑涵、于贵瑞、朱先进、王秋凤、张雷明、陈智、孙晓敏、何洪林、苏文、王艳芬、韩士杰、周国逸、赵新全、王辉民、欧阳竹、张宪洲、张扬建、石培礼、李英年、赵亮、张一平、闫俊华、王安志、张军辉、郝彦斌、赵风华、张法伟、周广胜、林光辉、陈世苹、刘绍民、赵斌、贾根锁、张旭东、张玉翠、古松、刘文兆、李彦、王文杰、杨大文、张劲松、张志强、赵仲辉、周石硚、郭海强、沈彦俊、徐自为、黄辉、孟平：《2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据》，Science Data Bank，2018年。<br>
-<sup>133</sup> 黄土高原科学数据中心（西北农林科技大学水土保持研究所）：《青海省县域教育、卫生发展指标（2001—2022年）》，国家地理资源科学数据中心-黄土高原分中心，2024年。<br>
+<sup>133</sup> 黄土高原科学数据中心（西北农林科技大学水土保持研究所）：《青海省县域教育、卫生发展指标（2001—2022年）》，国家地球系统科学数据中心-黄土高原分中心，2024年。<br>
 <sup>134</sup> 王继民、罗鹏程、赵常煜、郭鑫、王世奇、高正：《人文社会科学数据集检索方法研究的数据集》，北京大学开放研究数据平台，2025年。<br>
 <sup>135</sup> L. Sugarman and S. Markham. Students in a Selective High School: Some Vocationally Oriented Data. UK Data Service. 1980.<br>
-<sup>136</sup> Xiaoya Zhong, Qingwu Yan, and Guie Li. Long Time Series Nighttime Light Dataset of China (2000-2020). Global Change Research Data Publishing &#38; Repository. 2022.<br>
+<sup>136</sup> Xiaoya Zhong, Qingwu Yan, and Guie Li. Long Time Series Nighttime Light Dataset of China: 2000–2020. Global Change Research Data Publishing &#38; Repository. 2022.<br>
 <sup>137</sup> IHME. Global Burden of Disease Study 2019 (GBD2019) Data Resources. Global Health Data Exchange. 2021.<br>
 <sup>138</sup> 方向明、曹迎杰：《元宇宙在图书馆的应用：理论研究与实践进展》，ChinaXiv，2023年。<br>
 <sup>139</sup> 肖玲、张雪、王永：《数据要素的统计测算方法探究》，PSSXiv，2024年。<br>

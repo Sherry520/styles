@@ -9,11 +9,11 @@
 ### 引注
 
 （汪学军，2005）<br>
+（Praetzellis，2011）<br>
 （Wang，2022）<br>
 （扬奎斯特 &#38; 萨金特，2010）<br>
 （Jenkins &#38; Ruostekoski，2012）<br>
 （肖玲，张雪，&#38; 王永，2024）<br>
-（Praetzellis，2011）<br>
 （于潇等，2012）<br>
 （Veen et al.，2014）<br>
 
@@ -28,7 +28,7 @@
   <div class="csl-entry">Jenkins, S. D., &#38; Ruostekoski, J. (2012). <i>Controlled manipulation of light by cooperative response of atoms in an optical lattice</i>. arXiv.</div>
   <div class="csl-entry">Praetzellis, A. (2011). <i>Death by theory: a tale of mystery and archaeological theory</i> (Rev. ed.). Rowman &#38; Littlefield Publishing Group, Inc.</div>
   <div class="csl-entry">Veen, P. H. van der, Muller, M., Vincken, K. L., Witkamp, T. D., Mali, W. P. T. M., Graaf, Y. van der, Geerlings, M. I., &#38; SMART-MR Study Group. (2014). Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study. <i>Journal of the Neurological Sciences, 337</i>(1/2), 112-118. <a href="https://doi.org/10.1016/j.jns.2013.11.029">https://doi.org/10.1016/j.jns.2013.11.029</a></div>
-  <div class="csl-entry">Wang, S. (2022). <i>Application of improved SOM neural network in intelligent auditing of hospital financial vouchers</i> [Paper presentation]. 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT), Changzhou, China. <a href="https://doi.org/10.1109/ACAIT56212.2022.10137867">https://doi.org/10.1109/ACAIT56212.2022.10137867</a></div>
+  <div class="csl-entry">Wang, S. (2022). <i>Application of improved SOM neural network in intelligent auditing of hospital financial vouchers</i> [Paper presentation]. 2022 6th Asian Conference on Artificial Intelligence Technology, Changzhou, China. <a href="https://doi.org/10.1109/ACAIT56212.2022.10137867">https://doi.org/10.1109/ACAIT56212.2022.10137867</a></div>
 </div>
 
 ## 默认测试
@@ -101,7 +101,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
   <div class="csl-entry">李妍 &#38; 王莹。（2022）。医疗机构保洁人员“一前五后”手卫生干预效果研究。中华预防医学会医院感染控制分会第31次全国医院感染学术年会。</div>
   <div class="csl-entry">李幼平 &#38; 王莉。（2010）。循证医学研究方法：附视频。《中华移植杂志（电子版）》，4（3），225-228。</div>
   <div class="csl-entry">李约瑟。（1991）。题词。载《苏颂与《本草图经》研究》（扉页）。长春出版社。</div>
-  <div class="csl-entry">刘时银，郭万钦，&#38; 许君利。（2012）。中国第二次水川编目科学数据：2006-2011。<a href="https://doi.org/10.3972/glacier001.2013.db">https://doi.org/10.3972/glacier001.2013.db</a></div>
+  <div class="csl-entry">刘时银，郭万钦，&#38; 许君利。（2012）。中国第二次水川编目科学数据：2006-2011。<a href="https://doi.org/10.3972/glacier.001.2013.db">https://doi.org/10.3972/glacier.001.2013.db</a></div>
   <div class="csl-entry">刘祥沈。（2016）。《沈阳市政区图》。武汉大学出版社。</div>
   <div class="csl-entry">楼梦麟 &#38; 杨燕。（2011）。汶川地震基岩地震动特征分析。载同济大学土木工程防灾国家重点实验室（主编），《汶川地震震害研究》（11-12）。同济大学出版社。</div>
   <div class="csl-entry">马克思。（2013）。政治经济学批判。载《马克思恩格斯全集》（302）。人民出版社。</div>
@@ -110,7 +110,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
   <div class="csl-entry">彭守璋。（2024，7月 19）。1901—2023年中国1km分辨率逐月降水量数据集。<a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a></div>
   <div class="csl-entry">钱学森。（2001）。《创建系统学》。山西科学技术出版社。</div>
   <div class="csl-entry">全国信息技术标准化技术委员会。（2016）。《信息技术 先进音视频编码 第16部分：广播电视视频》。</div>
-  <div class="csl-entry">全国信息与文献标准化技术委员会。（2021）。《信息与文献 资源描述》。</div>
+  <div class="csl-entry">全国信息与文献标准化技术委员会。（2021）。《信息与文献 资源描述》。</div>
   <div class="csl-entry">石顺祥，许海平，孙艳玲，陈利菊，李家立，&#38; 刘继芳。（2002）。《光折变自适应光外差探测方法》。</div>
   <div class="csl-entry">史国华, 樊金宇, 何益, 邢利娜, &#38; 高峰. (2022). 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法.</div>
   <div class="csl-entry">谭其骧。（1982）。《中国历史地图集》。地图出版社。</div>
@@ -150,13 +150,13 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
   <div class="csl-entry">周壮，李盛阳，吴薇，郭威龙，李轩，夏桂松，&#38; 赵子飞。（2023，9月 10）。天宫二号遥感图像自然景物分类数据集。<a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a></div>
   <div class="csl-entry">訾冬梅 &#38; 高秀静。（2006）。《内蒙古自治区地图册》（新版）。中国地图出版社。</div>
   <div class="csl-entry">American Association for the Advancement of Science (Ed.). (1883). <i>Science</i>. American Association for the Advancement of Science.</div>
-  <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA). (n.d.). <i>Guide to lithium battery safety for space applications</i>.</div>
+  <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA). (2022). <i>Guide to lithium battery safety for space applications</i>.</div>
   <div class="csl-entry">António, M., &#38; Pepper, L. (2019, July 13). <i>Histórias de Portugal: livros caídos</i>. <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a></div>
   <div class="csl-entry">Babu, B. V., Nagar, A., Deep, K., Pant, M., Bansal, J. C., Ray, K., &#38; Gupta, U. (Eds.). (2014). <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>. Springer.</div>
   <div class="csl-entry">Bevington, D., &#38; Brown, J. R. (2025, Jan. 1). <i>William Shakespeare</i>. <a href="https://www.britannica.com/biography/William-Shakespeare">https://www.britannica.com/biography/William-Shakespeare</a></div>
   <div class="csl-entry">Bloss, C. S., Wineinger, N. E., Peters, M., Boeldt, D. L., Ariniello, L., Kim, J. Y., Sheard, J., Komatireddy, R., Barrett, P., &#38; Topol, E. J. (2015). <i>A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors</i>. bioRxiv.</div>
   <div class="csl-entry">Boobier, T. (2020). <i>AI and the future of banking</i>. John Wiley &#38; Sons.</div>
-  <div class="csl-entry">Cairns, B. R. (1965). <i>Infrared spectroscopic studies on solid oxygen</i> [Unpublished Doctoral dissertation]. University of California.</div>
+  <div class="csl-entry">Cairns, B. R. (1965). <i>Infrared spectroscopic studies on solid oxygen</i> [Unpublished Doctoral dissertation]. University of California, Berkeley.</div>
   <div class="csl-entry">Calkin, D. E., Ager, A. A., &#38; Thompson, M. P. (2011). <i>A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report</i>.</div>
   <div class="csl-entry">Caplan, P. (1993). Cataloging internet resources. <i>The Public-Access Computer Systems Review, 4</i>(2), 61-66.</div>
   <div class="csl-entry">Christou, A. (2024). <i>Improving knowledge graph understanding with contextual views</i> [Unpublished Doctoral dissertation]. Wright State University.</div>
@@ -167,9 +167,11 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
   <div class="csl-entry">Fourney, M. E. (1971). Advances in holographic photoelasticity. In W. G. Gottenberg (Ed.), <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i> (pp. 17-38). ASME.</div>
   <div class="csl-entry">Frese, K. S., Katus, H. A., &#38; Meder, B. (2013). Next-generation sequencing: from understanding biology to personalized medicine. <i>Biology, 2</i>(1), 378-398. <a href="https://doi.org/10.3390/biology2010378">https://doi.org/10.3390/biology2010378</a></div>
   <div class="csl-entry">IHME. (2021). <i>Global Burden of Disease Study 2019 (GBD2019) data resources</i>. <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a></div>
-  <div class="csl-entry">Institute For Art And Architecture &#38; Academy Of Fine Arts Vienna. (2023). <i>Wiener Hitze: architecture and storytelling in times of heat</i>. Park Books.</div>
+  <div class="csl-entry">Institute for Art and Architecture, Academy of Fine Arts Vienna. (2023). <i>Wiener Hitze: architecture and storytelling in times of heat</i>. Park Books.</div>
   <div class="csl-entry">International Electrotechnical Commission (IEC). (2021). <i>Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML)</i>. IEEE.</div>
   <div class="csl-entry">International Organization for Standardization. <i>ISO homepage</i>. <a href="https://www.iso.org/home.html">https://www.iso.org/home.html</a></div>
+  <div class="csl-entry">ISO. (2016a). <i>Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods</i>.</div>
+  <div class="csl-entry">ISO. (2016b). <i>Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles</i>.</div>
   <div class="csl-entry">ISO. (2019). <i>Audit data collection</i>.</div>
   <div class="csl-entry">Jenkins, S. D., &#38; Ruostekoski, J. (2012). <i>Controlled manipulation of light by cooperative response of atoms in an optical lattice</i>. arXiv.</div>
   <div class="csl-entry">Kinchy, A. (2012). <i>Seeds, sciences, and struggle: the global politics of transgenic crops</i>. MIT Press.</div>
@@ -189,11 +191,11 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
   <div class="csl-entry">United Nations Department of Economic and Social Affairs. (n.d.). <i>United Nations e-government survey 2024: accelerating digital transformation for sustainable development</i>.</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. (1990). <i>Guidelines for handling excavated acid-producing material</i>. U.S. Department of Commerce National Information Service.</div>
   <div class="csl-entry">Veen, P. H. van der, Muller, M., Vincken, K. L., Witkamp, T. D., Mali, W. P. T. M., Graaf, Y. van der, Geerlings, M. I., &#38; SMART-MR Study Group. (2014). Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study. <i>Journal of the Neurological Sciences, 337</i>(1/2), 112-118. <a href="https://doi.org/10.1016/j.jns.2013.11.029">https://doi.org/10.1016/j.jns.2013.11.029</a></div>
-  <div class="csl-entry">Wang, S. (2022). <i>Application of improved SOM neural network in intelligent auditing of hospital financial vouchers</i> [Paper presentation]. 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT), Changzhou, China. <a href="https://doi.org/10.1109/ACAIT56212.2022.10137867">https://doi.org/10.1109/ACAIT56212.2022.10137867</a></div>
+  <div class="csl-entry">Wang, S. (2022). <i>Application of improved SOM neural network in intelligent auditing of hospital financial vouchers</i> [Paper presentation]. 2022 6th Asian Conference on Artificial Intelligence Technology, Changzhou, China. <a href="https://doi.org/10.1109/ACAIT56212.2022.10137867">https://doi.org/10.1109/ACAIT56212.2022.10137867</a></div>
   <div class="csl-entry">Weinstein, L., &#38; Swartz, M. N. (1974). Pathogenic properties of invading microorganisms. In W. A. Sodeman Jr. &#38; W. A. Sodeman (Eds.), <i>Pathologic physiology: mechanisms of disease</i> (pp. 457-472). Saunders.</div>
   <div class="csl-entry">Yu, Y., Pan, E., Wang, X., Wu, Y., Mei, X., &#38; Ma, J. (2024). <i>Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis</i> [Paper presentation]. CVPR, Seattle. <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Unmixing_Before_Fusion_A_Generalized_Paradigm_for_Multi-Source-based_Hyperspectral_Image_CVPR_2024_paper.html">https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Unmixing_Before_Fusion_A_Generalized_Paradigm_for_Multi-Source-based_Hyperspectral_Image_CVPR_2024_paper.html</a></div>
   <div class="csl-entry">Yufin, S. A. (Ed.). (2000). <i>Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000</i>. A. A. Balkema.</div>
-  <div class="csl-entry">Zhong, X., Yan, Q., &#38; Li, G. (2022). <i>Long time series nighttime light dataset of China (2000-2020)</i>. <a href="http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a></div>
+  <div class="csl-entry">Zhong, X., Yan, Q., &#38; Li, G. (2022). <i>Long time series nighttime light dataset of China: 2000–2020</i>. <a href="https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a></div>
   <div class="csl-entry">Zotero. <i>[Zotero download]</i>. <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a></div>
   <div class="csl-entry">（1949）。《中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告》。</div>
   <div class="csl-entry">（1962）。《康熙字典》（同文书局影印本）。中华书局。</div>
@@ -205,8 +207,6 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
   <div class="csl-entry">（2023a）。《[《昨日之歌》图书封面]》。</div>
   <div class="csl-entry">（2023b，10月 7）。西黄丸。<a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a></div>
   <div class="csl-entry">(2024). <i>Coastal wetlands map of China continent</i>. China Ocean Press.</div>
-  <div class="csl-entry">(N.d.). <i>Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods</i>.</div>
-  <div class="csl-entry">(N.d.). <i>Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles</i>.</div>
   <div class="csl-entry"><i>Library of Congress</i>. <a href="https://www.loc.gov/">https://www.loc.gov/</a></div>
 </div>
 

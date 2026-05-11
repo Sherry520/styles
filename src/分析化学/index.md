@@ -24,7 +24,7 @@
   <div class="csl-entry">[5]	汪学军. 国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2005: 22-25.
     <div class="csl-block">Wang X J. Proceedings of China National Biosafety Framework Implementation International Cooperation Project Seminar. Beijing: China Environmental Science Press, 2005: 22-25</div>
   </div>
-  <div class="csl-entry">[6]	WANG S. 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT). 2022: 2.</div>
+  <div class="csl-entry">[6]	WANG S. 2022 6th Asian Conference on Artificial Intelligence Technology. 2022: 2.</div>
   <div class="csl-entry">[7]	肖玲, 张雪, 王永. PSSXiv, 2024.
     <div class="csl-block">Xiao L, Zhang X, Wang Y. PSSXiv, 2024</div>
   </div>
@@ -69,8 +69,8 @@
   <div class="csl-entry">[7]	冯友兰. 2 版. 北京: 首都师范大学出版社, 2008: 第1版自序.
     <div class="csl-block">2008: 第1版自序</div>
   </div>
-  <div class="csl-entry">[8]	巳集上 水部. 同文书局影印本. 北京: 中华书局, 1962: 50.
-    <div class="csl-block">巳集上 水部. 1962: 50</div>
+  <div class="csl-entry">[8]	巳集上 水部. 同文书局影印本. 北京: 中华书局, 1962: 50.
+    <div class="csl-block">巳集上 水部. 1962: 50</div>
   </div>
   <div class="csl-entry">[9]	战德臣, 张丽杰. 3 版. 北京: 高等教育出版社, 2019.
     <div class="csl-block">2019</div>
@@ -204,7 +204,7 @@
   <div class="csl-entry">[66]	陈志勇. 北京: 经济科学出版社, 2011.
     <div class="csl-block">2011</div>
   </div>
-  <div class="csl-entry">[67]	WANG S. 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT). 2022: 2.</div>
+  <div class="csl-entry">[67]	WANG S. 2022 6th Asian Conference on Artificial Intelligence Technology. 2022: 2.</div>
   <div class="csl-entry">[68]	YU Y, PAN E, WANG X, WU Y, MEI X, MA J. CVPR. 2024: 4.</div>
   <div class="csl-entry">[69]	YUFIN S A. Rotterdam: A. A. Balkema, 2000.</div>
   <div class="csl-entry">[70]	BABU B V, NAGAR A, DEEP K, PANT M, BANSAL J C, RAY K, GUPTA U. New Delhi: Springer, 2014.</div>
@@ -221,7 +221,7 @@
   <div class="csl-entry">[75]	井丽南. 北京: 中国科学院大学, 2022: 43.
     <div class="csl-block">2022: 43</div>
   </div>
-  <div class="csl-entry">[76]	CAIRNS B R. Berkeley: University of California, 1965: 15.</div>
+  <div class="csl-entry">[76]	CAIRNS B R. Berkeley: University of California, Berkeley, 1965: 15.</div>
   <div class="csl-entry">[77]	CHRISTOU A. Ohio: Wright State University, 2024: 18.</div>
   <div class="csl-entry">[78]	中国互联网络信息中心. 2012.
     <div class="csl-block">2012</div>
@@ -250,10 +250,10 @@
   <div class="csl-entry">[88]	ISO. ISO 21378:2019. 2019.</div>
   <div class="csl-entry">[89]	INTERNATIONAL ELECTROTECHNICAL COMMISSION (IEC). IEC/IEEE 61636-1:2021. New York: IEEE, 2021.</div>
   <div class="csl-entry">[90]	IEEE P802.11ba/D8.0-2020. New York: IEEE, 2020.</div>
-  <div class="csl-entry">[91]	AMERICAN INSTITUTE OF AERONAUTICS AND ASTRONAUTICS (AIAA). AIAA G-136-2022.</div>
-  <div class="csl-entry">[92]	ISO/IEC 80079-20-2:2016(en).</div>
-  <div class="csl-entry">[93]	ISO/IEC 80079-20-2:2016(fr).
-    <div class="csl-block">ISO/IEC 80079-20-2:2016(fr)</div>
+  <div class="csl-entry">[91]	AMERICAN INSTITUTE OF AERONAUTICS AND ASTRONAUTICS (AIAA). AIAA G-136-2022. 2022.</div>
+  <div class="csl-entry">[92]	ISO. ISO/IEC 80079-20-2:2016(en). 2016.</div>
+  <div class="csl-entry">[93]	ISO. ISO/IEC 80079-20-2:2016(fr). 2016.
+    <div class="csl-block">ISO/IEC 80079-20-2:2016(fr). 2016</div>
   </div>
   <div class="csl-entry">[94]	邓一刚. CN101106276A. 2008-01-16.
     <div class="csl-block">CN101106276A. 2008-01-16</div>
@@ -354,14 +354,14 @@
   <div class="csl-entry">[132]	郑涵, 于贵瑞, 朱先进, 王秋凤, 张雷明, 陈智, 孙晓敏, 何洪林, 苏文, 王艳芬, 韩士杰, 周国逸, 赵新全, 王辉民, 欧阳竹, 张宪洲, 张扬建, 石培礼, 李英年, 赵亮, 张一平, 闫俊华, 王安志, 张军辉, 郝彦斌, 赵风华, 张法伟, 周广胜, 林光辉, 陈世苹, 刘绍民, 赵斌, 贾根锁, 张旭东, 张玉翠, 古松, 刘文兆, 李彦, 王文杰, 杨大文, 张劲松, 张志强, 赵仲辉, 周石硚, 郭海强, 沈彦俊, 徐自为, 黄辉, 孟平. Science Data Bank, 2018. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a>.
     <div class="csl-block">2018[2025-02-14]. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a></div>
   </div>
-  <div class="csl-entry">[133]	黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 国家地理资源科学数据中心-黄土高原分中心, 2024. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>.
+  <div class="csl-entry">[133]	黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 国家地球系统科学数据中心-黄土高原分中心, 2024. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>.
     <div class="csl-block">(2024-12-25)[2025-07-10]. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a></div>
   </div>
   <div class="csl-entry">[134]	王继民, 罗鹏程, 赵常煜, 郭鑫, 王世奇, 高正. 北京大学开放研究数据平台, 2025. <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>.
     <div class="csl-block">(2025-06-11)[2025-07-10]. <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a></div>
   </div>
   <div class="csl-entry">[135]	SUGARMAN L, MARKHAM S. UK Data Service, 1980. <a href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996">https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996</a>.</div>
-  <div class="csl-entry">[136]	ZHONG X, YAN Q, LI G. Global Change Research Data Publishing &#38; Repository, 2022. <a href="http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>.</div>
+  <div class="csl-entry">[136]	ZHONG X, YAN Q, LI G. Global Change Research Data Publishing &#38; Repository, 2022. <a href="https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>.</div>
   <div class="csl-entry">[137]	IHME. Global Health Data Exchange, 2021. <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a>.</div>
   <div class="csl-entry">[138]	方向明, 曹迎杰. ChinaXiv, 2023.
     <div class="csl-block">2023</div>

@@ -114,7 +114,7 @@
     <div class="csl-left-margin">[19]</div><div class="csl-right-inline">Sadock, B. J. et al., eds., 2009, <i>Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry</i>, Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">Institute For Art And Architecture and Academy Of Fine Arts Vienna, 2023, <i>Wiener Hitze: Architecture and Storytelling in Times of Heat</i>, Zürich: Park Books.</div>
+    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">Institute for Art and Architecture, Academy of Fine Arts Vienna, 2023, <i>Wiener Hitze: Architecture and Storytelling in Times of Heat</i>, Zürich: Park Books.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[21]</div><div class="csl-right-inline">Kinchy, A., 2012, <i>Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops</i>, Cambridge, Mass.: MIT Press.</div>
@@ -222,7 +222,7 @@
     <div class="csl-left-margin">[55]</div><div class="csl-right-inline">Frese, K. S. et al., 2013, “Next-Generation Sequencing: From Understanding Biology to Personalized Medicine”, <i>Biology</i>, 2(1), pp.378–398.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[56]</div><div class="csl-right-inline">Myburg, A. A. et al., 2014, “The Genome of <i>Eucalyptus Grandis</i>”, <i>Nature</i>, vol.510, pp.356–362.</div>
+    <div class="csl-left-margin">[56]</div><div class="csl-right-inline">Myburg, A. A. et al., 2014, “The Genome of <i>Eucalyptus grandis</i>”, <i>Nature</i>, vol.510, pp.356–362.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[57]</div><div class="csl-right-inline">Santer, R. D. and Akanyeti, O., 2025, “Using Artificial Neural Networks to Explain the Attraction of Jewel Beetles (Coleoptera: Buprestidae) to Colored Traps”, <i>Insect Science</i>.</div>
@@ -282,7 +282,7 @@
     <div class="csl-left-margin">[75]</div><div class="csl-right-inline">井丽南：《支持状态可编程的SDN交换机关键技术研究》，中国科学院大学博士学位论文，2022年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[76]</div><div class="csl-right-inline">Cairns, B. R., 1965, <i>Infrared Spectroscopic Studies on Solid Oxygen</i>, Berkeley: University of California.</div>
+    <div class="csl-left-margin">[76]</div><div class="csl-right-inline">Cairns, B. R., 1965, <i>Infrared Spectroscopic Studies on Solid Oxygen</i>, Berkeley: University of California, Berkeley.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[77]</div><div class="csl-right-inline">Christou, A., 2024, <i>Improving Knowledge Graph Understanding with Contextual Views</i>, Ohio: Wright State University.</div>
@@ -306,7 +306,7 @@
     <div class="csl-left-margin">[83]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs, “United Nations E-Government Survey 2024: Accelerating Digital Transformation for Sustainable Development”.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会：《信息与文献 资源描述》，2021年。</div>
+    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会：《信息与文献 资源描述》，2021年。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[85]</div><div class="csl-right-inline">全国信息技术标准化技术委员会：《信息技术 先进音视频编码 第16部分：广播电视视频》，2016年。</div>
@@ -327,13 +327,13 @@
     <div class="csl-left-margin">[90]</div><div class="csl-right-inline">2020, <i>IEEE Approved Draft Standard for Information Technology--Telecommunications and Information Exchange between Systems Local and Metropolitan Area Networks--Specific Requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 3: Wake-up Radio Operation</i>, New York: IEEE.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[91]</div><div class="csl-right-inline">American Institute of Aeronautics and Astronautics (AIAA), <i>Guide to Lithium Battery Safety for Space Applications</i>.</div>
+    <div class="csl-left-margin">[91]</div><div class="csl-right-inline">American Institute of Aeronautics and Astronautics (AIAA), 2022, <i>Guide to Lithium Battery Safety for Space Applications</i>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[92]</div><div class="csl-right-inline"><i>Explosive Atmospheres — Part 20-2: Material Characteristics — Combustible Dusts Test Methods</i>.</div>
+    <div class="csl-left-margin">[92]</div><div class="csl-right-inline">ISO, 2016, <i>Explosive Atmospheres — Part 20-2: Material Characteristics — Combustible Dusts Test Methods</i>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[93]</div><div class="csl-right-inline"><i>Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles</i>.</div>
+    <div class="csl-left-margin">[93]</div><div class="csl-right-inline">ISO, 2016, <i>Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles</i>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[94]</div><div class="csl-right-inline">邓一刚：《全智能节电器》，2008年。</div>
@@ -453,7 +453,7 @@
     <div class="csl-left-margin">[132]</div><div class="csl-right-inline">郑涵等：《2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据》，Science Data Bank，2018年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">黄土高原科学数据中心（西北农林科技大学水土保持研究所）：《青海省县域教育、卫生发展指标（2001—2022年）》，国家地理资源科学数据中心-黄土高原分中心，2024年。</div>
+    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">黄土高原科学数据中心（西北农林科技大学水土保持研究所）：《青海省县域教育、卫生发展指标（2001—2022年）》，国家地球系统科学数据中心-黄土高原分中心，2024年。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[134]</div><div class="csl-right-inline">王继民等：《人文社会科学数据集检索方法研究的数据集》，北京大学开放研究数据平台，2025年。</div>
@@ -462,7 +462,7 @@
     <div class="csl-left-margin">[135]</div><div class="csl-right-inline">Sugarman, L. and Markham, S., 1980, <i>Students in a Selective High School: Some Vocationally Oriented Data</i>, UK Data Service.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[136]</div><div class="csl-right-inline">Zhong, X. et al., 2022, <i>Long Time Series Nighttime Light Dataset of China (2000-2020)</i>, Global Change Research Data Publishing &#38; Repository.</div>
+    <div class="csl-left-margin">[136]</div><div class="csl-right-inline">Zhong, X. et al., 2022, <i>Long Time Series Nighttime Light Dataset of China: 2000–2020</i>, Global Change Research Data Publishing &#38; Repository.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[137]</div><div class="csl-right-inline">IHME, 2021, <i>Global Burden of Disease Study 2019 (GBD2019) Data Resources</i>, Global Health Data Exchange.</div>

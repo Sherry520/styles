@@ -9,11 +9,11 @@
 ### 引注
 
 （汪学军，2005）<br>
+（Praetzellis，2011）<br>
 （Wang，2022）<br>
 （扬奎斯特、萨金特，2010）<br>
 （Jenkins and Ruostekoski，2012）<br>
 （肖玲等，2024）<br>
-（Praetzellis，2011）<br>
 （于潇等，2012）<br>
 （Veen et al.，2014）<br>
 
@@ -28,7 +28,7 @@
   <div class="csl-entry">Jenkins, S. D. and J. Ruostekoski (2012): <i>Controlled Manipulation of Light by Cooperative Response of Atoms in an Optical Lattice</i>, arXiv.</div>
   <div class="csl-entry">Praetzellis, A. (2011): <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>, Rowman &#38; Littlefield Publishing Group, Inc.</div>
   <div class="csl-entry">Veen, P. H. van der, M. Muller, K. L. Vincken, T. D. Witkamp, W. P. T. M. Mali, Y. van der Graaf, M. I. Geerlings, and SMART-MR Study Group (2014): “Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study”, <i>Journal of the Neurological Sciences</i>, 337, 112-118.</div>
-  <div class="csl-entry">Wang, S. (2022): “Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers”, “2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)” paper, Changzhou, China.</div>
+  <div class="csl-entry">Wang, S. (2022): “Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers”, “2022 6th Asian Conference on Artificial Intelligence Technology” paper, Changzhou, China.</div>
 </div>
 
 ## 默认测试
@@ -111,7 +111,7 @@ Qian, Zhao, Zhou and Li （2009）<br>
   <div class="csl-entry">彭守璋（2024）：《1901—2023年中国1km分辨率逐月降水量数据集》。</div>
   <div class="csl-entry">钱学森（2001）：《创建系统学》，山西科学技术出版社。</div>
   <div class="csl-entry">全国信息技术标准化技术委员会（2016）：《信息技术 先进音视频编码 第16部分：广播电视视频》。</div>
-  <div class="csl-entry">全国信息与文献标准化技术委员会（2021）：《信息与文献 资源描述》。</div>
+  <div class="csl-entry">全国信息与文献标准化技术委员会（2021）：《信息与文献 资源描述》。</div>
   <div class="csl-entry">石顺祥、许海平、孙艳玲、陈利菊、李家立、刘继芳（2002）：《光折变自适应光外差探测方法》。</div>
   <div class="csl-entry">史国华, 樊金宇, 何益, 邢利娜, and 高峰 (2022): 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法.</div>
   <div class="csl-entry">谭其骧（1982）：《中国历史地图集》第2册，地图出版社。</div>
@@ -152,13 +152,13 @@ Qian, Zhao, Zhou and Li （2009）<br>
   <div class="csl-entry">周壮、李盛阳、吴薇、郭威龙、李轩、夏桂松、赵子飞（2023）：《天宫二号遥感图像自然景物分类数据集》。</div>
   <div class="csl-entry">訾冬梅、高秀静（2006）：《内蒙古自治区地图册》（新版），中国地图出版社。</div>
   <div class="csl-entry">American Association for the Advancement of Science (ed.) (1883): <i>Science</i>, 1883，1（1）—, American Association for the Advancement of Science.</div>
-  <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA) (no date): <i>Guide to Lithium Battery Safety for Space Applications</i>.</div>
+  <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA) (2022): <i>Guide to Lithium Battery Safety for Space Applications</i>.</div>
   <div class="csl-entry">António, M. and L. Pepper (2019): <i>Histórias de Portugal: livros caídos</i>, <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a>, January 2, 2025.</div>
   <div class="csl-entry">Babu, B. V., A. Nagar, K. Deep, M. Pant, J. C. Bansal, K. Ray and U. Gupta (eds.) (2014): <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>, Springer.</div>
   <div class="csl-entry">Bevington, D. and J. R. Brown (2025): <i>William Shakespeare</i>, <a href="https://www.britannica.com/biography/William-Shakespeare">https://www.britannica.com/biography/William-Shakespeare</a>, January 3, 2025.</div>
   <div class="csl-entry">Bloss, C. S., N. E. Wineinger, M. Peters, D. L. Boeldt, L. Ariniello, J. Y. Kim, J. Sheard, R. Komatireddy, P. Barrett and E. J. Topol (2015): <i>A Prospective Randomized Trial Examining Health Care Utilization in Individuals Using Multiple Smartphone-Enabled Biosensors</i>, bioRxiv.</div>
   <div class="csl-entry">Boobier, T. (2020): <i>AI and the Future of Banking</i>, John Wiley &#38; Sons.</div>
-  <div class="csl-entry">Cairns, B. R. (1965): <i>Infrared Spectroscopic Studies on Solid Oxygen</i>, Doctoral dissertation, University of California.</div>
+  <div class="csl-entry">Cairns, B. R. (1965): <i>Infrared Spectroscopic Studies on Solid Oxygen</i>, Doctoral dissertation, University of California, Berkeley.</div>
   <div class="csl-entry">Calkin, D. E., A. A. Ager and M. P. Thompson (2011): <i>A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report</i>.</div>
   <div class="csl-entry">Caplan, P. (1993): “Cataloging Internet Resources”, <i>The Public-Access Computer Systems Review</i>, 4, 61-66.</div>
   <div class="csl-entry">Christou, A. (2024): <i>Improving Knowledge Graph Understanding with Contextual Views</i>, Doctoral dissertation, Wright State University.</div>
@@ -169,13 +169,15 @@ Qian, Zhao, Zhou and Li （2009）<br>
   <div class="csl-entry">Fourney, M. E. (1971): “Advances in Holographic Photoelasticity”, In: Gottenberg, W. G., <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>, ASME.</div>
   <div class="csl-entry">Frese, K. S., H. A. Katus and B. Meder (2013): “Next-Generation Sequencing: From Understanding Biology to Personalized Medicine”, <i>Biology</i>, 2, 378-398.</div>
   <div class="csl-entry">IHME (2021): <i>Global Burden of Disease Study 2019 (GBD2019) Data Resources</i>.</div>
-  <div class="csl-entry">Institute For Art And Architecture and Academy Of Fine Arts Vienna (2023): <i>Wiener Hitze: Architecture and Storytelling in Times of Heat</i>, Park Books.</div>
+  <div class="csl-entry">Institute for Art and Architecture, Academy of Fine Arts Vienna (2023): <i>Wiener Hitze: Architecture and Storytelling in Times of Heat</i>, Park Books.</div>
   <div class="csl-entry">International Electrotechnical Commission (IEC) (2021): <i>Software Interface for Maintenance Information Collection and Analysis (SIMICA): Exchanging Test Results and Session Information via the eXtensible Markup Language (XML)</i>, IEEE.</div>
   <div class="csl-entry">International Organization for Standardization: <i>ISO Homepage</i>, <a href="https://www.iso.org/home.html">https://www.iso.org/home.html</a>, October 6, 2020.</div>
+  <div class="csl-entry">ISO (2016a): <i>Explosive Atmospheres — Part 20-2: Material Characteristics — Combustible Dusts Test Methods</i>.</div>
+  <div class="csl-entry">ISO (2016b): <i>Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles</i>.</div>
   <div class="csl-entry">ISO (2019): <i>Audit Data Collection</i>.</div>
   <div class="csl-entry">Jenkins, S. D. and J. Ruostekoski (2012): <i>Controlled Manipulation of Light by Cooperative Response of Atoms in an Optical Lattice</i>, arXiv.</div>
   <div class="csl-entry">Kinchy, A. (2012): <i>Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops</i>, MIT Press.</div>
-  <div class="csl-entry">Myburg, A. A., D. Grattapaglia, G. A. Tuskan, U. Hellsten, R. D. Hayes, J. Grimwood, J. Jenkins, E. Lindquist, H. Tice, D. Bauer, D. M. Goodstein, I. Dubchak, A. Poliakov, E. Mizrachi, A. R. K. Kullan, S. G. Hussey, D. Pinard, K. van der Merwe, P. Singh, I. van Jaarsveld, O. B. Silva-Junior, R. C. Togawa, M. R. Pappas, D. A. Faria, C. P. Sansaloni, C. D. Petroli, X. Yang, P. Ranjan, T. J. Tschaplinski, C. Y. Ye, T. Li, L. Sterck, K. Vanneste, F. Murat, M. Soler, H. S. Clemente, N. Saidi, H. Cassan-Wang, C. Dunand, C. A. Hefer, E. Bornberg-Bauer, A. R. Kersting, K. Vining, V. Amarasinghe, M. Ranik, S. Naithani, J. Elser, A. E. Boyd, A. Liston, J. W. Spatafora, P. Dharmwardhana, R. Raja, C. Sullivan, E. Romanel, M. Alves-Ferreira, C. Külheim, W. Foley, V. Carocha, J. Paiva, D. Kudrna, S. H. Brommonschenkel, G. Pasquali, M. Byrne, P. Rigault, J. Tibbits, A. Spokevicius, R. C. Jones, D. A. Steane, R. E. Vaillancourt, B. M. Potts, F. Joubert, K. Barry, G. J. Pappas, S. H. Strauss, P. Jaiswal, J. Grima-Pettenati, J. Salse, Y. Van de Peer, D. S. Rokhsar and J. Schmutz (2014): “The Genome of <i>Eucalyptus Grandis</i>”, <i>Nature</i>, 510, 356-362.</div>
+  <div class="csl-entry">Myburg, A. A., D. Grattapaglia, G. A. Tuskan, U. Hellsten, R. D. Hayes, J. Grimwood, J. Jenkins, E. Lindquist, H. Tice, D. Bauer, D. M. Goodstein, I. Dubchak, A. Poliakov, E. Mizrachi, A. R. K. Kullan, S. G. Hussey, D. Pinard, K. van der Merwe, P. Singh, I. van Jaarsveld, O. B. Silva-Junior, R. C. Togawa, M. R. Pappas, D. A. Faria, C. P. Sansaloni, C. D. Petroli, X. Yang, P. Ranjan, T. J. Tschaplinski, C. Y. Ye, T. Li, L. Sterck, K. Vanneste, F. Murat, M. Soler, H. S. Clemente, N. Saidi, H. Cassan-Wang, C. Dunand, C. A. Hefer, E. Bornberg-Bauer, A. R. Kersting, K. Vining, V. Amarasinghe, M. Ranik, S. Naithani, J. Elser, A. E. Boyd, A. Liston, J. W. Spatafora, P. Dharmwardhana, R. Raja, C. Sullivan, E. Romanel, M. Alves-Ferreira, C. Külheim, W. Foley, V. Carocha, J. Paiva, D. Kudrna, S. H. Brommonschenkel, G. Pasquali, M. Byrne, P. Rigault, J. Tibbits, A. Spokevicius, R. C. Jones, D. A. Steane, R. E. Vaillancourt, B. M. Potts, F. Joubert, K. Barry, G. J. Pappas, S. H. Strauss, P. Jaiswal, J. Grima-Pettenati, J. Salse, Y. Van de Peer, D. S. Rokhsar and J. Schmutz (2014): “The Genome of <i>Eucalyptus grandis</i>”, <i>Nature</i>, 510, 356-362.</div>
   <div class="csl-entry">Park, J. R. and Y. Tosaka (2010): “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms”, <i>Cataloging &#38; Classification Quarterly</i>, 48, 696-715.</div>
   <div class="csl-entry">Peebles, P. Z., Jr. (2001): <i>Probability, Random Variable, and Random Signal Principles</i>, McGraw-Hill.</div>
   <div class="csl-entry">Praetzellis, A. (2011): <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>, Rowman &#38; Littlefield Publishing Group, Inc.</div>
@@ -191,23 +193,21 @@ Qian, Zhao, Zhou and Li （2009）<br>
   <div class="csl-entry">United Nations Department of Economic and Social Affairs (no date): <i>United Nations E-Government Survey 2024: Accelerating Digital Transformation for Sustainable Development</i>.</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration (1990): <i>Guidelines for Handling Excavated Acid-Producing Material</i>, Report, U.S. Department of Commerce National Information Service.</div>
   <div class="csl-entry">Veen, P. H. van der, M. Muller, K. L. Vincken, T. D. Witkamp, W. P. T. M. Mali, Y. van der Graaf, M. I. Geerlings, and SMART-MR Study Group (2014): “Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study”, <i>Journal of the Neurological Sciences</i>, 337, 112-118.</div>
-  <div class="csl-entry">Wang, S. (2022): “Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers”, “2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)” paper, Changzhou, China.</div>
+  <div class="csl-entry">Wang, S. (2022): “Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers”, “2022 6th Asian Conference on Artificial Intelligence Technology” paper, Changzhou, China.</div>
   <div class="csl-entry">Weinstein, L. and M. N. Swartz (1974): “Pathogenic Properties of Invading Microorganisms”, In: Sodeman, W. A., Jr. and W. A. Sodeman, <i>Pathologic Physiology: Mechanisms of Disease</i>, Saunders.</div>
   <div class="csl-entry">Yu, Y., E. Pan, X. Wang, Y. Wu, X. Mei and J. Ma (2024): “Unmixing before Fusion: A Generalized Paradigm for Multi-Source-Based Hyperspectral Image Synthesis”, “CVPR” paper, Seattle.</div>
   <div class="csl-entry">Yufin, S. A. (ed.) (2000): <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000</i>, A. A. Balkema.</div>
-  <div class="csl-entry">Zhong, X., Q. Yan and G. Li (2022): <i>Long Time Series Nighttime Light Dataset of China (2000-2020)</i>.</div>
+  <div class="csl-entry">Zhong, X., Q. Yan and G. Li (2022): <i>Long Time Series Nighttime Light Dataset of China: 2000–2020</i>.</div>
   <div class="csl-entry">Zotero: <i>[Zotero Download]</i>, <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a>, April 8, 2024.</div>
   <div class="csl-entry">（1949）：《中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告》。</div>
-  <div class="csl-entry">（1962）：《康熙字典》（同文书局影印本）巳集上 水部，中华书局。</div>
+  <div class="csl-entry">（1962）：《康熙字典》（同文书局影印本）巳集上 水部，中华书局。</div>
   <div class="csl-entry">(1979): <i>Public Library Quarterly</i>, 1979，1（1）—, Taylor &#38; Francis.</div>
   <div class="csl-entry">(2020): <i>IEEE Approved Draft Standard for Information Technology--Telecommunications and Information Exchange between Systems Local and Metropolitan Area Networks--Specific Requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 3: Wake-up Radio Operation</i>, IEEE.</div>
   <div class="csl-entry">（2022）：《《庄子》读不懂？看完这一篇“导读”就明白了》。</div>
   <div class="csl-entry">（2023a）：《[《昨日之歌》图书封面]》。</div>
   <div class="csl-entry">（2023b）：《西黄丸》，<a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a>，2025年8月26日。</div>
   <div class="csl-entry">(2024): <i>Coastal Wetlands Map of China Continent</i>, China Ocean Press.</div>
-  <div class="csl-entry">(No date): <i>Explosive Atmospheres — Part 20-2: Material Characteristics — Combustible Dusts Test Methods</i>.</div>
-  <div class="csl-entry">(No date): <i>Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles</i>.</div>
-  <div class="csl-entry"><i>Library of Congress</i>, <a href="https://www.loc.gov/">https://www.loc.gov/</a>, June 12, 2020c.</div>
+  <div class="csl-entry"><i>Library of Congress</i>, <a href="https://www.loc.gov/">https://www.loc.gov/</a>, June 12, 2020.</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

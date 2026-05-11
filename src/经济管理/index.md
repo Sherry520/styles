@@ -59,7 +59,7 @@
   <div class="csl-entry">[17] Anonymous. 最新図書館用語大辞典[M]. 図書館用語辞典編集委員会, ed.. 東京: 柏書房株式会社, 2004: 154.</div>
   <div class="csl-entry">[18] Peebles P. Z. Jr. Probability, Random Variable, and Random Signal Principles[M]. 4 edition. New York: McGraw-Hill, 2001.</div>
   <div class="csl-entry">[19] Anonymous. Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry[M]. Sadock B J, V A Sadock, P Ruiz, et al., eds.. 9 edition. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.</div>
-  <div class="csl-entry">[20] Institute For Art And Architecture and Academy Of Fine Arts Vienna. Wiener Hitze: Architecture and Storytelling in Times of Heat[M]. Zürich: Park Books, 2023: 78.</div>
+  <div class="csl-entry">[20] Institute for Art and Architecture, Academy of Fine Arts Vienna. Wiener Hitze: Architecture and Storytelling in Times of Heat[M]. Zürich: Park Books, 2023: 78.</div>
   <div class="csl-entry">[21] Kinchy A. Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops[M]. Cambridge, Mass.: MIT Press, 2012: 50[2013-07-14].</div>
   <div class="csl-entry">[22] Praetzellis A. Death by Theory: A Tale of Mystery and Archaeological Theory[M]. Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13[2012-07-26].</div>
   <div class="csl-entry">[23] Anonymous. Connecting the Library to the Curriculum[M]. Torres L, F Salisbury, B Yazbeck, et al., eds.. Singapore: Springer Nature, 2021: 97[2025-12-02].</div>
@@ -95,7 +95,7 @@
   <div class="csl-entry">[53] Des Marais D. J., H. Strauss, R. E. Summons, et al. Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment[J]. Nature, 1992, 359: 605–609.</div>
   <div class="csl-entry">[54] Park J.-R. and Y. Tosaka. Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms[J]. Cataloging &#38; Classification Quarterly, 2010, 48(8): 696–715[2013-09-05].</div>
   <div class="csl-entry">[55] Frese K. S., H. A. Katus, and B. Meder. Next-Generation Sequencing: From Understanding Biology to Personalized Medicine[J]. Biology, 2013, 2(1): 378–398[2013-03-19].</div>
-  <div class="csl-entry">[56] Myburg A. A., D. Grattapaglia, G. A. Tuskan, et al. The Genome of <i>Eucalyptus Grandis</i>[J]. Nature, 2014, 510: 356–362[2014-06-25].</div>
+  <div class="csl-entry">[56] Myburg A. A., D. Grattapaglia, G. A. Tuskan, et al. The Genome of <i>Eucalyptus grandis</i>[J]. Nature, 2014, 510: 356–362[2014-06-25].</div>
   <div class="csl-entry">[57] Santer R. D. and O. Akanyeti. Using Artificial Neural Networks to Explain the Attraction of Jewel Beetles (Coleoptera: Buprestidae) to Colored Traps[J]. Insect Science, 2025[2025-02-28].</div>
   <div class="csl-entry">[58] Shinotsuka H., K. Nagata, M. Siriwardana, et al. Sample Structure Prediction from Measured XPS Data Using Bayesian Estimation and SESSA Simulator[J]. Journal of Electron Spectroscopy and Related Phenomena, 2023, 267[2025-02-28].</div>
   <div class="csl-entry">[59] Veen P. H. van der, M. Muller, K. L. Vincken, et al. Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study[J]. Journal of the Neurological Sciences, 2014, 337(1/2): 112–118[2025-12-02].</div>
@@ -115,7 +115,7 @@
   <div class="csl-entry">[73] 金燕萍. 社交媒体时代的虚假信息研究[D]. 温州: 温州大学, 2020: 16[2025-12-02].</div>
   <div class="csl-entry">[74] 何筱梅. 新媒体时代原生广告的策略与发展研究[D]. 武汉: 武汉大学, 2016: 24–25[2025-02-28].</div>
   <div class="csl-entry">[75] 井丽南. 支持状态可编程的SDN交换机关键技术研究[D]. 北京: 中国科学院大学, 2022: 43[2025-12-02].</div>
-  <div class="csl-entry">[76] Cairns B. R. Infrared Spectroscopic Studies on Solid Oxygen[D]. Berkeley: University of California, 1965: 15.</div>
+  <div class="csl-entry">[76] Cairns B. R. Infrared Spectroscopic Studies on Solid Oxygen[D]. Berkeley: University of California, Berkeley, 1965: 15.</div>
   <div class="csl-entry">[77] Christou A. Improving Knowledge Graph Understanding with Contextual Views[D]. Ohio: Wright State University, 2024: 18[2025-02-28].</div>
   <div class="csl-entry">[78] 中国互联网络信息中心. 第29次中国互联网络发展状况统计报告[R]. [2013-03-26].</div>
   <div class="csl-entry">[79] 汤万金, 杨跃翔, 刘文, 等. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013[R]. [2014-06-24].</div>
@@ -123,7 +123,7 @@
   <div class="csl-entry">[81] Calkin D. E., A. A. Ager, and M. P. Thompson. A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report: RMRS-GTR-262[R]. [2025-12-02].</div>
   <div class="csl-entry">[82] U.S. Department of Transportation Federal Highway Administration. Guidelines for Handling Excavated Acid-Producing Material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990: 25.</div>
   <div class="csl-entry">[83] United Nations Department of Economic and Social Affairs. United Nations E-Government Survey 2024: Accelerating Digital Transformation for Sustainable Development[R]. [2025-02-28].</div>
-  <div class="csl-entry">[84] 全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021[S]. .</div>
+  <div class="csl-entry">[84] 全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021[S]. .</div>
   <div class="csl-entry">[85] 全国信息技术标准化技术委员会. 信息技术 先进音视频编码 第16部分：广播电视视频: GB/T 20090.16—2016[S]. .</div>
   <div class="csl-entry">[86] 工业和信息化部. 信息技术  中文编码字符集: GB 18030—2022[S]. [2025-12-02].</div>
   <div class="csl-entry">[87] 国家能源局. 水电工程水温实时监测系统技术规范: NB/T 10386—2020[S]. .</div>
@@ -131,8 +131,8 @@
   <div class="csl-entry">[89] International Electrotechnical Commission (IEC). Software Interface for Maintenance Information Collection and Analysis (SIMICA): Exchanging Test Results and Session Information via the eXtensible Markup Language (XML): IEC/IEEE 61636-1:2021[S]. New York: IEEE, 2021.</div>
   <div class="csl-entry">[90] Anonymous. IEEE Approved Draft Standard for Information Technology--Telecommunications and Information Exchange between Systems Local and Metropolitan Area Networks--Specific Requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 3: Wake-up Radio Operation: IEEE P802.11ba/D8.0-2020[S]. New York: IEEE, 2020.</div>
   <div class="csl-entry">[91] American Institute of Aeronautics and Astronautics (AIAA). Guide to Lithium Battery Safety for Space Applications: AIAA G-136-2022[S]. .</div>
-  <div class="csl-entry">[92] Anonymous. Explosive Atmospheres — Part 20-2: Material Characteristics — Combustible Dusts Test Methods: ISO/IEC 80079-20-2:2016(en)[S]. .</div>
-  <div class="csl-entry">[93] Anonymous. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles: ISO/IEC 80079-20-2:2016(fr)[S]. .</div>
+  <div class="csl-entry">[92] ISO. Explosive Atmospheres — Part 20-2: Material Characteristics — Combustible Dusts Test Methods: ISO/IEC 80079-20-2:2016(en)[S]. .</div>
+  <div class="csl-entry">[93] ISO. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles: ISO/IEC 80079-20-2:2016(fr)[S]. .</div>
   <div class="csl-entry">[94] 邓一刚. 全智能节电器: CN101106276A[P]. 2008-01-16.</div>
   <div class="csl-entry">[95] 张凯军, 赵永杰, 陈朝岗. 轨道火车及高速轨道火车紧急安全制动辅助装置: CN202827616U[P]. 2013-03-27.</div>
   <div class="csl-entry">[96] 李华, 王昊, 康佐. 一种拼接式桥梁模型: CN218214474U[P]. 2023-01-03[2025-02-28].</div>
@@ -172,10 +172,10 @@
   <div class="csl-entry">[130] 刘时银, 郭万钦, 许君利. 中国第二次水川编目科学数据：2006-2011[DS]. 中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室, 2012[2024-11-25].</div>
   <div class="csl-entry">[131] 周壮, 李盛阳, 吴薇, 等. 天宫二号遥感图像自然景物分类数据集[DS]. 国家基础学科公共科学数据中心, 2023(2023-09-10)[2025-07-15].</div>
   <div class="csl-entry">[132] 郑涵, 于贵瑞, 朱先进, 等. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据[DS]. Science Data Bank, 2018[2025-02-14].</div>
-  <div class="csl-entry">[133] 黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[DS]. 国家地理资源科学数据中心-黄土高原分中心, 2024(2024-12-25)[2025-07-10].</div>
+  <div class="csl-entry">[133] 黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[DS]. 国家地球系统科学数据中心-黄土高原分中心, 2024(2024-12-25)[2025-07-10].</div>
   <div class="csl-entry">[134] 王继民, 罗鹏程, 赵常煜, 等. 人文社会科学数据集检索方法研究的数据集[DS]. 北京大学开放研究数据平台, 2025(2025-06-11)[2025-07-10].</div>
   <div class="csl-entry">[135] Sugarman L. and S. Markham. Students in a Selective High School: Some Vocationally Oriented Data[DS]. UK Data Service, 1980[2025-07-10].</div>
-  <div class="csl-entry">[136] Zhong X., Q. Yan, and G. Li. Long Time Series Nighttime Light Dataset of China (2000-2020)[DS]. Global Change Research Data Publishing &#38; Repository, 2022[2024-11-25].</div>
+  <div class="csl-entry">[136] Zhong X., Q. Yan, and G. Li. Long Time Series Nighttime Light Dataset of China: 2000–2020[DS]. Global Change Research Data Publishing &#38; Repository, 2022[2024-11-25].</div>
   <div class="csl-entry">[137] IHME. Global Burden of Disease Study 2019 (GBD2019) Data Resources[DS]. Global Health Data Exchange, 2021[2024-11-25].</div>
   <div class="csl-entry">[138] 方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[EB]. ChinaXiv, 2023(2023-03-03)[2024-09-30].</div>
   <div class="csl-entry">[139] 肖玲, 张雪, 王永. 数据要素的统计测算方法探究[EB]. PSSXiv, 2024(2024-07-02)[2024-09-30].</div>
